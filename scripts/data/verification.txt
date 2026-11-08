@@ -210,7 +210,7 @@ abant-trout|agree|missing|Wikipedia redirects Salmo abanticus to Salmo trutta (n
 shabout|agree|agree|
 pnar-cavefish|missing|agree|Described 2019; FishBase has no country rows yet
 orange-spotted-snakehead|agree|agree|
-blotched-filament-barb|agree|agree|Curated draft said Mahaweli; corrected to the Kalu River per Wikipedia
+blotched-filament-barb|agree|disagree|Corrected 2026-11-07: FishBase restricts it to the eastern slopes of the Knuckles Hills in the Kalu River at Pallegama (300-500 m), a Mahaweli tributary; Wikipedia's 'Kalu River' was taken for the south-western Kalu Ganga
 ganges-shark|conflict|conflict|Wikipedia: Ganges-Brahmaputra, but recent synonymy may extend range to Pakistan, Myanmar, Borneo and Java; FishBase lists MM, MY, TH. Range too uncertain
 sinarapan|agree|agree|
 lanao-barb|agree|agree|

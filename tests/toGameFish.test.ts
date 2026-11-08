@@ -55,13 +55,12 @@ describe('toGameFish', () => {
     expect(fish?.fixture).toBeUndefined();
   });
 
-  it('builds labelled hints: climate, water, depth, size and a fun fact, but never the region', () => {
+  it('builds labelled hints: climate, water, depth and size, but never the region or the biology fun fact', () => {
     expect(toGameFish(record(), 'x')?.hints).toEqual([
       { label: 'Climate', text: 'Temperate, south of the equator' },
       { label: 'Water', text: 'Sea water. Shallow sandy sea floor' },
       { label: 'Depth', text: 'Usually 5 to 10 m down' },
       { label: 'Size', text: 'Up to 12 cm' },
-      { label: 'About', text: 'It walks along the sea floor on fins shaped like hands.' },
     ]);
   });
 

@@ -86,7 +86,6 @@ export function toGameFish(record: unknown, photoSrc: string, thumbSrc = photoSr
     { label: 'Water', text: water && habitat ? `${water}. ${habitat}` : (water ?? habitat) },
     { label: 'Depth', text: text(h.depth) },
     { label: 'Size', text: text(h.size) },
-    { label: 'About', text: text(r.funFact) },
   ].filter((x): x is Hint => x.text !== null);
 
   const country = countryLine(r.range?.countries);

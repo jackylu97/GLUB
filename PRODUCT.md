@@ -38,7 +38,7 @@ A daily browser game. Everyone sees the same photo of a rare fish each day and g
 - Photos must be openly licensed with attribution shown (inferred; data pipeline allows CC0, PDM, CC BY, CC BY-SA only).
 - The photo must remain clearly legible, because it is the only evidence the player has (inferred).
 - Rounds and hints must never leak the location before the answer (inferred).
-- Before the guess, each fish shows labelled hints: climate and hemisphere, fresh or salt water with habitat, depth, size, and a fact (owner asked for more informative hints in round 8; the hint set is inferred). Never the region (owner, round 9). Location clues written as fun facts are under consideration (round 9).
+- Before the guess, each fish shows labelled hints: a location clue first, then climate and hemisphere, fresh or salt water with habitat, depth and size. Never the region (owner, round 9). The clue is a sourced, playful fact about the place that never names it (owner approved in round 10); it replaced the biology fun fact before the guess so the screen still fits. Clues live in `data/clues.json` with sources and verbatim evidence; aim for medium difficulty, and keep them cheerful (no death tolls).
 - Undecided: monetisation.
 
 ## Brand Commitments

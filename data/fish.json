@@ -12886,27 +12886,27 @@
     ],
     "region": "South Asia",
     "range": {
-      "summary": "The Kalu River basin, south-western Sri Lanka",
+      "summary": "Eastern slopes of the Knuckles Hills, in the Kalu River at Pallegama, central Sri Lanka (300–500 m)",
       "countries": [
         "LK"
       ],
       "waterBodies": [
-        "Kalu River"
+        "Kalu River at Pallegama"
       ],
       "method": "anchors",
       "cells": [],
       "anchors": [
         {
-          "lat": 6.65,
-          "lng": 80.4,
-          "radiusKm": 35.0
+          "lat": 7.45,
+          "lng": 80.8,
+          "radiusKm": 20.0
         }
       ],
       "bbox": [
-        80.083,
-        6.335,
-        80.717,
-        6.965
+        80.618,
+        7.27,
+        80.982,
+        7.63
       ],
       "crossesAntimeridian": false,
       "filterBbox": [
@@ -12919,8 +12919,8 @@
       "gbifOccurrencesKept": 0,
       "verification": {
         "fishbase": "agree",
-        "wikipedia": "agree",
-        "notes": "FishBase native/endemic: LK | Curated draft said Mahaweli; corrected to the Kalu River per Wikipedia"
+        "wikipedia": "disagree",
+        "notes": "Corrected 2026-11-07: FishBase restricts it to the eastern slopes of the Knuckles Hills in the Kalu River at Pallegama (300-500 m), a Mahaweli tributary; Wikipedia's 'Kalu River' was taken for the south-western Kalu Ganga"
       }
     },
     "photo": {
@@ -12937,7 +12937,7 @@
       "author": "Hiranya Sudasinghe"
     },
     "funFact": "Each of these barbs stakes out a territory several square metres wide, yet fish of the same size still hang out together in loose schools.",
-    "revealFact": "The blotched filament barb lives only in the Kalu River basin of south-western Sri Lanka, where tailings from upstream mines push it toward extinction. It has recently been bred at the Dehiwala Zoological Gardens.",
+    "revealFact": "The blotched filament barb lives only on the eastern slopes of the Knuckles Hills in central Sri Lanka, in the Kalu River at Pallegama, where tailings from upstream mines push it toward extinction. It has recently been bred at the Dehiwala Zoological Gardens.",
     "factSources": [
       "https://en.wikipedia.org/wiki/Dawkinsia_srilankensis",
       "https://www.fishbase.se/summary/6146"
