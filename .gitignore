@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.superpowers/
+public/data/
+public/geo/
+.impeccable/review/
+data/.cache/
+scripts/data/__pycache__/
+.DS_Store
+*.log
+.env*
+.impeccable/hook.cache.json

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Glub tabloid, phone, answer</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Chango&family=Grandstander:ital,wght@0,500;0,700;0,800;1,500&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#14110F;color:#FFC93C}
+a{color:#14110F}a:hover{color:#9A2B12}
+.cond{font-family:'Big Shoulders Display',sans-serif;text-transform:uppercase}
+.mast{font-family:Chango,sans-serif;color:#FFF6DF;-webkit-text-stroke:6px #14110F;paint-order:stroke fill;line-height:.8}
+.scallop{background:radial-gradient(circle at 9px 0,#F2643D 0 6px,#14110F 6px 8.5px,transparent 9px) 0 0/18px 10px repeat-x}
+.reveal{animation:reveal .6s cubic-bezier(.16,1,.3,1) both}
+@keyframes reveal{from{opacity:0;transform:translateY(10px)}}
+@media (prefers-reduced-motion:reduce){.reveal{animation:none}}
+.btn:focus-visible{outline:4px solid #0A5F5C;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#FFC93C;font-family:Grandstander,sans-serif;color:#14110F">
+  <div style="position:absolute;left:0;top:0;width:390px;height:92px;background:#F2643D;border-bottom:4px solid #14110F"></div>
+  <div class="scallop" style="position:absolute;left:0;top:96px;width:390px;height:10px"></div>
+  <div class="mast" style="position:absolute;left:14px;top:18px;font-size:70px">GLUB</div>
+  <div class="cond" style="position:absolute;right:16px;top:22px;text-align:right;line-height:.95"><div style="font-size:34px;font-weight:900">No. 001</div><div style="font-size:13px;font-weight:700;letter-spacing:.06em">Sat 7 Nov</div></div>
+
+  <h1 class="reveal" style="position:absolute;left:16px;top:122px;margin:0;font-family:Chango,sans-serif;font-weight:400;font-size:44px;line-height:.9;letter-spacing:-.03em;white-space:nowrap">TASMANIA!</h1>
+  <div style="position:absolute;left:16px;top:170px;background:#14110F;color:#FFC93C;padding:4px 10px;font-family:Chango,sans-serif;font-size:14px;line-height:1.2">HOME ON CAST 3</div>
+
+  <div style="position:absolute;left:16px;top:206px;width:358px;height:224px;border:4px solid #14110F;box-sizing:border-box;overflow:hidden">
+    <img src="/_blob/7923d6906f20e34e5c83a7cef75005b3" alt="Tasman Sea chart. Home is circled in southeast Tasmania; casts 1 and 2 sit near Christchurch and Melbourne." style="position:absolute;left:-4px;top:-99px;width:358px;height:358px;max-width:none">
+    <svg aria-hidden="true" width="350" height="216" viewBox="0 0 350 216" style="position:absolute;left:0;top:0">
+      <path d="M291 93L59 86M37 24L59 86" fill="none" stroke="#14110F" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"></path>
+      <circle cx="59" cy="86" r="14" fill="#F2643D" stroke="#14110F" stroke-width="3.5"></circle>
+      <rect x="284" y="86" width="14" height="14" transform="rotate(45 291 93)" fill="#FFF6DF" stroke="#14110F" stroke-width="3"></rect>
+      <rect x="30" y="17" width="14" height="14" transform="rotate(45 37 24)" fill="#FFF6DF" stroke="#14110F" stroke-width="3"></rect>
+    </svg>
+  </div>
+
+  <section style="position:absolute;left:16px;top:444px;width:358px">
+    <div style="display:flex;justify-content:space-between;align-items:baseline;gap:8px">
+      <div style="font-family:Chango,sans-serif;font-size:23px;line-height:1.1">Spotted handfish</div>
+      <span class="cond" style="flex:none;background:#14110F;color:#FFC93C;padding:0 7px;font-size:15px;font-weight:900;letter-spacing:.06em">CR</span>
+    </div>
+    <div style="font-style:italic;font-size:13px">Brachionichthys hirsutus</div>
+    <p style="margin:6px 0 0;font-size:15px;font-weight:700;line-height:1.3">Derwent estuary only. Critically endangered.</p>
+  </section>
+
+  <ol aria-label="Your casts" class="cond" style="position:absolute;left:16px;top:540px;width:358px;margin:0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px">
+    <li style="border-top:5px solid #14110F;padding-top:4px"><div style="font-size:12px;font-weight:700;letter-spacing:.08em">Cast 1</div><div style="font-size:30px;font-weight:900;line-height:1;font-variant-numeric:tabular-nums">2,043</div></li>
+    <li style="border-top:5px solid #14110F;padding-top:4px"><div style="font-size:12px;font-weight:700;letter-spacing:.08em">Cast 2</div><div style="font-size:30px;font-weight:900;line-height:1;font-variant-numeric:tabular-nums">606</div></li>
+    <li style="border-top:5px solid #F2643D;padding-top:4px"><div style="font-size:12px;font-weight:700;letter-spacing:.08em;color:#9A2B12">Cast 3</div><div style="font-size:30px;font-weight:900;line-height:1">Home</div></li>
+  </ol>
+
+  <div class="cond" style="position:absolute;left:16px;top:620px;width:358px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));text-align:center;border-top:2px solid #14110F;border-bottom:2px solid #14110F;padding:5px 0">
+    <div><div style="font-size:26px;font-weight:900;line-height:1">12</div><div style="font-size:12px;font-weight:700;letter-spacing:.06em">Played</div></div>
+    <div><div style="font-size:26px;font-weight:900;line-height:1">83%</div><div style="font-size:12px;font-weight:700;letter-spacing:.06em">Home</div></div>
+    <div><div style="font-size:26px;font-weight:900;line-height:1">5</div><div style="font-size:12px;font-weight:700;letter-spacing:.06em">Streak</div></div>
+    <div><div style="font-size:26px;font-weight:900;line-height:1">7</div><div style="font-size:12px;font-weight:700;letter-spacing:.06em">Best</div></div>
+  </div>
+
+  <button class="btn" type="button" style="position:absolute;left:16px;top:696px;width:358px;height:84px;background:#14110F;border:0;border-bottom:9px solid #F2643D;border-radius:4px;font-family:Chango,sans-serif;font-size:32px;color:#FFC93C;cursor:pointer">SHARE</button>
+  <p style="position:absolute;left:16px;top:794px;width:358px;margin:0;display:flex;justify-content:space-between;font-size:12px;line-height:1.4"><span>Photo: Barry Bruce, CSIRO, CC BY 3.0</span><span class="cond" style="font-size:14px;font-weight:900;letter-spacing:.04em">Next fish 07:12:03</span></p>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

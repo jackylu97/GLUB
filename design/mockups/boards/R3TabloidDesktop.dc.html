@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Glub tabloid, desktop, cast 2</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Chango&family=Grandstander:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#14110F;color:#FFC93C}
+a{color:#14110F}a:hover{color:#9A2B12}
+.cond{font-family:'Big Shoulders Display',sans-serif;text-transform:uppercase}
+.mast{font-family:Chango,sans-serif;color:#FFF6DF;-webkit-text-stroke:8px #14110F;paint-order:stroke fill;line-height:.8}
+.scallop{background:radial-gradient(circle at 12px 0,#F2643D 0 9px,#14110F 9px 12px,transparent 12.5px) 0 0/24px 14px repeat-x}
+.cast{cursor:pointer;transition:transform .2s cubic-bezier(.16,1,.3,1)}
+.cast:hover{transform:translateY(-2px)}
+.cast:active{transform:translateY(4px)}
+.cast:focus-visible{outline:4px solid #0A5F5C;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:1280px;height:800px;position:relative;overflow:hidden;background:#FFC93C;font-family:Grandstander,sans-serif;color:#14110F">
+  <div style="position:absolute;left:0;top:0;width:1280px;height:150px;background:#F2643D;border-bottom:5px solid #14110F"></div>
+  <div class="scallop" style="position:absolute;left:0;top:155px;width:1280px;height:14px"></div>
+  <div class="mast" style="position:absolute;left:28px;top:22px;font-size:146px">GLUB</div>
+  <div class="cond" style="position:absolute;right:32px;top:30px;text-align:right;line-height:.95">
+    <div style="font-size:64px;font-weight:900">No. 001</div>
+    <div style="font-size:22px;font-weight:700;letter-spacing:.08em">Saturday 7 November</div>
+  </div>
+
+  <h1 style="position:absolute;left:32px;top:190px;width:600px;margin:0;font-family:Chango,sans-serif;font-weight:400;font-size:84px;line-height:.9;letter-spacing:-.02em;white-space:nowrap">IT WALKS.</h1>
+  <div style="position:absolute;left:32px;top:282px;background:#14110F;color:#FFC93C;padding:6px 14px;font-family:Chango,sans-serif;font-size:24px;line-height:1.15">SALT WATER. 5&#8211;10 M DOWN.</div>
+  <figure style="position:absolute;left:32px;top:336px;width:588px;margin:0">
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:588px;height:340px;object-fit:cover;border:4px solid #14110F;box-sizing:border-box">
+    <figcaption style="display:flex;justify-content:space-between;margin-top:6px;font-size:14px;font-weight:700"><span>Clue 3 drops if cast 2 misses.</span><a href="#credit" style="font-weight:500">Photo credit (spoiler)</a></figcaption>
+  </figure>
+
+  <div style="position:absolute;left:652px;top:190px;width:596px;height:316px;border:4px solid #14110F;box-sizing:border-box;background:#FFC93C">
+    <img src="/_blob/5ecc4f5ed4bfe6eddddb41f5a947f3df" alt="World chart: coral halftone land, ruled lines of latitude and longitude" style="position:absolute;left:0;top:2px;width:588px;height:306px">
+    <div style="position:absolute;left:527px;top:223px;width:20px;height:20px;border:3px solid #14110F;transform:rotate(45deg);box-sizing:border-box;background:#FFF6DF" aria-label="Cast 1, missed"></div>
+    <div style="position:absolute;left:485px;top:206px;width:34px;height:34px;border-radius:50%;border:4px solid #14110F;box-sizing:border-box;background:rgba(242,100,61,.6)" aria-label="Pin 2, near Melbourne"></div>
+  </div>
+
+  <ol aria-label="Your casts" class="cond" style="position:absolute;left:652px;top:526px;width:596px;margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:14px;align-items:start">
+    <li style="border-top:6px solid #14110F;padding-top:6px"><div style="font-size:16px;font-weight:700;letter-spacing:.1em">Cast 1</div><div style="font-size:62px;font-weight:900;line-height:.9;font-variant-numeric:tabular-nums">2,043<span style="font-size:24px"> km</span></div><div style="font-size:20px;font-weight:900;letter-spacing:.06em">Go west</div></li>
+    <li style="border-top:6px solid #F2643D;padding-top:6px"><div style="font-size:16px;font-weight:700;letter-spacing:.1em;color:#9A2B12">Cast 2</div><div style="font-size:30px;font-weight:900;line-height:1">Pin set</div><div style="font-size:16px;font-weight:700">37.8&#176;S 145.0&#176;E</div></li>
+    <li style="border-top:6px dashed #8C7A44;padding-top:6px;color:#5C4A12"><div style="font-size:16px;font-weight:700;letter-spacing:.1em">Cast 3</div><div style="font-size:30px;font-weight:900;line-height:1">&#8212;</div><div style="font-size:16px">&#160;</div></li>
+  </ol>
+
+  <button class="cast" type="button" style="position:absolute;left:652px;top:664px;width:596px;height:104px;background:#14110F;border:0;border-bottom:10px solid #F2643D;border-radius:4px;font-family:Chango,sans-serif;font-size:50px;color:#FFC93C">CAST No.2</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1280,"height":800}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

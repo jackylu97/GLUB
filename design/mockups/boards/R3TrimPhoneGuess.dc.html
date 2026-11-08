@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Glub front page, phone, cast 2</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Chango&family=Grandstander:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#14110F;color:#FFC93C}
+a{color:#14110F}
+.mast{position:relative;font-family:Chango,sans-serif;color:#14110F;line-height:.8}
+.mast::before{content:attr(data-t);position:absolute;left:4px;top:3px;color:#F2643D;mix-blend-mode:multiply;z-index:-1}
+.cond{font-family:'Big Shoulders Display',sans-serif;text-transform:uppercase}
+.cast:focus-visible{outline:4px solid #0A5F5C;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#FFC93C;font-family:Grandstander,sans-serif;color:#14110F;isolation:isolate">
+  <div class="mast" data-t="GLUB" style="position:absolute;left:14px;top:20px;font-size:100px;letter-spacing:-.02em">GLUB</div>
+  <div class="cond" style="position:absolute;left:0;top:110px;width:390px;height:26px;background:#14110F;color:#FFC93C;display:flex;justify-content:space-between;align-items:center;padding:0 16px;box-sizing:border-box;font-size:14px;font-weight:900;letter-spacing:.08em"><span>No. 001 &#183; Sat 7 Nov 2026</span><span style="color:#F2643D">Cast 2 of 3</span></div>
+
+  <h1 style="position:absolute;left:16px;top:148px;width:358px;margin:0;font-family:Chango,sans-serif;font-weight:400;font-size:25px;line-height:1">Fish found walking.</h1>
+  <figure style="position:absolute;left:16px;top:184px;width:358px;margin:0">
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:358px;height:198px;object-fit:cover;border:3px solid #14110F;box-sizing:border-box">
+    <figcaption style="display:flex;justify-content:space-between;font-size:12px;font-weight:700;margin-top:4px"><span>Where does it live?</span><a href="#credit" style="font-weight:500">Photo credit (spoiler)</a></figcaption>
+  </figure>
+
+  <ol aria-label="Clues" style="position:absolute;left:16px;top:414px;width:358px;margin:0;padding:6px 0 0;list-style:none;border-top:3px solid #14110F;display:flex;flex-direction:column;gap:3px;font-size:14px;line-height:1.3">
+    <li style="display:flex;gap:10px"><span style="font-family:Chango,sans-serif;font-size:12px;width:14px">1</span>Walks on its hands.</li>
+    <li style="display:flex;gap:10px;font-weight:800"><span style="font-family:Chango,sans-serif;font-size:12px;width:14px;color:#9A2B12">2</span>Salt water, 5 to 10 metres down.</li>
+    <li style="display:flex;gap:10px;color:#5C4A12"><span style="font-family:Chango,sans-serif;font-size:12px;width:14px">3</span>Unlocks if cast 2 misses.</li>
+  </ol>
+
+  <table aria-label="Tide table" style="position:absolute;left:16px;top:492px;width:358px;border-collapse:collapse;font-variant-numeric:tabular-nums">
+    <tbody>
+      <tr style="border-top:3px solid #14110F;border-bottom:2px solid #14110F"><td style="font-family:Chango,sans-serif;font-size:13px;width:24px;padding:3px 0">1</td><td class="cond" style="font-size:24px;font-weight:900;line-height:1">2,043 km</td><td class="cond" style="font-size:16px;font-weight:900;text-align:right">West</td></tr>
+      <tr style="border-bottom:3px solid #14110F;background:#F2643D"><td style="font-family:Chango,sans-serif;font-size:13px;padding:4px 0 4px 4px">2</td><td class="cond" style="font-size:15px;font-weight:700" colspan="2">Pin set, ready to cast</td></tr>
+    </tbody>
+  </table>
+
+  <section style="position:absolute;left:16px;top:566px;width:358px">
+    <div class="cond" style="display:flex;justify-content:space-between;background:#14110F;color:#FFC93C;padding:2px 8px;font-size:16px;font-weight:900;letter-spacing:.08em"><span>Chart of the day</span><span style="font-size:12px;font-weight:700;letter-spacing:.06em;line-height:20px">Pinch to zoom</span></div>
+    <div style="position:relative;width:358px;height:160px;border:3px solid #14110F;border-top:0;box-sizing:border-box;overflow:hidden">
+      <img src="/_blob/5ecc4f5ed4bfe6eddddb41f5a947f3df" alt="World chart, zoomed in on Australia and New Zealand" style="position:absolute;left:-764px;top:-335px;width:1100px;height:572px;max-width:none">
+      <div style="position:absolute;left:230px;top:88px;width:18px;height:18px;border:3px solid #14110F;transform:rotate(45deg);box-sizing:border-box;background:#FFC93C" aria-label="Cast 1, missed"></div>
+      <div style="position:absolute;left:159px;top:61px;width:34px;height:34px;border-radius:50%;border:4px solid #14110F;box-sizing:border-box;background:rgba(242,100,61,.55)" aria-label="Pin 2, near Melbourne"></div>
+      <div style="position:absolute;left:175px;top:40px;width:2px;height:76px;background:#14110F"></div>
+      <div style="position:absolute;left:136px;top:77px;width:80px;height:2px;background:#14110F"></div>
+    </div>
+  </section>
+
+  <button class="cast" type="button" style="position:absolute;left:16px;top:752px;width:358px;height:76px;background:#FFF6DF;border:3px dashed #14110F;border-radius:6px;font-family:Grandstander,sans-serif;color:#14110F;padding:6px 14px;box-sizing:border-box;display:flex;align-items:center;justify-content:space-between;cursor:pointer">
+    <span style="font-family:Chango,sans-serif;font-size:31px;line-height:1;color:#9A2B12;white-space:nowrap">Cast No.2</span>
+    <span class="cond" style="font-size:14px;font-weight:700;letter-spacing:.04em;text-align:right;line-height:1.2">37.8&#176;S<br>145.0&#176;E</span>
+  </button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

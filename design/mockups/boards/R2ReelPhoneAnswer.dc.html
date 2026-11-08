@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Plaice Reel, phone, answer</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Chango&family=Grandstander:ital,wght@0,500;0,700;0,800;1,500&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#FFC93C;color:#14110F}
+a{color:#FFC93C}a:hover{color:#FFF6DF}
+.scallop{background:radial-gradient(circle at 10px 0,#F2643D 0 7px,#14110F 7px 9.5px,transparent 10px) 0 0/20px 12px repeat-x}
+.iris{animation:iris 1.1s cubic-bezier(.16,1,.3,1) both}
+@keyframes iris{from{clip-path:circle(0% at 17% 52%)}to{clip-path:circle(50% at 50% 50%)}}
+@media (prefers-reduced-motion:reduce){.iris{animation:none}}
+button:focus-visible,a:focus-visible{outline:4px solid #FFF6DF;outline-offset:3px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#0A5F5C;font-family:Grandstander,sans-serif;color:#FFF6DF">
+  <header style="position:absolute;left:0;top:0;width:390px;height:56px;background:#14110F;display:flex;align-items:center;justify-content:center">
+    <div style="font-family:Chango,sans-serif;font-size:27px;color:#FFC93C;line-height:1">Plaice</div>
+    <button type="button" aria-label="Close" style="position:absolute;right:6px;top:6px;width:44px;height:44px;background:none;border:0;color:#FFF6DF;padding:12px"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"></path></svg></button>
+  </header>
+  <div class="scallop" style="position:absolute;left:0;top:56px;width:390px;height:12px"></div>
+
+  <div class="iris" style="position:absolute;left:16px;top:84px;width:176px;height:176px;border-radius:50%;overflow:hidden;border:4px solid #14110F">
+    <img src="/_blob/d9f7d2044b57f9295bb7f9070086a1e4" alt="Tasman Sea close-up. Home is circled in southeast Tasmania; casts 1 and 2 sit near Christchurch and Melbourne." style="position:absolute;left:-4px;top:-4px;width:176px;height:176px">
+    <svg aria-hidden="true" width="176" height="176" viewBox="0 0 176 176" style="position:absolute;left:-4px;top:-4px">
+      <path d="M145 94L31 91M20 60L31 91" fill="none" stroke="#FFF6DF" stroke-width="2.5" stroke-dasharray="3 5" stroke-linecap="round"></path>
+      <circle cx="31" cy="91" r="10" fill="#F2643D" stroke="#14110F" stroke-width="3"></circle>
+      <circle cx="145" cy="94" r="8" fill="#14110F" stroke="#FFF6DF" stroke-width="2"></circle>
+      <circle cx="20" cy="60" r="8" fill="#14110F" stroke="#FFF6DF" stroke-width="2"></circle>
+    </svg>
+  </div>
+  <div style="position:absolute;left:208px;top:96px;width:166px">
+    <div style="font-family:Chango,sans-serif;font-size:35px;line-height:.95;color:#FFC93C">Home!</div>
+    <p style="margin:10px 0 0;font-size:16px;font-weight:700;line-height:1.25">On cast 3. That's a <span style="color:#FFC93C">Whopper</span>.</p>
+    <p style="margin:8px 0 0;font-size:14px;font-weight:500;line-height:1.3;color:#CFE7E4">Derwent estuary, Tasmania, Australia</p>
+  </div>
+
+  <ol aria-label="Your casts" style="position:absolute;left:16px;top:278px;width:358px;margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:5px;font-size:15px;font-weight:700">
+    <li style="height:34px;display:grid;grid-template-columns:30px 1fr 54px 80px;align-items:center;background:#14110F;border-radius:8px;padding-right:6px"><span style="font-family:Chango,sans-serif;text-align:center;color:#FFC93C;font-size:13px">1</span><span style="font-variant-numeric:tabular-nums">2,043 km</span><span>W</span><span style="justify-self:end;background:#FFF6DF;color:#14110F;border-radius:10px;padding:1px 9px;font-size:12px;font-weight:800">Minnow</span></li>
+    <li style="height:34px;display:grid;grid-template-columns:30px 1fr 54px 80px;align-items:center;background:#14110F;border-radius:8px;padding-right:6px"><span style="font-family:Chango,sans-serif;text-align:center;color:#FFC93C;font-size:13px">2</span><span style="font-variant-numeric:tabular-nums">606 km</span><span>SSE</span><span style="justify-self:end;background:#FFF6DF;color:#14110F;border-radius:10px;padding:1px 9px;font-size:12px;font-weight:800">Keeper</span></li>
+    <li style="height:34px;display:grid;grid-template-columns:30px 1fr 80px;align-items:center;background:#FFC93C;color:#14110F;border-radius:8px;padding-right:6px"><span style="font-family:Chango,sans-serif;text-align:center;font-size:13px">3</span><span>In the range</span><span style="justify-self:end;background:#14110F;color:#FFC93C;border-radius:10px;padding:1px 9px;font-size:12px;font-weight:800">Whopper</span></li>
+  </ol>
+
+  <section style="position:absolute;left:16px;top:404px;width:358px;box-sizing:border-box;background:#FFF6DF;color:#14110F;border-radius:14px;padding:12px 14px">
+    <h1 style="margin:0;font-family:Chango,sans-serif;font-size:20px;color:#B5371A">Spotted handfish</h1>
+    <div style="display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center;margin-top:2px"><span style="font-style:italic;font-size:13px">Brachionichthys hirsutus</span><span style="border:2px solid #14110F;border-radius:6px;padding:0 6px;font-size:11px;font-weight:800;letter-spacing:.06em">CR &#183; CRITICALLY ENDANGERED</span></div>
+    <p style="margin:6px 0 0;font-size:14px;font-weight:500;line-height:1.3">The first marine fish ever listed as critically endangered (1996). Up to 12 cm long. <a href="#meet" style="color:#B5371A;font-weight:800">Meet the fish</a></p>
+  </section>
+
+  <section aria-label="Your stats" style="position:absolute;left:16px;top:550px;width:358px">
+    <div style="display:grid;grid-template-columns:repeat(4,minmax(0,1fr));text-align:center">
+      <div><div style="font-family:Chango,sans-serif;font-size:22px">12</div><div style="font-size:12px;font-weight:700;color:#CFE7E4">Played</div></div>
+      <div><div style="font-family:Chango,sans-serif;font-size:22px">83</div><div style="font-size:12px;font-weight:700;color:#CFE7E4">Home %</div></div>
+      <div><div style="font-family:Chango,sans-serif;font-size:22px">5</div><div style="font-size:12px;font-weight:700;color:#CFE7E4">Streak</div></div>
+      <div><div style="font-family:Chango,sans-serif;font-size:22px">7</div><div style="font-size:12px;font-weight:700;color:#CFE7E4">Best streak</div></div>
+    </div>
+    <ol aria-label="Catch sizes so far" style="margin:12px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:4px;font-size:12px;font-weight:800">
+      <li style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:6px"><span>Whopper</span><span style="width:100%;background:#FFC93C;color:#14110F;border-radius:4px;padding:1px 6px;box-sizing:border-box;text-align:right">5</span></li>
+      <li style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:6px"><span>Prize</span><span style="width:55%;background:#14110F;border-radius:4px;padding:1px 6px;box-sizing:border-box;text-align:right">3</span></li>
+      <li style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:6px"><span>Keeper</span><span style="width:40%;background:#14110F;border-radius:4px;padding:1px 6px;box-sizing:border-box;text-align:right">2</span></li>
+      <li style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:6px"><span>Minnow</span><span style="width:22%;background:#14110F;border-radius:4px;padding:1px 6px;box-sizing:border-box;text-align:right">1</span></li>
+      <li style="display:grid;grid-template-columns:70px 1fr;align-items:center;gap:6px"><span>Old boot</span><span style="width:22%;background:#14110F;border-radius:4px;padding:1px 6px;box-sizing:border-box;text-align:right">1</span></li>
+    </ol>
+  </section>
+
+  <div style="position:absolute;left:16px;top:722px;width:358px;display:flex;gap:12px;align-items:center">
+    <div style="flex:1">
+      <div style="font-size:12px;font-weight:700;color:#CFE7E4">Next fish in</div>
+      <div style="font-family:Chango,sans-serif;font-size:24px;font-variant-numeric:tabular-nums">07:12:03</div>
+    </div>
+    <button type="button" style="flex:1.3;height:64px;background:#F2643D;border:4px solid #14110F;border-bottom-width:11px;border-radius:20px;font-family:Chango,sans-serif;font-size:22px;color:#14110F;cursor:pointer">Share</button>
+  </div>
+  <p style="position:absolute;left:16px;top:810px;width:358px;margin:0;font-size:12px;color:#CFE7E4">Photo: Barry Bruce, CSIRO, CC BY 3.0</p>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

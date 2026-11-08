@@ -1,0 +1,702 @@
+# Wide screening pool (name | common | region code | water F/M/B)
+# Stage 0 of the pipeline: names here are hand-picked from memory and are UNVERIFIED until
+# 01_prescreen.py checks them against GBIF/IUCN and photo availability.
+# Region codes: NA MCC SAM EUR AFR MAD MEC SAS SEA EAS ANZ PAC RAI
+# --- North America
+Cyprinodon diabolis|Devils Hole pupfish|NA|F
+Speoplatyrhinus poulsoni|Alabama cavefish|NA|F
+Stereolepis gigas|Giant sea bass|NA|M
+Chasmistes cujus|Cui-ui|NA|F
+Deltistes luxatus|Lost River sucker|NA|F
+Xyrauchen texanus|Razorback sucker|NA|F
+Gila cypha|Humpback chub|NA|F
+Gila elegans|Bonytail chub|NA|F
+Ptychocheilus lucius|Colorado pikeminnow|NA|F
+Scaphirhynchus suttkusi|Alabama sturgeon|NA|F
+Scaphirhynchus albus|Pallid sturgeon|NA|F
+Polyodon spathula|American paddlefish|NA|F
+Etheostoma osburni|Candy darter|NA|F
+Etheostoma okaloosae|Okaloosa darter|NA|F
+Etheostoma fonticola|Fountain darter|NA|F
+Etheostoma nuchale|Watercress darter|NA|F
+Etheostoma wapiti|Boulder darter|NA|F
+Crystallaria cincotta|Diamond darter|NA|F
+Percina tanasi|Snail darter|NA|F
+Percina rex|Roanoke logperch|NA|F
+Oncorhynchus aguabonita|California golden trout|NA|F
+Oncorhynchus apache|Apache trout|NA|F
+Oncorhynchus gilae|Gila trout|NA|F
+Elassoma alabamae|Spring pygmy sunfish|NA|F
+Hypomesus transpacificus|Delta smelt|NA|F
+Moapa coriacea|Moapa dace|NA|F
+Moxostoma hubbsi|Copper redhorse|NA|F
+Coregonus huntsmani|Atlantic whitefish|NA|F
+Satan eurystomus|Widemouth blindcat|NA|F
+Trogloglanis pattersoni|Toothless blindcat|NA|F
+Fundulus julisia|Barrens topminnow|NA|F
+Eucyclogobius newberryi|Tidewater goby|NA|B
+Troglichthys rosae|Ozark cavefish|NA|F
+Amblyopsis spelaea|Northern cavefish|NA|F
+Cyprinodon elegans|Comanche Springs pupfish|NA|F
+Cyprinodon bovinus|Leon Springs pupfish|NA|F
+Cyprinodon macularius|Desert pupfish|NA|F
+Noturus baileyi|Smoky madtom|NA|F
+Noturus flavipinnis|Yellowfin madtom|NA|F
+Entosphenus macrostomus|Vancouver lamprey|NA|F
+Plagopterus argentissimus|Woundfin|NA|F
+Meda fulgida|Spikedace|NA|F
+Tiaroga cobitis|Loach minnow|NA|F
+Siphateles mohavensis|Mohave tui chub|NA|F
+Empetrichthys latos|Pahrump poolfish|NA|F
+Sebastes levis|Cowcod|NA|M
+Sebastes paucispinis|Bocaccio|NA|M
+Menidia extensa|Waccamaw silverside|NA|F
+Notropis mekistocholas|Cape Fear shiner|NA|F
+Chrosomus cumberlandensis|Blackside dace|NA|F
+Micropterus cataractae|Shoal bass|NA|F
+# --- Mexico / Central America / Caribbean
+Zoogoneticus tequila|Tequila splitfin|MCC|F
+Totoaba macdonaldi|Totoaba|MCC|M
+Atractosteus tristoechus|Cuban gar|MCC|F
+Lucifuga dentata|Cuban cave cusk|MCC|F
+Lucifuga subterranea|Cuban cusk-eel|MCC|F
+Lucifuga spelaeotes|Bahamas cavefish|MCC|B
+Ameca splendens|Butterfly splitfin|MCC|F
+Skiffia francesae|Golden skiffia|MCC|F
+Skiffia multipunctata|Spotted skiffia|MCC|F
+Allotoca maculata|Opal allotoca|MCC|F
+Allotoca dugesii|Bumblebee allotoca|MCC|F
+Allotoca goslinei|Banded allotoca|MCC|F
+Characodon audax|Bold characodon|MCC|F
+Characodon lateralis|Rainbow characodon|MCC|F
+Xenoophorus captivus|Relict splitfin|MCC|F
+Ataeniobius toweri|Bluetail goodea|MCC|F
+Hubbsina turneri|Highland splitfin|MCC|F
+Xiphophorus couchianus|Monterrey platyfish|MCC|F
+Xiphophorus gordoni|Northern platyfish|MCC|F
+Xiphophorus meyeri|Marbled swordtail|MCC|F
+Cyprinodon longidorsalis|La Palma pupfish|MCC|F
+Megupsilon aporus|Catarina pupfish|MCC|F
+Cyprinodon alvarezi|Potosi pupfish|MCC|F
+Typhlias pearsei|Blind brotula|MCC|F
+Ogilbia pearsei|Blind brotula|MCC|F
+Ophisternon infernale|Blind swamp eel|MCC|F
+Prietella phreatophila|Mexican blindcat|MCC|F
+Herichthys minckleyi|Minckley's cichlid|MCC|F
+Herichthys bartoni|Barton's cichlid|MCC|F
+Herichthys labridens|Curve-bar cichlid|MCC|F
+Holacanthus clarionensis|Clarion angelfish|MCC|M
+Sanopus splendidus|Splendid toadfish|MCC|M
+Mycteroperca jordani|Gulf grouper|MCC|M
+Epinephelus striatus|Nassau grouper|MCC|M
+Scarus guacamaia|Rainbow parrotfish|MCC|M
+Amphilophus zaliosus|Arrow cichlid|MCC|F
+Limia sulphurophila|Sulphur limia|MCC|F
+Limia nigrofasciata|Humpbacked limia|MCC|F
+Limia perugiae|Perugia's limia|MCC|F
+Chirostoma estor|Pike silverside|MCC|F
+Poblana alchichica|Alchichica silverside|MCC|B
+Hypoplectrus maya|Maya hamlet|MCC|M
+Poecilia sulphuraria|Sulphur molly|MCC|F
+Cynoscion othonopterus|Gulf corvina|MCC|M
+Nandopsis haitiensis|Haitian cichlid|MCC|F
+Nandopsis ramsdeni|Ramsden's cichlid|MCC|F
+Cubanichthys pengelleyi|Jamaican killifish|MCC|F
+Hippocampus erectus|Lined seahorse|MCC|M
+Stegastes redemptus|Clarion damselfish|MCC|M
+# --- South America
+Hypancistrus zebra|Zebra pleco|SAM|F
+Gymnocharacinus bergii|Naked characin|SAM|F
+Orestias ispi|Ispi|SAM|F
+Orestias agassizii|Agassiz's orestias|SAM|F
+Orestias ascotanensis|Ascotan orestias|SAM|F
+Orestias chungarensis|Chungara orestias|SAM|F
+Orestias olivaceus|Olive orestias|SAM|F
+Orestias albus|White orestias|SAM|F
+Orestias luteus|Yellow Titicaca orestias|SAM|F
+Stygichthys typhlops|Brazilian blind characid|SAM|F
+Pimelodella kronei|Blind Iporanga catfish|SAM|F
+Trichomycterus itacarambiensis|Itacarambi cave catfish|SAM|F
+Potamotrygon leopoldi|White-blotched river stingray|SAM|F
+Potamotrygon albimaculata|Tapajos river stingray|SAM|F
+Hypsolebias magnificus|Magnificent pearlfish|SAM|F
+Austrolebias cinereus|Ashy pearlfish|SAM|F
+Austrolebias nigrofasciatus|Black-banded pearlfish|SAM|F
+Austrolebias charrua|Charrua pearlfish|SAM|F
+Austrolebias wolterstorffi|Wolterstorff's pearlfish|SAM|F
+Diplomystes nahuelbutaensis|Nahuelbuta velvet catfish|SAM|F
+Diplomystes camposensis|Campos velvet catfish|SAM|F
+Diplomystes chilensis|Chilean velvet catfish|SAM|F
+Steindachneridion doceanum|Doce River surubim|SAM|F
+Steindachneridion parahybae|Paraiba River surubim|SAM|F
+Harttiella crassicauda|Guiana dwarf armoured catfish|SAM|F
+Eremophilus mutisii|Capitan de la sabana|SAM|F
+Pseudobatos horkelii|Brazilian guitarfish|SAM|M
+Squatina guggenheim|Angular angelshark|SAM|M
+Squatina argentina|Argentine angelshark|SAM|M
+Squatina occulta|Hidden angelshark|SAM|M
+Astroblepus pholeter|Jumandi cave catfish|SAM|F
+Ichthyoelephas longirostris|Bocachico of the Magdalena|SAM|F
+Brycon orbignyanus|Piracanjuba|SAM|F
+Panaque cochliodon|Blue-eyed pleco|SAM|F
+Pseudoplatystoma magdaleniatum|Magdalena tiger catfish|SAM|F
+Potamotrygon magdalenae|Magdalena river stingray|SAM|F
+Hippocampus patagonicus|Patagonian seahorse|SAM|M
+Nematogenys inermis|Mountain catfish|SAM|F
+Percilia irwini|Irwin's percilia|SAM|F
+Aplochiton zebra|Zebra aplochiton|SAM|F
+Ossubtus xinguensis|Eaglebeak pacu|SAM|F
+Lophiosilurus alexandri|Pacama|SAM|F
+Kalyptodoras bahiensis|Bahia driftwood catfish|SAM|F
+Hyphessobrycon flammeus|Flame tetra|SAM|F
+Mimagoniates rheocharis|Rio croaking tetra|SAM|F
+Baryancistrus xanthellus|Golden nugget pleco|SAM|F
+Scobinancistrus aureatus|Sunshine pleco|SAM|F
+Genidens barbus|White sea catfish|SAM|B
+# --- Europe
+Hucho hucho|Danube salmon|EUR|F
+Valencia letourneuxi|Corfu toothcarp|EUR|F
+Valencia hispanica|Valencia toothcarp|EUR|F
+Aphanius iberus|Spanish toothcarp|EUR|F
+Aphanius baeticus|Andalusian toothcarp|EUR|F
+Acipenser naccarii|Adriatic sturgeon|EUR|F
+Acipenser sturio|European sea sturgeon|EUR|B
+Salmothymus ohridanus|Ohrid belvica|EUR|F
+Salmo letnica|Ohrid trout|EUR|F
+Salmo obtusirostris|Softmouth trout|EUR|F
+Salmo marmoratus|Marble trout|EUR|F
+Romanichthys valsanicola|Asprete|EUR|F
+Salmo carpio|Carpione|EUR|F
+Coregonus pennantii|Gwyniad|EUR|F
+Coregonus vandesius|Vendace|EUR|F
+Alosa killarnensis|Killarney shad|EUR|F
+Salvelinus thingvallensis|Thingvalla charr|EUR|F
+Squatina squatina|Angelshark|EUR|M
+Leucoraja melitensis|Maltese skate|EUR|M
+Pungitius hellenicus|Greek stickleback|EUR|F
+Economidichthys trichonis|Trichonis dwarf goby|EUR|F
+Economidichthys pygmaeus|Western Greece goby|EUR|F
+Aulopyge huegelii|Dalmatian barbelgudgeon|EUR|F
+Anaecypris hispanica|Spanish minnowcarp|EUR|F
+Zingel asper|Rhone streber|EUR|F
+Cottus petiti|Lez sculpin|EUR|F
+Padogobius nigricans|Arno goby|EUR|F
+Knipowitschia punctatissima|Italian spring goby|EUR|F
+Squalius torgalensis|Arade chub|EUR|F
+Ladigesocypris ghigii|Rhodes minnow|EUR|F
+Epinephelus marginatus|Dusky grouper|EUR|M
+Mobula mobular|Giant devil ray|EUR|M
+Coregonus trybomi|Spring-spawning cisco|EUR|F
+Coregonus fontanae|Stechlin cisco|EUR|F
+Coregonus bavaricus|Ammersee kilch|EUR|F
+Salmo cettii|Mediterranean trout|EUR|F
+Lampetra zanandreai|Po brook lamprey|EUR|F
+Alosa vistonica|Thracian shad|EUR|F
+Rutilus pigus|Pigo|EUR|F
+Gymnocephalus schraetser|Schraetzer|EUR|F
+Telestes polylepis|Croatian pijor|EUR|F
+Delminichthys adspersus|Adriatic minnow|EUR|F
+Stenodus leucichthys|Beloribitsa|EUR|F
+Acipenser gueldenstaedtii|Russian sturgeon|EUR|B
+Acipenser nudiventris|Fringebarbel sturgeon|EUR|B
+Huso huso|Beluga sturgeon|EUR|B
+# --- Africa
+Hippocampus capensis|Knysna seahorse|AFR|B
+Konia dikume|Dikume|AFR|F
+Konia eisentrauti|Konye|AFR|F
+Stomatepia pindu|Pindu|AFR|F
+Stomatepia mariae|Nsess|AFR|F
+Pungu maclareni|Pungu|AFR|F
+Myaka myaka|Myaka|AFR|F
+Sarotherodon linnellii|Blackfin tilapia of Barombi Mbo|AFR|F
+Clarias cavernicola|Golden cave catfish|AFR|F
+Caecobarbus geertsii|Congo blind barb|AFR|F
+Lamprologus lethops|Blind Congo cichlid|AFR|F
+Alcolapia grahami|Lake Magadi tilapia|AFR|F
+Alcolapia alcalica|Soda cichlid|AFR|F
+Alcolapia latilabris|Lake Natron cichlid|AFR|F
+Sedercypris erubescens|Twee River redfin|AFR|F
+Pseudobarbus phlegethon|Fiery redfin|AFR|F
+Pseudobarbus burchelli|Burchell's redfin|AFR|F
+Pseudobarbus quathlambae|Maloti minnow|AFR|F
+Labeo seeberi|Clanwilliam sandfish|AFR|F
+Labeobarbus seeberi|Clanwilliam yellowfish|AFR|F
+Cheilothrix serra|Sawfin|AFR|F
+Sedercypris calidus|Clanwilliam redfin|AFR|F
+Austroglanis barnardi|Barnard's rock catfish|AFR|F
+Austroglanis gilli|Clanwilliam rock catfish|AFR|F
+Sandelia bainsii|Eastern Cape rocky|AFR|F
+Polysteganus undulosus|Seventy-four seabream|AFR|M
+Petrus rupestris|Red steenbras|AFR|M
+Chrysoblephus cristiceps|Dageraad|AFR|M
+Chrysoblephus gibbiceps|Red stumpnose|AFR|M
+Labeobarbus megastoma|Lake Tana large-mouth barb|AFR|F
+Labeobarbus dainellii|Lake Tana barb|AFR|F
+Phreatichthys andruzzii|Somalian blind barb|AFR|F
+Uegitglanis zammaranoi|Somali blind catfish|AFR|F
+Salmo akairos|Lake Ifni trout|AFR|F
+Oreochromis esculentus|Singida tilapia|AFR|F
+Oreochromis variabilis|Victoria tilapia|AFR|F
+Oreochromis jipe|Jipe tilapia|AFR|F
+Oreochromis hunteri|Lake Chala tilapia|AFR|F
+Oreochromis karongae|Karonga tilapia|AFR|F
+Coptodon deckerti|Deckert's tilapia|AFR|F
+Coptodon ejagham|Ejagham tilapia|AFR|F
+Coptodon flava|Yellow Bermin tilapia|AFR|F
+Coptodon snyderae|Snyder's Bermin tilapia|AFR|F
+Nothobranchius furzeri|Turquoise killifish|AFR|F
+Nothobranchius rachovii|Rachow's nothobranch|AFR|F
+Nothobranchius guentheri|Redtail notho|AFR|F
+Nothobranchius korthausae|Mafia notho|AFR|F
+Chindongo saulosi|Saulosi|AFR|F
+Melanochromis chipokae|Chipokae mbuna|AFR|F
+Pundamilia nyererei|Nyerere's Victoria cichlid|AFR|F
+Paralabidochromis chromogynos|Hunchback Victoria cichlid|AFR|F
+Haplochromis thereuterion|Slender Victoria haplochromine|AFR|F
+Hippocampus algiricus|West African seahorse|AFR|M
+Haploblepharus kistnasamyi|Natal shyshark|AFR|M
+Holohalaelurus favus|Honeycomb izak|AFR|M
+Chetia brevis|Orange-fringed largemouth|AFR|F
+Callopanchax monroviae|Liberian killifish|AFR|F
+Danakilia franchettii|Danakil cichlid|AFR|F
+Luciobarbus yahyaouii|Moroccan barb|AFR|F
+Aphanius saourensis|Saoura toothcarp|AFR|F
+# --- Madagascar
+Paretroplus menarambo|Pinstripe damba|MAD|F
+Paretroplus maculatus|Damba mipentina|MAD|F
+Paretroplus dambabe|Dambabe|MAD|F
+Paretroplus nourissati|Lamena|MAD|F
+Paretroplus petiti|Kotsovato|MAD|F
+Paretroplus kieneri|Kieneri damba|MAD|F
+Paretroplus lamenabe|Big red damba|MAD|F
+Paretroplus maromandia|Maromandia damba|MAD|F
+Ptychochromis insolitus|Mangarahara cichlid|MAD|F
+Ptychochromis oligacanthus|Saroy|MAD|F
+Ptychochromoides katria|Katria|MAD|F
+Ptychochromoides betsileanus|Trondo mainty|MAD|F
+Oxylapia polli|Nandahamanga|MAD|F
+Typhleotris madagascariensis|Malagasy blind gudgeon|MAD|F
+Typhleotris pauliani|Pauliani blind gudgeon|MAD|F
+Glossogobius ankaranensis|Ankarana blind goby|MAD|F
+Bedotia geayi|Red-tailed silverside|MAD|F
+Bedotia madagascariensis|Madagascar rainbowfish|MAD|F
+Bedotia marojejy|Marojejy bedotia|MAD|F
+Bedotia masoala|Masoala bedotia|MAD|F
+Rheocles wrightae|Wright's rheocles|MAD|F
+Rheocles sikorae|Sikora's rheocles|MAD|F
+Rheocles derhami|Derham's rheocles|MAD|F
+Rheocles alaotrensis|Alaotra rainbowfish|MAD|F
+Pachypanchax sakaramyi|Sakaramy pachypanchax|MAD|F
+Pachypanchax omalonotus|Powder-blue panchax|MAD|F
+Pachypanchax patriciae|Patricia's pachypanchax|MAD|F
+Pachypanchax nuchimaculatus|Spotted-neck pachypanchax|MAD|F
+Pachypanchax varatraza|Varatraza pachypanchax|MAD|F
+Ancharius fuscus|Madagascar catfish|MAD|F
+Ancharius griseus|Grey Madagascar catfish|MAD|F
+Teramulus kieneri|Kiener's teramulus|MAD|F
+Gogo arcuatus|Gogo catfish|MAD|F
+# --- Middle East / Central Asia
+Garra widdowsoni|Iraq blind barb|MEC|F
+Typhlogarra widdowsoni|Iraq blind barb|MEC|F
+Caecocypris basimi|Haditha cavefish|MEC|F
+Garra typhlops|Iran cave barb|MEC|F
+Iranocypris typhlops|Iran cave barb|MEC|F
+Eidinemacheilus smithi|Zagros blind loach|MEC|F
+Garra dunsirei|Tawi Atair blind cavefish|MEC|F
+Garra ghorensis|Dead Sea garra|MEC|F
+Aphanius sirhani|Azraq killifish|MEC|F
+Aphanius ginaonis|Geno pupfish|MEC|F
+Aphanius vladykovi|Zagros tooth-carp|MEC|F
+Aphanius farsicus|Fars tooth-carp|MEC|F
+Aphanius transgrediens|Acigol tooth-carp|MEC|F
+Pseudoscaphirhynchus kaufmanni|Large Amu Darya shovelnose|MEC|F
+Pseudoscaphirhynchus fedtschenkoi|Syr Darya shovelnose|MEC|F
+Pseudoscaphirhynchus hermanni|Dwarf Amu Darya shovelnose|MEC|F
+Acipenser persicus|Persian sturgeon|MEC|B
+Salmo ischchan|Sevan trout|MEC|F
+Luciobarbus esocinus|Mangar|MEC|F
+Alburnus tarichi|Pearl mullet of Lake Van|MEC|F
+Perca schrenkii|Balkhash perch|MEC|F
+Mesopotamichthys sharpeyi|Binni|MEC|F
+Tristramella simonis|Short-jaw tristramella|MEC|F
+Mirogrex terraesanctae|Kinneret bleak|MEC|F
+Chiloscyllium arabicum|Arabian carpetshark|MEC|M
+Troglocobitis starostini|Kugitang blind loach|MEC|F
+Amphiprion omanensis|Oman anemonefish|MEC|M
+Chaetodon dialeucos|Oman butterflyfish|MEC|M
+Schizothorax pseudoaksaiensis|Ili marinka|MEC|F
+Gymnodiptychus dybowskii|Naked osman|MEC|F
+Salmo platycephalus|Flathead trout|MEC|F
+Salmo caspius|Caspian trout|MEC|B
+Aspiolucius esocinus|Pike asp|MEC|F
+Capoetobrama kuschakewitschi|Sharpray|MEC|F
+Pseudophoxinus libani|Lebanon minnow|MEC|F
+Acanthobrama lissneri|Tiberias bream|MEC|F
+Glaucostegus granulatus|Sharpnose guitarfish|MEC|M
+# --- South Asia
+Sahyadria denisonii|Denison's barb|SAS|F
+Aenigmachanna gollum|Gollum snakehead|SAS|F
+Horaglanis krishnai|Blind well catfish|SAS|F
+Kryptoglanis shajii|Kryptoglanis|SAS|F
+Pangio bhujia|Dragon eel loach|SAS|F
+Tor remadevii|Hump-backed mahseer|SAS|F
+Tor putitora|Golden mahseer|SAS|F
+Pethia bandula|Bandula barb|SAS|F
+Puntius titteya|Cherry barb|SAS|F
+Malpulutta kretseri|Spotted gourami of Sri Lanka|SAS|F
+Channa bleheri|Rainbow snakehead|SAS|F
+Channa barca|Barca snakehead|SAS|F
+Channa aurantimaculata|Orange-spotted snakehead|SAS|F
+Neolissochilus pnar|Pnar cavefish|SAS|F
+Schistura papulifera|Krem Mawmluh cave loach|SAS|F
+Glyphis gangeticus|Ganges shark|SAS|B
+Botia striata|Zebra loach|SAS|F
+Labeo lankae|Orange-fin labeo|SAS|F
+Rasboroides vaterifloris|Pearly rasbora|SAS|F
+Systomus asoka|Asoka barb|SAS|F
+Systomus martenstyni|Martenstyn's barb|SAS|F
+Dawkinsia srilankensis|Blotched filament barb|SAS|F
+Dawkinsia tambraparniei|Tambraparni barb|SAS|F
+Lepidopygopsis typus|Peninsular hilltrout|SAS|F
+Hemibagrus punctatus|Nilgiri mystus|SAS|F
+Carcharhinus hemiodon|Pondicherry shark|SAS|M
+Amphiprion nigripes|Maldive anemonefish|SAS|M
+Pethia nigrofasciata|Black ruby barb|SAS|F
+Pethia cumingii|Cuming's barb|SAS|F
+Schizothorax niger|Dal Lake snowtrout|SAS|F
+Botia dario|Bengal loach|SAS|F
+Dario dario|Scarlet badis|SAS|F
+# --- SE Asia
+Pterapogon kauderni|Banggai cardinalfish|SEA|M
+Pangasianodon gigas|Mekong giant catfish|SEA|F
+Cryptotora thamicola|Cave angelfish|SEA|F
+Catlocarpio siamensis|Giant barb|SEA|F
+Datnioides pulcher|Siamese tiger perch|SEA|F
+Epalzeorhynchos bicolor|Red-tailed black shark|SEA|F
+Balantiocheilos ambusticauda|Burnt-tailed bala shark|SEA|F
+Adrianichthys kruyti|Duck-billed buntingi|SEA|F
+Adrianichthys oophorus|Poso buntingi|SEA|F
+Sawbwa resplendens|Sawbwa barb|SEA|F
+Danio margaritatus|Celestial pearl danio|SEA|F
+Danio erythromicron|Emerald dwarf danio|SEA|F
+Sardinella tawilis|Tawilis|SEA|F
+Pandaka pygmaea|Dwarf pygmy goby|SEA|B
+Mistichthys luzonensis|Sinarapan|SEA|F
+Betta persephone|Black betta|SEA|F
+Betta rubra|Sumatran red betta|SEA|F
+Betta mahachaiensis|Mahachai betta|SEA|B
+Betta burdigala|Bordeaux betta|SEA|F
+Betta simplex|Krabi mouthbrooding betta|SEA|F
+Betta spilotogena|Spotted-cheek betta|SEA|F
+Parosphromenus deissneri|Licorice gourami|SEA|F
+Parosphromenus harveyi|Harvey's licorice gourami|SEA|F
+Latimeria menadoensis|Indonesian coelacanth|SEA|M
+Histiophryne psychedelica|Psychedelic frogfish|SEA|M
+Hemiscyllium halmahera|Halmahera walking shark|SEA|M
+Hemiscyllium freycineti|Raja Ampat walking shark|SEA|M
+Hemiscyllium galei|Cenderawasih epaulette shark|SEA|M
+Telmatherina ladigesi|Celebes rainbowfish|SEA|F
+Telmatherina antoniae|Sharpfin sailfin silverside|SEA|F
+Probarbus jullieni|Jullien's golden carp|SEA|F
+Aaptosyax grypus|Giant salmon carp|SEA|F
+Pangasius sanitwongsei|Giant pangasius|SEA|F
+Hippocampus denise|Denise's pygmy seahorse|SEA|M
+Hippocampus satomiae|Satomi's pygmy seahorse|SEA|M
+Tanichthys micagemmae|Vietnamese cardinal minnow|SEA|F
+Sewellia lineolata|Reticulated hillstream loach|SEA|F
+Schistura oedipus|Mae Hong Son blind loach|SEA|F
+Phenacostethus smithi|Pygmy priapium fish|SEA|F
+Oryzias woworae|Daisy's ricefish|SEA|F
+Paedocypris progenetica|Dwarf minnow|SEA|F
+Scleropages inscriptus|Myanmar arowana|SEA|F
+Ambastaia sidthimunki|Dwarf chain loach|SEA|F
+Botia kubotai|Polka-dot loach|SEA|F
+Channa pulchra|Burmese rainbow snakehead|SEA|F
+Barbodes lindog|Lindog|SEA|F
+Barbodes tumba|Tumba barb|SEA|F
+Neolissochilus thienemanni|Batak fish|SEA|F
+Boraras naevus|Strawberry rasbora|SEA|F
+# --- East Asia
+Oncorhynchus kawamurae|Kunimasu|EAS|F
+Bahaba taipingensis|Chinese bahaba|EAS|M
+Huso dauricus|Kaluga|EAS|F
+Acipenser sinensis|Chinese sturgeon|EAS|B
+Acipenser dabryanus|Yangtze sturgeon|EAS|F
+Acipenser mikadoi|Sakhalin sturgeon|EAS|B
+Myxocyprinus asiaticus|Chinese high-fin banded shark|EAS|F
+Parahucho perryi|Sakhalin taimen|EAS|B
+Tanakia tanago|Tokyo bitterling|EAS|F
+Parabotia curtus|Ayumodoki|EAS|F
+Acheilognathus longipinnis|Deepbody bitterling|EAS|F
+Acheilognathus typus|Zenitanago|EAS|F
+Rhodeus suigensis|Suigen bitterling|EAS|F
+Sinocyclocheilus hyalinus|Translucent golden-line barbel|EAS|F
+Sinocyclocheilus rhinocerous|Rhino golden-line barbel|EAS|F
+Sinocyclocheilus anshuiensis|Anshui golden-line barbel|EAS|F
+Sinocyclocheilus tianlinensis|Tianlin golden-line barbel|EAS|F
+Sinocyclocheilus grahami|Golden-line barbel|EAS|F
+Triplophysa rosa|Wulong blind loach|EAS|F
+Gymnocypris przewalskii|Qinghai naked carp|EAS|F
+Tanichthys albonubes|White Cloud Mountain minnow|EAS|F
+Epinephelus akaara|Hong Kong grouper|EAS|M
+Thymallus nigrescens|Lake Hovsgol grayling|EAS|F
+Thymallus brevirostris|Mongolian grayling|EAS|F
+Comephorus baikalensis|Baikal oilfish|EAS|F
+Comephorus dybowskii|Little Baikal oilfish|EAS|F
+Hucho bleekeri|Sichuan taimen|EAS|F
+Luciobrama macrocephalus|Long spiky-head carp|EAS|F
+Anabarilius grahami|Kanglang fish|EAS|F
+Coreoleuciscus splendidus|Korean splendid dace|EAS|F
+Pseudopungtungia nigra|Korean black shiner|EAS|F
+Gobiobotia naktongensis|Nakdong gudgeon|EAS|F
+Oncorhynchus formosanus|Formosan landlocked salmon|EAS|F
+Anguilla japonica|Japanese eel|EAS|B
+Squatina formosa|Taiwan angelshark|EAS|M
+Squatina japonica|Japanese angelshark|EAS|M
+Silurus biwaensis|Biwa giant catfish|EAS|F
+Gnathopogon caerulescens|Honmoroko|EAS|F
+Carassius cuvieri|Gengoro-buna|EAS|F
+Takifugu chinensis|Chinese puffer|EAS|M
+Chaetodon daedalma|Wrought iron butterflyfish|EAS|M
+Centropyge interrupta|Japanese pygmy angelfish|EAS|M
+Salvethymus svetovidovi|Long-finned charr|EAS|F
+Coregonus migratorius|Baikal omul|EAS|F
+Procypris rabaudi|Rock carp|EAS|F
+Cyprinus fuxianensis|Fuxian carp|EAS|F
+# --- Australia / NZ / New Guinea
+Brachionichthys hirsutus|Spotted handfish|ANZ|M
+Thymichthys politus|Red handfish|ANZ|M
+Brachiopsilus ziebelli|Ziebell's handfish|ANZ|M
+Brachiopsilus dianthus|Pink handfish|ANZ|M
+Neoceratodus forsteri|Australian lungfish|ANZ|F
+Scaturiginichthys vermeilipinnis|Red-finned blue-eye|ANZ|F
+Phyllopteryx dewysea|Ruby seadragon|ANZ|M
+Phycodurus eques|Leafy seadragon|ANZ|M
+Phyllopteryx taeniolatus|Weedy seadragon|ANZ|M
+Neochanna burrowsius|Canterbury mudfish|ANZ|F
+Neochanna diversus|Black mudfish|ANZ|F
+Neochanna heleios|Northland mudfish|ANZ|F
+Neochanna apoda|Brown mudfish|ANZ|F
+Galaxias gollumoides|Gollum galaxias|ANZ|F
+Galaxias macronasus|Bignose galaxias|ANZ|F
+Galaxias cobitinis|Lowland longjaw galaxias|ANZ|F
+Galaxias pullus|Dusky galaxias|ANZ|F
+Galaxias pedderensis|Pedder galaxias|ANZ|F
+Galaxias johnstoni|Clarence galaxias|ANZ|F
+Galaxias fontanus|Swan galaxias|ANZ|F
+Galaxias auratus|Golden galaxias|ANZ|F
+Paragalaxias mesotes|Arthurs paragalaxias|ANZ|F
+Milyeringa veritas|Blind gudgeon|ANZ|F
+Ophisternon candidum|Blind cave eel|ANZ|F
+Maccullochella macquariensis|Trout cod|ANZ|F
+Maccullochella mariensis|Mary River cod|ANZ|F
+Maccullochella ikei|Eastern freshwater cod|ANZ|F
+Nannoperca oxleyana|Oxleyan pygmy perch|ANZ|F
+Nannoperca obscura|Yarra pygmy perch|ANZ|F
+Nannatherina balstoni|Balston's pygmy perch|ANZ|F
+Lepidogalaxias salamandroides|Salamanderfish|ANZ|F
+Melanotaenia eachamensis|Lake Eacham rainbowfish|ANZ|F
+Melanotaenia boesemani|Boeseman's rainbowfish|ANZ|F
+Melanotaenia lacustris|Lake Kutubu rainbowfish|ANZ|F
+Melanotaenia parva|Lake Kurumoi rainbowfish|ANZ|F
+Melanotaenia praecox|Dwarf neon rainbowfish|ANZ|F
+Melanotaenia herbertaxelrodi|Lake Tebera rainbowfish|ANZ|F
+Glossolepis incisus|Red rainbowfish|ANZ|F
+Glossolepis wanamensis|Lake Wanam rainbowfish|ANZ|F
+Chilatherina sentaniensis|Sentani rainbowfish|ANZ|F
+Mogurnda furva|Black kutubu gudgeon|ANZ|F
+Zearaja maugeana|Maugean skate|ANZ|M
+Hippocampus whitei|White's seahorse|ANZ|M
+Hemiscyllium hallstromi|Papuan epaulette shark|ANZ|M
+Hemiscyllium michaeli|Leopard epaulette shark|ANZ|M
+Epinephelus daemelii|Black rockcod|ANZ|M
+Glyphis garricki|Northern river shark|ANZ|B
+Glyphis glyphis|Speartooth shark|ANZ|B
+Paraplesiops bleekeri|Eastern blue devil|ANZ|M
+Bidyanus bidyanus|Silver perch|ANZ|F
+Macquaria australasica|Macquarie perch|ANZ|F
+Scleropages leichardti|Southern saratoga|ANZ|F
+Prototroctes maraena|Australian grayling|ANZ|F
+Aetapcus maculatus|Warty prowfish|ANZ|M
+# --- Pacific islands
+Amphiprion mccullochi|McCulloch's anemonefish|PAC|M
+Sicyopterus stimpsoni|Nopili rock-climbing goby|PAC|F
+Lentipes concolor|O'opu alamo'o|PAC|F
+Awaous stamineus|O'opu nakea|PAC|F
+Holacanthus limbaughi|Clipperton angelfish|PAC|M
+Mycteroperca olfax|Galapagos grouper|PAC|M
+Stegastes beebei|Galapagos ringtail damselfish|PAC|M
+Stegastes arcifrons|Galapagos yellowtail damselfish|PAC|M
+Azurina eupalama|Galapagos damsel|PAC|M
+Ogcocephalus darwini|Red-lipped batfish|PAC|M
+Ogcocephalus porrectus|Roughback batfish of Cocos|PAC|M
+Hyporthodus quernus|Hawaiian grouper|PAC|M
+Galaxias neocaledonicus|New Caledonia galaxias|PAC|F
+Protogobius attiti|Attiti's goby|PAC|F
+Smilosicyopus chloe|Chloe's goby|PAC|F
+Akihito vanuatu|Vanuatu Akihito goby|PAC|F
+Chaetodon litus|Easter Island butterflyfish|PAC|M
+Centropyge hotumatua|Hotumatua's angelfish|PAC|M
+Centropyge nahackyi|Nahacky's pygmy angelfish|PAC|M
+Chaetodon declivis|Marquesas butterflyfish|PAC|M
+Chaetodon smithi|Smith's butterflyfish|PAC|M
+Genicanthus personatus|Masked angelfish|PAC|M
+Cirrhilabrus jordani|Flame wrasse|PAC|M
+Prognathodes tinkeri|Tinker's butterflyfish|PAC|M
+Hippocampus fisheri|Fisher's seahorse|PAC|M
+Pseudoliparis swirei|Mariana snailfish|PAC|M
+Bodianus eclancheri|Harlequin wrasse|PAC|M
+Heterodontus quoyi|Galapagos bullhead shark|PAC|M
+Amphichaetodon howensis|Lord Howe butterflyfish|PAC|M
+Chaetodontoplus ballinae|Ballina angelfish|PAC|M
+Stegastes baldwini|Clipperton damselfish|PAC|M
+Thalassoma robertsoni|Clipperton wrasse|PAC|M
+Acanthemblemaria stephensi|Malpelo barnacle blenny|PAC|M
+Acanthemblemaria atrata|Cocos barnacle blenny|PAC|M
+Acanthemblemaria castroi|Galapagos barnacle blenny|PAC|M
+Labrisomus dendriticus|Galapagos weed blenny|PAC|M
+Xenocys jessiae|Black-striped salema|PAC|M
+Epinephelus quernus|Hawaiian grouper|PAC|M
+Ostracion whitleyi|Whitley's boxfish|PAC|M
+Stiphodon rutilaureus|Golden-red stiphodon|PAC|F
+Sicyopus zosterophorum|Banded sicyopus|PAC|F
+Lacustricola? skip|skip|PAC|F
+# --- Remote Atlantic and Indian Ocean islands, open seas
+Latimeria chalumnae|African coelacanth|RAI|M
+Centropyge resplendens|Resplendent angelfish|RAI|M
+Amphiprion chagosensis|Chagos anemonefish|RAI|M
+Amphiprion chrysogaster|Mauritian anemonefish|RAI|M
+Amphiprion fuscocaudatus|Seychelles anemonefish|RAI|M
+Chaetodon sanctaehelenae|St Helena butterflyfish|RAI|M
+Canthigaster sanctaehelenae|St Helena sharpnose puffer|RAI|M
+Thalassoma ascensionis|Ascension wrasse|RAI|M
+Thalassoma sanctaehelenae|St Helena wrasse|RAI|M
+Stegastes lubbocki|Lubbock's gregory|RAI|M
+Prognathodes obliquus|St Paul's butterflyfish|RAI|M
+Stegastes sanctipauli|St Paul's gregory|RAI|M
+Anthias salmopunctatus|St Paul's anthias|RAI|M
+Enneanectes smithi|St Paul's triplefin|RAI|M
+Stegastes rocasensis|Rocas gregory|RAI|M
+Stegastes trindadensis|Trindade gregory|RAI|M
+Elacatinus phthirophagus|Noronha cleaner goby|RAI|M
+Thalassoma noronhanum|Noronha wrasse|RAI|M
+Malacoctenus brunoi|Bruno's blenny|RAI|M
+Fundulus bermudae|Bermuda killifish|RAI|B
+Fundulus relictus|Bermuda relict killifish|RAI|B
+Pachypanchax playfairii|Golden panchax|RAI|F
+Cotylopus acutipinnis|Reunion climbing goby|RAI|F
+Centropyge joculator|Cocos pygmy angelfish|RAI|M
+Centropyge debelius|Blue Mauritius angelfish|RAI|M
+Cirrhilabrus sanguineus|Blood-red fairy wrasse|RAI|M
+Chaetodon mitratus|Indian butterflyfish|RAI|M
+Scorpaena mellissii|Melliss's scorpionfish|RAI|M
+Pontinus nigropunctatus|St Helena deepwater scorpionfish|RAI|M
+Callionymus sanctaehelenae|St Helena dragonet|RAI|M
+Bodianus insularis|Island hogfish|RAI|M
+Xyrichtys blanchardi|Marmalade razorfish|RAI|M
+Similiparma lurida|Canary damsel|RAI|M
+Mauligobius maderensis|Madeiran goby|RAI|M
+Raja herwigi|Cape Verde skate|RAI|M
+Raja maderensis|Madeiran ray|RAI|M
+Somniosus microcephalus|Greenland shark|RAI|M
+Anguilla anguilla|European eel|RAI|B
+Thunnus maccoyii|Southern bluefin tuna|RAI|M
+Dissostichus mawsoni|Antarctic toothfish|RAI|M
+Chaenocephalus aceratus|Blackfin icefish|RAI|M
+Nemadactylus monodactylus|Five-fingered morwong|RAI|M
+Stegastes imbricatus|Cape Verde gregory|RAI|M
+Sparisoma frondosum|Agassiz's parrotfish|RAI|M
+Anarhichas lupus|Atlantic wolffish|RAI|M
+Gadus morhua? skip|skip|RAI|M
+# --- supplementary batch (thin regions)
+Coris bulbifrons|Doubleheader wrasse|PAC|M
+Eleotris sandwicensis|O'opu akupa|PAC|F
+Stenogobius hawaiiensis|O'opu naniha|PAC|F
+Kuhlia xenura|Hawaiian flagtail|PAC|M
+Lentipes kaaea|Kaaea lentipes|PAC|F
+Sicyopterus aiensis|Aien sicyopterus|PAC|F
+Stiphodon sapphirinus|Sapphire stiphodon|PAC|F
+Halichoeres salmofasciatus|Galapagos wrasse|PAC|M
+Apogon atradorsatus|Blackfin cardinalfish|PAC|M
+Opistognathus galapagensis|Galapagos jawfish|PAC|M
+Lythrypnus gilberti|Gilbert's goby|PAC|M
+Myripristis gildi|Clipperton soldierfish|PAC|M
+Ophioblennius clippertonensis|Clipperton blenny|PAC|M
+Dialommus fuscus|Galapagos four-eyed blenny|PAC|M
+Hippocampus ingens|Pacific seahorse|PAC|M
+Starksia galapagensis|Galapagos starksia|PAC|M
+Priolepis ascensionis|Ascension goby|RAI|M
+Holanthias caudalis|St Helena splitfin|RAI|M
+Sicyopterus franouxi|Franoux's goby|RAI|F
+Cotylopus rubripinnis|Red-finned cotylopus|RAI|F
+Champsocephalus gunnari|Mackerel icefish|RAI|M
+Pseudochaenichthys georgianus|South Georgia icefish|RAI|M
+Notothenia rossii|Marbled rockcod|RAI|M
+Lepidonotothen squamifrons|Grey rockcod|RAI|M
+Aphanius sureyanus|Burdur tooth-carp|MEC|F
+Aphanius anatoliae|Anatolian tooth-carp|MEC|F
+Aphanius isfahanensis|Isfahan tooth-carp|MEC|F
+Aphanius kavirensis|Kavir tooth-carp|MEC|F
+Aphanius arakensis|Arak tooth-carp|MEC|F
+Garra lorestanensis|Loven cave garra|MEC|F
+Garra tashanensis|Tashan cave garra|MEC|F
+Garra jordanica|Jordan garra|MEC|F
+Salmo abanticus|Abant trout|MEC|F
+Salmo tigridis|Tigris trout|MEC|F
+Aphanius richardsoni|Dead Sea toothcarp|MEC|F
+Glaucostegus halavi|Halavi guitarfish|MEC|M
+Luciobarbus brachycephalus|Aral barbel|MEC|F
+Caspiomyzon wagneri|Caspian lamprey|MEC|B
+Garra tibanica|Tiban garra|MEC|F
+Aphanius dispar|Arabian toothcarp|MEC|B
+Cyprinion mhalensis|Mahal cyprinion|MEC|F
+Garra barreimiae|Oman garra|MEC|F
+Arabibarbus grypus|Shabout|MEC|F
+Squalius lepidus|Mesopotamian chub|MEC|F
+Oxynoemacheilus insignis|Galilee loach|MEC|F
+Rutilus kutum|Caspian kutum|MEC|B
+Hippocampus kelloggi|Kellogg's seahorse|MEC|M
+Hemiscyllium ocellatum|Epaulette shark|ANZ|M
+Scaturiginichthys? skip|skip|ANZ|F
+Tandanus bostocki|Freshwater cobbler|ANZ|F
+Galaxiella nigrostriata|Black-stripe minnow|ANZ|F
+Galaxiella munda|Western mud minnow|ANZ|F
+Nannoperca vittata|Western pygmy perch|ANZ|F
+Craterocephalus fluviatilis|Murray hardyhead|ANZ|F
+Chlamydogobius micropterus|Elizabeth Springs goby|ANZ|F
+Chlamydogobius squamigenus|Edgbaston goby|ANZ|F
+Chlamydogobius gloveri|Dalhousie goby|ANZ|F
+Brachionichthys australis|Australian spotted handfish|ANZ|M
+Rhinobatos? skip|skip|ANZ|M
+# --- supplementary batch 2 (marine balance)
+Leucoraja ocellata|Winter skate|NA|M
+Dipturus laevis|Barndoor skate|NA|M
+Sebastes fasciatus|Acadian redfish|NA|M
+Cynoscion othonopterus|Gulf corvina|MCC|M
+Lutjanus cyanopterus|Cubera snapper|MCC|M
+Hippocampus ingens|Pacific seahorse|MCC|M
+Mustelus fasciatus|Striped smooth-hound|SAM|M
+Atlantoraja castelnaui|Spotback skate|SAM|M
+Sympterygia acuta|Bignose fanskate|SAM|M
+Squatina aculeata|Sawback angelshark|EUR|M
+Squatina oculata|Smoothback angelshark|EUR|M
+Oxynotus centrina|Angular roughshark|EUR|M
+Dipturus intermedius|Flapper skate|EUR|M
+Rostroraja alba|White skate|EUR|M
+Sciaena umbra|Brown meagre|EUR|M
+Hippocampus guttulatus|Long-snouted seahorse|EUR|M
+Cymatoceps nasutus|Black musselcracker|AFR|M
+Lithognathus lithognathus|White steenbras|AFR|M
+Epinephelus albomarginatus|Captain fine|AFR|M
+Glaucostegus obtusus|Widenose guitarfish|SAS|M
+Hemiscyllium freycineti|Raja Ampat epaulette shark|SEA|M
+Hippocampus pontohi|Pontoh's pygmy seahorse|SEA|M
+Squatina formosa|Taiwan angelshark|EAS|M
+Larimichthys crocea|Large yellow croaker|EAS|M
+Hippocampus haema|Korean seahorse|EAS|M
+Hemiscyllium michaeli|Leopard epaulette shark|ANZ|M
+Hemiscyllium trispeculare|Speckled carpetshark|ANZ|M
+Brachiopsilus ziebelli|Ziebell's handfish|ANZ|M
+Achoerodus gouldii|Western blue groper|ANZ|M
+Thalassoma robertsoni|Robertson's wrasse|PAC|M
+Rhincodon? skip|skip|RAI|M

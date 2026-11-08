@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fish Post, phone guess</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Shrikhand&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+.fh{background:url(/_blob/67bf7a73fbf16c0f03b1a745c2183b03) repeat-x;background-size:72px 18px}
+.fv{background:url(/_blob/42d56cfc6101d6db565d8cde834f6db8) repeat-y;background-size:18px 72px}
+.stamp{background:#FFFFFF;padding:14px;box-sizing:border-box;-webkit-mask:radial-gradient(circle 6px at 10px 10px,transparent 96%,#000) -10px -10px/20px 20px,linear-gradient(#000 0 0) content-box;-webkit-mask-composite:source-over;mask:radial-gradient(circle 6px at 10px 10px,transparent 96%,#000) -10px -10px/20px 20px,linear-gradient(#000 0 0) content-box;mask-composite:add}
+.mapwin{background:#CFE4FF}
+.send:focus-visible{outline:4px solid #14246B;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#1A3FBF;font-family:'Courier Prime',monospace;color:#14246B">
+  <div style="position:absolute;left:8px;top:8px;width:374px;height:828px;background:#E4F0FF;border-radius:4px;overflow:hidden">
+    <div class="fh" style="position:absolute;left:0;top:0;width:374px;height:18px"></div>
+    <div class="fh" style="position:absolute;left:0;bottom:0;width:374px;height:18px"></div>
+    <div class="fv" style="position:absolute;left:0;top:0;width:18px;height:828px"></div>
+    <div class="fv" style="position:absolute;right:0;top:0;width:18px;height:828px"></div>
+  </div>
+
+  <div style="position:absolute;left:38px;top:40px;width:314px;display:flex;justify-content:space-between;align-items:flex-start">
+    <div>
+      <div style="font-family:Shrikhand,serif;font-size:31px;line-height:1;color:#E8352E">Fishlocator</div>
+      <div style="font-size:12px;font-weight:700;letter-spacing:.06em;margin-top:5px">ITEM No. 1 &#183; 7 NOV 2026</div>
+    </div>
+    <div style="background:#1A3FBF;color:#FFFFFF;border-radius:4px;padding:4px 7px;font-weight:700;font-size:10px;line-height:1.15;letter-spacing:.05em;transform:rotate(-4deg);margin-top:4px">PAR AVION<br>BY FISH MAIL</div>
+  </div>
+
+  <figure class="stamp" style="position:absolute;left:45px;top:106px;width:300px;height:240px;margin:0;transform:rotate(1.8deg)">
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="Stamp showing a spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:272px;height:164px;object-fit:cover">
+    <figcaption style="display:flex;justify-content:space-between;align-items:center;height:48px;padding:0 2px">
+      <span style="font-family:Shrikhand,serif;font-size:18px;color:#E8352E;line-height:1">Fish Post<span style="display:block;font-family:'Courier Prime',monospace;font-size:10px;font-weight:700;color:#14246B;letter-spacing:.06em;margin-top:3px">ORIGIN: UNKNOWN</span></span>
+      <span style="font-family:Shrikhand,serif;font-size:25px;color:#14246B">12cm</span>
+    </figcaption>
+  </figure>
+  <svg aria-hidden="true" width="190" height="96" viewBox="0 0 280 140" style="position:absolute;left:186px;top:84px;opacity:.85">
+    <defs><path id="pmB" d="M210 120A50 50 0 1 1 210.1 120"></path></defs>
+    <circle cx="210" cy="70" r="58" fill="none" stroke="#14246B" stroke-width="3"></circle>
+    <circle cx="210" cy="70" r="40" fill="none" stroke="#14246B" stroke-width="2"></circle>
+    <text font-family="Courier Prime, monospace" font-size="13" font-weight="700" fill="#14246B" letter-spacing="2"><textPath href="#pmB">SORTING OFFICE &#183; LOST FISH &#183;</textPath></text>
+    <text x="210" y="66" text-anchor="middle" font-family="Courier Prime, monospace" font-size="16" font-weight="700" fill="#14246B">07 NOV</text>
+    <text x="210" y="84" text-anchor="middle" font-family="Courier Prime, monospace" font-size="16" font-weight="700" fill="#14246B">2026</text>
+    <path d="M24 50q12 -8 24 0t24 0t24 0t24 0t24 0M24 70q12 -8 24 0t24 0t24 0t24 0t24 0M24 90q12 -8 24 0t24 0t24 0t24 0t24 0" fill="none" stroke="#14246B" stroke-width="3"></path>
+  </svg>
+
+  <section aria-label="Customs declaration: today's clues" style="position:absolute;left:38px;top:362px;width:314px;box-sizing:border-box;background:#FFFFFF;border:2px solid #14246B;padding:8px 12px;font-size:14px;line-height:1.35">
+    <div style="font-weight:700;letter-spacing:.08em;font-size:12px">CUSTOMS DECLARATION</div>
+    <div>1 fish, live, spotted &#183; [X] Salt water &#183; Up to 12 cm</div>
+    <div style="color:#C42620;font-weight:700">HANDLING: WALKS. DOES NOT SWIM.</div>
+  </section>
+
+  <h1 style="position:absolute;left:38px;top:466px;margin:0;font-size:16px;font-weight:700;letter-spacing:.04em">DELIVER THIS FISH TO:</h1>
+  <div class="mapwin" style="position:absolute;left:38px;top:490px;width:314px;height:212px;border:3px solid #14246B;box-sizing:border-box;overflow:hidden">
+    <img src="/_blob/3d7ea343f6039c01a0101ad40e92251c" alt="World map printed in blue ink, zoomed in on Australia and New Zealand" style="position:absolute;left:-792px;top:-268px;width:1100px;height:572px;max-width:none">
+    <svg role="img" aria-label="Your delivery pin, off New Zealand's South Island" width="40" height="54" viewBox="0 0 48 64" style="position:absolute;left:191px;top:124px">
+      <path d="M24 46V6" stroke="#14246B" stroke-width="3"></path>
+      <path d="M25 6C31 1 41 1 45 7L48 4C47 8 47 11 48 14L45 11C41 17 31 17 25 12Z" fill="#E8352E" stroke="#14246B" stroke-width="2" stroke-linejoin="round"></path>
+      <circle cx="24" cy="48" r="13" fill="none" stroke="#E8352E" stroke-width="3" stroke-dasharray="4 3"></circle>
+      <circle cx="24" cy="48" r="4.5" fill="#E8352E" stroke="#14246B" stroke-width="2"></circle>
+    </svg>
+    <div style="position:absolute;left:6px;top:6px;background:#14246B;color:#FFFFFF;padding:2px 7px;font-size:11px;font-weight:700">PINCH TO ZOOM</div>
+  </div>
+  <div style="position:absolute;left:38px;top:710px;width:314px;display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px dashed #14246B;padding-bottom:4px">
+    <span style="font-size:11px;font-weight:700;letter-spacing:.06em">POSTCODE</span>
+    <span style="font-size:20px;font-weight:700;font-variant-numeric:tabular-nums">43.5&#176;S, 172.6&#176;E</span>
+  </div>
+
+  <div style="position:absolute;left:38px;top:752px;width:314px;display:flex;align-items:center;gap:12px">
+    <div style="display:flex;gap:4px" aria-label="Delivery attempt 1 of 3">
+      <span style="width:30px;height:36px;box-sizing:border-box;border:3px solid #E8352E;background:#FFFFFF;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:12px;color:#C42620">1st</span>
+      <span style="width:30px;height:36px;box-sizing:border-box;border:2px dashed #14246B;display:flex;align-items:center;justify-content:center;font-size:12px">2nd</span>
+      <span style="width:30px;height:36px;box-sizing:border-box;border:2px dashed #14246B;display:flex;align-items:center;justify-content:center;font-size:12px">3rd</span>
+    </div>
+    <button class="send" type="button" style="flex:1;height:58px;background:#E8352E;color:#FFFFFF;border:3px solid #14246B;border-radius:10px;box-shadow:0 0 0 3px #E4F0FF,0 0 0 6px #E8352E;font-family:Shrikhand,serif;font-size:23px;cursor:pointer">Stamp &amp; send</button>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

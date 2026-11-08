@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Daily Reel, desktop guess</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Chango&family=Grandstander:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#FFC93C}a:hover{color:#FFF6DF}
+.valance{background:url(/_blob/70441fb1c32b483b42b63b8e72f16dca) repeat-x}
+.water{background:repeating-radial-gradient(circle at 130px 700px,#0A5F5C 0 38px,#0B6A66 38px 76px)}
+.logo{font-family:Chango,sans-serif;color:#FFC93C;-webkit-text-stroke:7px #14110F;paint-order:stroke fill;text-shadow:0 5px 0 #14110F}
+.bob{animation:bob 2.4s ease-in-out infinite;transform-origin:50% 95%}
+.gil{animation:sway 3s ease-in-out infinite;transform-origin:45% 100%}
+.ripple{animation:ripple 2.4s ease-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-7px) rotate(3deg)}}
+@keyframes sway{0%,100%{transform:skewX(-2deg) scaleY(1)}50%{transform:skewX(2deg) scaleY(.98)}}
+@keyframes ripple{0%{transform:scale(.5);opacity:.9}100%{transform:scale(1.5);opacity:0}}
+@media (prefers-reduced-motion:reduce){.bob,.gil,.ripple{animation:none}}
+.cast{cursor:pointer;transition:transform .12s cubic-bezier(.2,.8,.2,1)}
+.cast:hover{transform:translateY(-3px) rotate(-1deg)}
+.cast:focus-visible,.round:focus-visible{outline:4px solid #FFF6DF;outline-offset:3px}
+</style>
+</helmet>
+<div class="water" style="width:1280px;height:800px;position:relative;overflow:hidden;font-family:Grandstander,sans-serif;color:#FFF6DF">
+  <div class="valance" style="position:absolute;left:0;top:0;width:1280px;height:30px;border-top:5px solid #14110F"></div>
+
+  <img src="/_blob/e3253e47078933c60f9bb202daf798ff" alt="World map with cartoon coastlines" style="position:absolute;left:356px;top:116px;width:900px;height:468px">
+  <div class="ripple" style="position:absolute;left:1152px;top:458px;width:49px;height:22px;border:3px solid #FFF6DF;border-radius:50%;box-sizing:border-box"></div>
+  <svg aria-hidden="true" width="1280" height="800" viewBox="0 0 1280 800" style="position:absolute;left:0;top:0;pointer-events:none">
+    <path d="M257 565C430 628 860 634 1090 592C1150 576 1176 500 1176 410" fill="none" stroke="#FFF6DF" stroke-width="3"></path>
+  </svg>
+  <img class="bob" src="/_blob/5cffd92bc5a442d70a8bbeced2dc92c2" alt="Your bobber, floating in the Tasman Sea region" style="position:absolute;left:1152px;top:398px;width:48px;height:72px">
+
+  <div style="position:absolute;left:36px;top:40px;display:flex;align-items:baseline;gap:30px;width:1208px">
+    <div class="logo" style="font-size:58px;line-height:1">Fishlocator</div>
+    <h1 style="margin:0;font-size:27px;font-weight:800;line-height:1.1;flex:1;white-space:nowrap">Where on earth does this fish live?</h1>
+    <div style="background:#F2643D;color:#14110F;border:4px solid #14110F;border-radius:10px;padding:6px 14px;font-weight:800;font-size:19px;white-space:nowrap;transform:rotate(2deg)">Reel No. 1 &#183; Nov 7</div>
+  </div>
+
+  <figure style="position:absolute;left:34px;top:122px;width:410px;margin:0;background:#FFF6DF;border:6px solid #14110F;border-radius:6px;box-sizing:border-box;padding:12px 12px 8px;transform:rotate(-2deg);color:#14110F">
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:100%;height:274px;object-fit:cover;border:3px solid #14110F;box-sizing:border-box">
+    <figcaption style="display:flex;justify-content:space-between;align-items:baseline;font-size:14px;font-weight:700;padding-top:7px">
+      <span>Today's mystery fish</span>
+      <a href="#credit" style="color:#14110F;font-weight:500">Photo credit (spoiler!)</a>
+    </figcaption>
+  </figure>
+  <img src="/_blob/7bec8adb94c12b02a97914955ae6d035" alt="A cartoon glove pointing at the fish's hand-shaped fin" style="position:absolute;left:254px;top:318px;width:110px;height:72px">
+
+  <svg aria-hidden="true" width="60" height="50" viewBox="0 0 60 50" style="position:absolute;left:120px;top:548px">
+    <path d="M6 0L24 46L50 0" fill="#FFF6DF" stroke="#14110F" stroke-width="5" stroke-linejoin="round"></path>
+  </svg>
+  <div style="position:absolute;left:34px;top:466px;width:232px;background:#FFF6DF;color:#14110F;border:5px solid #14110F;border-radius:24px;box-sizing:border-box;padding:10px 15px;font-size:18px;font-weight:700;line-height:1.18">Psst, those are hands. It walks instead of swimming!</div>
+  <img class="gil" src="/_blob/133032652cf2d669107524de3a63bd4f" alt="Gil, a grinning cartoon fish in white gloves, holding a fishing rod" style="position:absolute;left:14px;top:558px;width:250px;height:227px">
+
+  <div style="position:absolute;left:560px;top:640px;width:430px">
+    <div style="font-size:15px;font-weight:700;color:#FFC93C">Your bobber is floating at</div>
+    <div style="font-size:28px;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums">43.5&#176;S, 172.6&#176;E</div>
+    <div style="display:flex;align-items:center;gap:6px;margin-top:8px">
+      <img src="/_blob/5cffd92bc5a442d70a8bbeced2dc92c2" alt="" style="width:30px;height:45px">
+      <img src="/_blob/5cffd92bc5a442d70a8bbeced2dc92c2" alt="" style="width:30px;height:45px">
+      <img src="/_blob/5cffd92bc5a442d70a8bbeced2dc92c2" alt="" style="width:30px;height:45px">
+      <div style="font-size:17px;font-weight:500;line-height:1.2;margin-left:10px">3 casts left. Miss, and Gil spills another clue.</div>
+    </div>
+  </div>
+
+  <button class="cast" type="button" style="position:absolute;left:1020px;top:624px;width:224px;height:112px;background:#F2643D;border:6px solid #14110F;border-bottom-width:16px;border-radius:30px;font-family:Chango,sans-serif;font-size:48px;color:#FFF6DF;-webkit-text-stroke:5px #14110F;paint-order:stroke fill">Cast!</button>
+
+  <div style="position:absolute;left:1190px;top:124px;display:flex;flex-direction:column;gap:8px">
+    <button class="round" type="button" aria-label="Zoom in" style="width:48px;height:48px;border-radius:50%;background:#FFF6DF;border:5px solid #14110F;font-family:Chango,sans-serif;font-size:24px;color:#14110F;cursor:pointer;line-height:1">+</button>
+    <button class="round" type="button" aria-label="Zoom out" style="width:48px;height:48px;border-radius:50%;background:#FFF6DF;border:5px solid #14110F;font-family:Chango,sans-serif;font-size:24px;color:#14110F;cursor:pointer;line-height:1">&#8722;</button>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1280,"height":800}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

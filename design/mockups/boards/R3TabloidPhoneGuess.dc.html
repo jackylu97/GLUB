@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Glub tabloid, phone, cast 2</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=Chango&family=Grandstander:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#14110F;color:#FFC93C}
+a{color:#14110F}
+.cond{font-family:'Big Shoulders Display',sans-serif;text-transform:uppercase}
+.mast{font-family:Chango,sans-serif;color:#FFF6DF;-webkit-text-stroke:6px #14110F;paint-order:stroke fill;line-height:.8}
+.scallop{background:radial-gradient(circle at 9px 0,#F2643D 0 6px,#14110F 6px 8.5px,transparent 9px) 0 0/18px 10px repeat-x}
+.cast:focus-visible{outline:4px solid #0A5F5C;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#FFC93C;font-family:Grandstander,sans-serif;color:#14110F">
+  <div style="position:absolute;left:0;top:0;width:390px;height:92px;background:#F2643D;border-bottom:4px solid #14110F"></div>
+  <div class="scallop" style="position:absolute;left:0;top:96px;width:390px;height:10px"></div>
+  <div class="mast" style="position:absolute;left:14px;top:18px;font-size:70px">GLUB</div>
+  <div class="cond" style="position:absolute;right:16px;top:22px;text-align:right;line-height:.95"><div style="font-size:34px;font-weight:900">No. 001</div><div style="font-size:13px;font-weight:700;letter-spacing:.06em">Sat 7 Nov</div></div>
+
+  <h1 style="position:absolute;left:16px;top:122px;margin:0;font-family:Chango,sans-serif;font-weight:400;font-size:46px;line-height:.9;letter-spacing:-.02em;white-space:nowrap">IT WALKS.</h1>
+  <div style="position:absolute;left:16px;top:172px;background:#14110F;color:#FFC93C;padding:4px 10px;font-family:Chango,sans-serif;font-size:14px;line-height:1.2">SALT WATER. 5&#8211;10 M DOWN.</div>
+  <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="position:absolute;left:16px;top:206px;width:358px;height:194px;object-fit:cover;border:4px solid #14110F;box-sizing:border-box">
+
+  <div style="position:absolute;left:16px;top:412px;width:358px;height:198px;border:4px solid #14110F;box-sizing:border-box;overflow:hidden;background:#FFC93C">
+    <img src="/_blob/5ecc4f5ed4bfe6eddddb41f5a947f3df" alt="World chart, zoomed in on Australia and New Zealand" style="position:absolute;left:-765px;top:-318px;width:1100px;height:572px;max-width:none">
+    <div style="position:absolute;left:229px;top:105px;width:18px;height:18px;border:3px solid #14110F;transform:rotate(45deg);box-sizing:border-box;background:#FFF6DF" aria-label="Cast 1, missed"></div>
+    <div style="position:absolute;left:158px;top:78px;width:34px;height:34px;border-radius:50%;border:4px solid #14110F;box-sizing:border-box;background:rgba(242,100,61,.6)" aria-label="Pin 2, near Melbourne"></div>
+  </div>
+
+  <ol aria-label="Your casts" class="cond" style="position:absolute;left:16px;top:622px;width:358px;margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:10px;align-items:start">
+    <li style="border-top:5px solid #14110F;padding-top:4px"><div style="font-size:12px;font-weight:700;letter-spacing:.08em">Cast 1</div><div style="font-size:34px;font-weight:900;line-height:.9;font-variant-numeric:tabular-nums">2,043<span style="font-size:15px"> km</span></div><div style="font-size:14px;font-weight:900;letter-spacing:.04em">Go west</div></li>
+    <li style="border-top:5px solid #F2643D;padding-top:4px"><div style="font-size:12px;font-weight:700;letter-spacing:.08em;color:#9A2B12">Cast 2</div><div style="font-size:20px;font-weight:900;line-height:1">Pin set</div></li>
+    <li style="border-top:5px dashed #8C7A44;padding-top:4px;color:#5C4A12"><div style="font-size:12px;font-weight:700;letter-spacing:.08em">Cast 3</div><div style="font-size:20px;font-weight:900;line-height:1">&#8212;</div></li>
+  </ol>
+
+  <button class="cast" type="button" style="position:absolute;left:16px;top:722px;width:358px;height:96px;background:#14110F;border:0;border-bottom:9px solid #F2643D;border-radius:4px;font-family:Chango,sans-serif;font-size:36px;color:#FFC93C;cursor:pointer">CAST No.2</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

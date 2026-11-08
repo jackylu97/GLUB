@@ -1,0 +1,449 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-07T16:30:00Z"
+ },
+ "title": "Glub mockups",
+ "launch": {
+  "view": "canvas",
+  "page": "r3"
+ },
+ "pages": [
+  {
+   "id": "r1",
+   "name": "Round 1"
+  },
+  {
+   "id": "r2",
+   "name": "Round 2: Plaice"
+  },
+  {
+   "id": "r3",
+   "name": "Round 3: Glub"
+  }
+ ],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1280,
+   "h": 800,
+   "title": "The Daily Reel: desktop, guessing",
+   "page": "r1"
+  },
+  "ReelPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "The Daily Reel: phone, guessing",
+   "page": "r1"
+  },
+  "ReelPhoneReveal.dc.html": {
+   "x": 1830,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "The Daily Reel: phone, answer",
+   "page": "r1"
+  },
+  "PostDesktop.dc.html": {
+   "x": 0,
+   "y": 1240,
+   "w": 1280,
+   "h": 800,
+   "title": "Fish Post: desktop, guessing",
+   "page": "r1"
+  },
+  "PostPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "Fish Post: phone, guessing",
+   "page": "r1"
+  },
+  "PostPhoneReveal.dc.html": {
+   "x": 1830,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "Fish Post: phone, answer",
+   "page": "r1"
+  },
+  "TankDesktop.dc.html": {
+   "x": 0,
+   "y": 2480,
+   "w": 1280,
+   "h": 800,
+   "title": "The Tank: desktop, guessing",
+   "page": "r1"
+  },
+  "TankPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "The Tank: phone, guessing",
+   "page": "r1"
+  },
+  "TankPhoneReveal.dc.html": {
+   "x": 1830,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "The Tank: phone, answer",
+   "page": "r1"
+  },
+  "R2ReelDesktop.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1280,
+   "h": 800,
+   "title": "Plaice Reel: desktop, cast 2",
+   "page": "r2"
+  },
+  "R2ReelPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "Plaice Reel: phone, cast 2",
+   "page": "r2"
+  },
+  "R2ReelPhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "Plaice Reel: phone, answer",
+   "page": "r2"
+  },
+  "R2AlmanacDesktop.dc.html": {
+   "x": 0,
+   "y": 1240,
+   "w": 1280,
+   "h": 800,
+   "title": "The Plaice Almanac: desktop, cast 2",
+   "page": "r2"
+  },
+  "R2AlmanacPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "The Plaice Almanac: phone, cast 2",
+   "page": "r2"
+  },
+  "R2AlmanacPhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "The Plaice Almanac: phone, answer",
+   "page": "r2"
+  },
+  "R2SpecimenDesktop.dc.html": {
+   "x": 0,
+   "y": 2480,
+   "w": 1280,
+   "h": 800,
+   "title": "Plaice Specimens: desktop, cast 2",
+   "page": "r2"
+  },
+  "R2SpecimenPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "Plaice Specimens: phone, cast 2",
+   "page": "r2"
+  },
+  "R2SpecimenPhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "Plaice Specimens: phone, answer",
+   "page": "r2"
+  },
+  "R3TrimDesktop.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1280,
+   "h": 800,
+   "title": "Front page, trimmed: desktop, cast 2",
+   "page": "r3"
+  },
+  "R3TrimPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "Front page, trimmed: phone, cast 2",
+   "page": "r3"
+  },
+  "R3TrimPhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 0,
+   "w": 390,
+   "h": 844,
+   "title": "Front page, trimmed: phone, answer",
+   "page": "r3"
+  },
+  "R3PuzzleDesktop.dc.html": {
+   "x": 0,
+   "y": 1240,
+   "w": 1280,
+   "h": 800,
+   "title": "Puzzle page: desktop, cast 2",
+   "page": "r3"
+  },
+  "R3PuzzlePhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "Puzzle page: phone, cast 2",
+   "page": "r3"
+  },
+  "R3PuzzlePhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 1240,
+   "w": 390,
+   "h": 844,
+   "title": "Puzzle page: phone, answer",
+   "page": "r3"
+  },
+  "R3TabloidDesktop.dc.html": {
+   "x": 0,
+   "y": 2480,
+   "w": 1280,
+   "h": 800,
+   "title": "Tabloid: desktop, cast 2",
+   "page": "r3"
+  },
+  "R3TabloidPhoneGuess.dc.html": {
+   "x": 1360,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "Tabloid: phone, cast 2",
+   "page": "r3"
+  },
+  "R3TabloidPhoneAnswer.dc.html": {
+   "x": 1830,
+   "y": 2480,
+   "w": 390,
+   "h": 844,
+   "title": "Tabloid: phone, answer",
+   "page": "r3"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "ReelPhoneGuess.dc.html",
+  "ReelPhoneReveal.dc.html",
+  "PostDesktop.dc.html",
+  "PostPhoneGuess.dc.html",
+  "PostPhoneReveal.dc.html",
+  "TankDesktop.dc.html",
+  "TankPhoneGuess.dc.html",
+  "TankPhoneReveal.dc.html",
+  "R2ReelDesktop.dc.html",
+  "R2ReelPhoneGuess.dc.html",
+  "R2ReelPhoneAnswer.dc.html",
+  "R2AlmanacDesktop.dc.html",
+  "R2AlmanacPhoneGuess.dc.html",
+  "R2AlmanacPhoneAnswer.dc.html",
+  "R2SpecimenDesktop.dc.html",
+  "R2SpecimenPhoneGuess.dc.html",
+  "R2SpecimenPhoneAnswer.dc.html",
+  "R3TrimDesktop.dc.html",
+  "R3TrimPhoneGuess.dc.html",
+  "R3TrimPhoneAnswer.dc.html",
+  "R3PuzzleDesktop.dc.html",
+  "R3PuzzlePhoneGuess.dc.html",
+  "R3PuzzlePhoneAnswer.dc.html",
+  "R3TabloidDesktop.dc.html",
+  "R3TabloidPhoneGuess.dc.html",
+  "R3TabloidPhoneAnswer.dc.html"
+ ],
+ "notes": {
+  "titleReel": {
+   "x": 0,
+   "y": -250,
+   "text": "A. The Daily Reel",
+   "kind": "title1",
+   "maxW": 2220
+  },
+  "noteReel": {
+   "x": 2300,
+   "y": 0,
+   "w": 420,
+   "size": "m",
+   "fill": "orange",
+   "text": "A 1930s-style cartoon short, new every day. Gil the emcee fish casts a line to wherever you point. Wrong guesses make him gasp. The answer arrives as an iris closing on the fish's home, the way old cartoons end.\n\nVerb: Cast. Each day is a Reel."
+  },
+  "titlePost": {
+   "x": 0,
+   "y": 990,
+   "text": "B. Fish Post",
+   "kind": "title1",
+   "maxW": 2220
+  },
+  "notePost": {
+   "x": 2300,
+   "y": 1240,
+   "w": 420,
+   "size": "m",
+   "fill": "blue",
+   "text": "A lost fish has turned up at the sorting office in a knotted bag, and you have to address it home. The airmail stripes are made of fish. Clues are a customs form. The answer is a postcard the fish writes you, which is also the thing people share.\n\nVerb: Send."
+  },
+  "titleTank": {
+   "x": 0,
+   "y": 2230,
+   "text": "C. The Tank",
+   "kind": "title1",
+   "maxW": 2220
+  },
+  "noteTank": {
+   "x": 2300,
+   "y": 2480,
+   "w": 420,
+   "size": "m",
+   "fill": "pink",
+   "text": "The whole screen is one strip-mall pet-shop tank, seen front on: black hood, fluorescent light, pink gravel, plastic castle. The map is painted on the back glass. Every fish you release adds a tank mate, so your streak is something you can watch swim.\n\nVerb: Release."
+  },
+  "noteSample": {
+   "x": 2300,
+   "y": 500,
+   "w": 420,
+   "size": "s",
+   "fill": "gray",
+   "text": "All boards use real data for the spotted handfish: real photo, sourced facts, real coastlines. The guess, score, streak, and day number are samples."
+  },
+  "r2Title1": {
+   "x": 0,
+   "y": -250,
+   "text": "1. Plaice Reel (the conservative one)",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r2"
+  },
+  "r2Note1": {
+   "x": 2300,
+   "y": 0,
+   "w": 440,
+   "size": "m",
+   "fill": "orange",
+   "page": "r2",
+   "text": "Direction A without the cartoon, set in a familiar daily-game frame. A Wordle-style header bar with a fish-scale trim, the photo in a film strip with printed edge codes, Worldle-style rows for each cast (distance, compass arrow, catch size), and a Wordle-style stats sheet on the answer. The cartoon iris stays, as a plain circle."
+  },
+  "r2Title2": {
+   "x": 0,
+   "y": 990,
+   "text": "2. The Plaice Almanac (wild)",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r2"
+  },
+  "r2Note2": {
+   "x": 2300,
+   "y": 1240,
+   "w": 440,
+   "size": "m",
+   "fill": "yellow",
+   "page": "r2",
+   "text": "A loud fishing almanac and newspaper puzzle page. The clues arrive as headlines, the guess log is a tide table, the map is the Chart of the Day, and the cast button is a coupon you clip. The answer screen is a late edition. The moon phase is real for the date."
+  },
+  "r2Title3": {
+   "x": 0,
+   "y": 2230,
+   "text": "3. Plaice Specimens (wild)",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r2"
+  },
+  "r2Note3": {
+   "x": 2300,
+   "y": 2480,
+   "w": 440,
+   "size": "m",
+   "fill": "teal",
+   "page": "r2",
+   "text": "Museum specimen tags and the IUCN Red List scale, crossed with the attribute grids from character-guessing games. Every cast is graded down a ladder of place: hemisphere, region, country, state. The tiles say YES or NO in words as well as colour. The colour notes are sampled from today's photo."
+  },
+  "r2Sample": {
+   "x": 2300,
+   "y": 520,
+   "w": 440,
+   "size": "s",
+   "fill": "gray",
+   "page": "r2",
+   "text": "Sample game: cast 1 near Christchurch (2,043 km, home is west), cast 2 near Melbourne (606 km, south-southeast), cast 3 in the Derwent estuary. Distances and bearings are computed. Stats, streaks and the day number are samples."
+  },
+  "r3TitleTrim": {
+   "x": 0,
+   "y": -250,
+   "text": "1. Front page, trimmed",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r3"
+  },
+  "r3NoteTrim": {
+   "x": 2300,
+   "y": 0,
+   "w": 440,
+   "size": "m",
+   "fill": "orange",
+   "page": "r3",
+   "text": "Round 2's almanac with the noise taken out: no ticker, no side strapline, no joke copy. The masthead, the clue as headline, the chart of the day and the tide table stay. The coupon keeps its dashed edge but just says Cast."
+  },
+  "r3TitlePuzzle": {
+   "x": 0,
+   "y": 990,
+   "text": "2. Puzzle page (calmest)",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r3"
+  },
+  "r3NotePuzzle": {
+   "x": 2300,
+   "y": 1240,
+   "w": 440,
+   "size": "m",
+   "fill": "yellow",
+   "page": "r3",
+   "text": "The game sits in one boxed puzzle, the way a crossword sits on a newspaper puzzle page. Clues are numbered like crossword clues, casts are three big tiles, and there's a single coral action. Most white space, fewest colours."
+  },
+  "r3TitleTabloid": {
+   "x": 0,
+   "y": 2230,
+   "text": "3. Tabloid (fewest words)",
+   "kind": "title1",
+   "maxW": 2220,
+   "page": "r3"
+  },
+  "r3NoteTabloid": {
+   "x": 2300,
+   "y": 2480,
+   "w": 440,
+   "size": "m",
+   "fill": "pink",
+   "page": "r3",
+   "text": "Still loud, but with almost no words. A coral masthead band, then today's clue set huge (IT WALKS.), the photo, the chart, and three big distance numbers. Each new clue arrives as the next headline."
+  },
+  "r3Sample": {
+   "x": 2300,
+   "y": 520,
+   "w": 440,
+   "size": "s",
+   "fill": "gray",
+   "page": "r3",
+   "text": "Same sample game as round 2: cast 1 near Christchurch (2,043 km, home is west), cast 2 near Melbourne (606 km), cast 3 in the Derwent estuary. Stats and the day number are samples."
+  }
+ },
+ "designSystems": []
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "spotted-handfish",
+    "scientificName": "Brachionichthys hirsutus",
+    "commonName": "Spotted handfish",
+    "iucn": { "code": "CR", "source": "GBIF:IUCN", "taxonId": "2958" },
+    "waterType": "marine",
+    "region": "Australia/NZ/New Guinea",
+    "range": {
+      "summary": "the Derwent estuary and nearby bays, southeast Tasmania, Australia",
+      "method": "anchors",
+      "cells": [],
+      "anchors": [
+        { "lat": -42.92, "lng": 147.33, "radiusKm": 15 },
+        { "lat": -43.05, "lng": 147.45, "radiusKm": 20 }
+      ]
+    },
+    "photo": {
+      "file": "../design/mockups/assets/handfish.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_10_The_Endangered_Spotted_Handfish.jpg",
+      "source": "wikimedia",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Barry Bruce, CSIRO",
+      "kind": "live-wild",
+      "spoilerRisk": false
+    },
+    "funFact": "It walks along the sea floor on fins shaped like hands.",
+    "revealFact": "In 1996 it became the first marine fish listed as critically endangered on the IUCN Red List.",
+    "hints": { "habitat": "Shallow, sandy sea floor", "size": "Up to 12 cm", "depth": "Usually 5 to 10 metres down" }
+  },
+  {
+    "id": "fixture-fish-2",
+    "fixture": true,
+    "scientificName": "Fixtura secunda",
+    "commonName": "Fixture fish 2",
+    "iucn": { "code": "EN" },
+    "waterType": "freshwater",
+    "range": { "summary": "a test range around Lake Baikal (fixture data)", "cells": [], "anchors": [{ "lat": 53.5, "lng": 108.0, "radiusKm": 250 }] },
+    "photo": { "file": "../design/mockups/assets/handfish.jpg", "license": "CC BY 3.0", "licenseUrl": "https://creativecommons.org/licenses/by/3.0", "author": "Barry Bruce, CSIRO" },
+    "funFact": "Fixture clue: this is development data, not a real fish.",
+    "revealFact": "Fixture data. The real dataset replaces this fish.",
+    "hints": { "habitat": "Fixture habitat clue", "depth": "Fixture depth clue" }
+  },
+  {
+    "id": "fixture-fish-3",
+    "fixture": true,
+    "scientificName": "Fixtura tertia",
+    "commonName": "Fixture fish 3",
+    "iucn": { "code": "VU" },
+    "waterType": "freshwater",
+    "range": { "summary": "a test range in the central Amazon (fixture data)", "cells": [[-3.0, -60.0], [-3.0, -59.5]], "anchors": [] },
+    "photo": { "file": "../design/mockups/assets/handfish.jpg", "license": "CC BY 3.0", "licenseUrl": "https://creativecommons.org/licenses/by/3.0", "author": "Barry Bruce, CSIRO" },
+    "funFact": "Fixture clue: this is development data, not a real fish.",
+    "revealFact": "Fixture data. The real dataset replaces this fish.",
+    "hints": { "habitat": "Fixture habitat clue", "size": "Fixture size clue" }
+  },
+  {
+    "id": "fixture-fish-4",
+    "fixture": true,
+    "scientificName": "Fixtura quarta",
+    "commonName": "Fixture fish 4",
+    "iucn": { "code": "CR" },
+    "waterType": "marine",
+    "range": { "summary": "a test range around Hawaii (fixture data)", "cells": [], "anchors": [{ "lat": 20.8, "lng": -156.3, "radiusKm": 300 }] },
+    "photo": { "file": "../design/mockups/assets/handfish.jpg", "license": "CC BY 3.0", "licenseUrl": "https://creativecommons.org/licenses/by/3.0", "author": "Barry Bruce, CSIRO" },
+    "funFact": "Fixture clue: this is development data, not a real fish.",
+    "revealFact": "Fixture data. The real dataset replaces this fish.",
+    "hints": { "habitat": "Fixture habitat clue" }
+  },
+  {
+    "id": "fixture-fish-5",
+    "fixture": true,
+    "scientificName": "Fixtura quinta",
+    "commonName": "Fixture fish 5",
+    "iucn": { "code": "EN" },
+    "waterType": "marine",
+    "range": { "summary": "a test range crossing the antimeridian near Fiji (fixture data)", "cells": [], "anchors": [{ "lat": -17.5, "lng": 179.8, "radiusKm": 200 }, { "lat": -16.6, "lng": -179.9, "radiusKm": 120 }] },
+    "photo": { "file": "../design/mockups/assets/handfish.jpg", "license": "CC BY 3.0", "licenseUrl": "https://creativecommons.org/licenses/by/3.0", "author": "Barry Bruce, CSIRO" },
+    "funFact": "Fixture clue: this is development data, not a real fish.",
+    "revealFact": "Fixture data. The real dataset replaces this fish.",
+    "hints": { "habitat": "Fixture habitat clue" }
+  }
+]

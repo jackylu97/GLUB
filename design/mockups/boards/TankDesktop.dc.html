@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Tank, desktop guess</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Permanent+Marker&family=Rubik:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#07365F}a:hover{color:#E8197A}
+.water{background:linear-gradient(180deg,#2FE3E0 0%,#18B6D6 30%,#0E86BE 65%,#0A5C9E 100%)}
+.hood{background:linear-gradient(180deg,#2A2D33 0%,#141619 18%,#0E0F12 100%)}
+.tube{background:#F2FFFF;box-shadow:0 6px 26px 6px rgba(190,255,255,.55)}
+.dymo{background:#D21F3C;color:#FFFFFF;font-family:Rubik,sans-serif;font-weight:800;letter-spacing:.14em;text-transform:uppercase;text-shadow:0 1px 0 #8E0F25}
+.glare{background:linear-gradient(115deg,transparent 0 40%,rgba(255,255,255,.13) 40% 47%,transparent 47% 52%,rgba(255,255,255,.08) 52% 55%,transparent 55%)}
+.release{background:linear-gradient(180deg,#FF6FB5 0%,#E8197A 55%,#C60F66 100%);cursor:pointer;transition:transform .15s cubic-bezier(.2,.8,.2,1)}
+.release:hover{transform:translateY(-2px) scale(1.02)}
+.release:focus-visible,.round:focus-visible{outline:4px solid #FFFFFF;outline-offset:3px}
+.bub{animation:rise 3.6s ease-in infinite}
+.bub2{animation:rise 4.4s ease-in .9s infinite}
+.pin{animation:dip 2.2s ease-in-out infinite}
+@keyframes rise{0%{transform:translateY(0);opacity:0}15%{opacity:.9}100%{transform:translateY(-300px);opacity:0}}
+@keyframes dip{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+@media (prefers-reduced-motion:reduce){.bub,.bub2,.pin{animation:none}}
+</style>
+</helmet>
+<div style="width:1280px;height:800px;position:relative;overflow:hidden;background:#0E0F12;font-family:Rubik,sans-serif;color:#07365F">
+  <div class="water" style="position:absolute;left:16px;top:96px;width:1248px;height:704px"></div>
+  <img src="/_blob/500d0f68408f8dcb660d38c96fcc55df" alt="World map painted on the tank's back glass" style="position:absolute;left:300px;top:112px;width:960px;height:499px">
+
+  <div class="bub" style="position:absolute;left:190px;top:560px;width:14px;height:14px;border:2px solid #E9FFFF;border-radius:50%;opacity:.8"></div>
+  <div class="bub2" style="position:absolute;left:206px;top:590px;width:9px;height:9px;border:2px solid #E9FFFF;border-radius:50%;opacity:.8"></div>
+  <div class="bub" style="position:absolute;left:1210px;top:520px;width:11px;height:11px;border:2px solid #E9FFFF;border-radius:50%;opacity:.8"></div>
+
+  <img class="pin" src="/_blob/9b493ad50211797073ad5227e062ce34" alt="Your goldfish pin, nose down off New Zealand's South Island" style="position:absolute;left:1143px;top:405px;width:64px;height:96px">
+
+  <img src="/_blob/67a3cca4e4e15786dd60cec9fec40670" alt="" style="position:absolute;left:96px;top:482px;width:170px;height:188px">
+  <img src="/_blob/e57a7df18985f1a2589f86bc9202793f" alt="" style="position:absolute;left:1150px;top:452px;width:112px;height:208px">
+  <img src="/_blob/4a809366cfab1a78adcc6f46f58f6369" alt="" style="position:absolute;left:0;top:632px;width:1280px;height:170px">
+  <img src="/_blob/4e88480e5712f9ac8f194293924bed94" alt="" style="position:absolute;left:300px;top:640px;width:112px;height:86px">
+
+  <div class="glare" style="position:absolute;left:16px;top:96px;width:1248px;height:704px;pointer-events:none"></div>
+
+  <div class="hood" style="position:absolute;left:0;top:0;width:1280px;height:92px;display:flex;align-items:center;gap:36px;padding:0 32px;box-sizing:border-box">
+    <div style="font-family:'Bagel Fat One',sans-serif;font-size:50px;color:#FFD400;line-height:1;letter-spacing:.01em">Fishlocator</div>
+    <h1 style="margin:0;flex:1;font-size:24px;font-weight:700;color:#FFFFFF">Where does this fish live? Release it in its home waters.</h1>
+    <div class="dymo" style="padding:7px 14px;font-size:16px;transform:rotate(-1.5deg)">Tank No. 1 &#183; Nov 7</div>
+  </div>
+  <div class="tube" style="position:absolute;left:24px;top:92px;width:1232px;height:6px;border-radius:3px"></div>
+
+  <figure style="position:absolute;left:30px;top:122px;width:330px;margin:0;background:#FFFFFF;border-radius:14px;padding:12px 12px 14px;box-sizing:border-box;box-shadow:0 10px 24px rgba(3,30,60,.35);transform:rotate(-1.5deg)">
+    <div style="position:absolute;left:22px;top:-9px;width:24px;height:24px;border-radius:50%;background:rgba(233,255,255,.75);border:2px solid #A8E9F2"></div>
+        <div style="font-family:'Bagel Fat One',sans-serif;font-size:26px;color:#E8197A;line-height:1;margin:4px 0 9px">New arrival!</div>
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:306px;height:226px;object-fit:cover;border-radius:6px">
+    <figcaption style="font-family:'Permanent Marker',cursive;font-size:19px;line-height:1.25;margin-top:10px;color:#07365F">Care tip: those are hands! It walks, it doesn't swim.</figcaption>
+    <div style="position:absolute;right:-20px;top:40px;width:84px;height:84px;border-radius:50%;background:#FF7A1A;border:3px solid #07365F;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:800;font-size:13px;line-height:1.05;color:#07365F;transform:rotate(12deg)">NOT<br>FOR<br>SALE</div>
+  </figure>
+
+  <div style="position:absolute;left:1208px;top:118px;display:flex;flex-direction:column;gap:10px">
+    <button class="round" type="button" aria-label="Zoom in" style="width:46px;height:46px;border-radius:50%;background:rgba(233,255,255,.85);border:3px solid #07365F;font-family:Rubik,sans-serif;font-size:26px;font-weight:800;color:#07365F;cursor:pointer;line-height:1">+</button>
+    <button class="round" type="button" aria-label="Zoom out" style="width:46px;height:46px;border-radius:50%;background:rgba(233,255,255,.85);border:3px solid #07365F;font-family:Rubik,sans-serif;font-size:26px;font-weight:800;color:#07365F;cursor:pointer;line-height:1">&#8722;</button>
+  </div>
+
+  <div style="position:absolute;left:452px;top:670px;display:flex;flex-direction:column;gap:10px;align-items:flex-start">
+    <div class="dymo" style="padding:8px 16px;font-size:22px;font-variant-numeric:tabular-nums;transform:rotate(-1deg)">43.5&#176;S 172.6&#176;E</div>
+    <div style="display:flex;align-items:center;gap:6px;background:rgba(255,255,255,.92);border-radius:22px;padding:4px 14px 4px 8px">
+      <img src="/_blob/78993fa24dc753295ead7f02e694a603" alt="" style="width:48px;height:28px">
+      <img src="/_blob/78993fa24dc753295ead7f02e694a603" alt="" style="width:48px;height:28px">
+      <img src="/_blob/78993fa24dc753295ead7f02e694a603" alt="" style="width:48px;height:28px">
+      <span style="font-weight:700;font-size:16px;margin-left:6px">3 tries. Misses earn clues.</span>
+    </div>
+  </div>
+  <button class="release" type="button" style="position:absolute;left:916px;top:668px;width:328px;height:92px;border:4px solid #07365F;border-radius:46px;font-family:'Bagel Fat One',sans-serif;font-size:36px;color:#FFFFFF">Release here!</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1280,"height":800}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

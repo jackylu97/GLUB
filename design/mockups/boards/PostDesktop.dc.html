@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fish Post, desktop guess</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Shrikhand&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#14246B}a:hover{color:#E8352E}
+.fh{background:url(/_blob/67bf7a73fbf16c0f03b1a745c2183b03) repeat-x}
+.fv{background:url(/_blob/42d56cfc6101d6db565d8cde834f6db8) repeat-y}
+.stamp{background:#FFFFFF;padding:14px;box-sizing:border-box;-webkit-mask:radial-gradient(circle 6px at 10px 10px,transparent 96%,#000) -10px -10px/20px 20px,linear-gradient(#000 0 0) content-box;-webkit-mask-composite:source-over;mask:radial-gradient(circle 6px at 10px 10px,transparent 96%,#000) -10px -10px/20px 20px,linear-gradient(#000 0 0) content-box;mask-composite:add}
+.pin{animation:drop .7s cubic-bezier(.2,1.4,.4,1) both}
+@keyframes drop{from{transform:translateY(-28px);opacity:0}to{transform:none;opacity:1}}
+@media (prefers-reduced-motion:reduce){.pin{animation:none}}
+.send{cursor:pointer;transition:transform .15s cubic-bezier(.2,.8,.2,1)}
+.send:hover{transform:rotate(0deg) scale(1.03)}
+.send:focus-visible{outline:4px solid #14246B;outline-offset:4px}
+</style>
+</helmet>
+<div style="width:1280px;height:800px;position:relative;overflow:hidden;background:#1A3FBF;font-family:'Courier Prime',monospace;color:#14246B">
+  <div style="position:absolute;left:24px;top:24px;width:1232px;height:752px;background:#E4F0FF;border-radius:4px;overflow:hidden">
+    <div class="fh" style="position:absolute;left:0;top:0;width:1232px;height:24px"></div>
+    <div class="fh" style="position:absolute;left:0;bottom:0;width:1232px;height:24px"></div>
+    <div class="fv" style="position:absolute;left:0;top:0;width:24px;height:752px"></div>
+    <div class="fv" style="position:absolute;right:0;top:0;width:24px;height:752px"></div>
+  </div>
+
+  <div style="position:absolute;left:68px;top:52px">
+    <div style="font-family:Shrikhand,serif;font-size:54px;line-height:1;color:#E8352E">Fishlocator</div>
+    <div style="font-size:16px;font-weight:700;letter-spacing:.08em;margin-top:8px">LOST FISH DEPARTMENT &#183; ITEM No. 1 &#183; 7 NOV 2026</div>
+  </div>
+  <div style="position:absolute;left:560px;top:62px;background:#1A3FBF;color:#FFFFFF;border-radius:6px;padding:8px 14px;font-weight:700;font-size:15px;line-height:1.15;letter-spacing:.06em;transform:rotate(-3deg)">PAR AVION<br>BY FISH MAIL</div>
+
+  <h1 style="position:absolute;left:68px;top:148px;margin:0;font-size:21px;font-weight:700;letter-spacing:.04em">DELIVER THIS FISH TO:</h1>
+  <div style="position:absolute;left:68px;top:178px;width:720px;height:374px;border-top:2px solid #14246B">
+    <img src="/_blob/3d7ea343f6039c01a0101ad40e92251c" alt="World map printed in blue ink" style="position:absolute;left:0;top:6px;width:720px;height:374px">
+    <svg class="pin" role="img" aria-label="Your delivery pin, off New Zealand's South Island" width="48" height="64" viewBox="0 0 48 64" style="position:absolute;left:632px;top:242px">
+      <path d="M24 46V6" stroke="#14246B" stroke-width="3"></path>
+      <path d="M25 6C31 1 41 1 45 7L48 4C47 8 47 11 48 14L45 11C41 17 31 17 25 12Z" fill="#E8352E" stroke="#14246B" stroke-width="2" stroke-linejoin="round"></path>
+      <circle cx="24" cy="48" r="13" fill="none" stroke="#E8352E" stroke-width="3" stroke-dasharray="4 3"></circle>
+      <circle cx="24" cy="48" r="4.5" fill="#E8352E" stroke="#14246B" stroke-width="2"></circle>
+    </svg>
+  </div>
+  <div style="position:absolute;left:68px;top:574px;width:720px;display:flex;gap:28px;align-items:baseline;border-bottom:2px dashed #14246B;padding-bottom:8px">
+    <span style="font-size:15px;font-weight:700;letter-spacing:.06em">POSTCODE</span>
+    <span style="font-size:28px;font-weight:700;font-variant-numeric:tabular-nums">43.5&#176;S, 172.6&#176;E</span>
+    <span style="font-size:15px;margin-left:auto">Scroll to zoom. Drag to pan.</span>
+  </div>
+
+  <figure class="stamp" style="position:absolute;left:836px;top:56px;width:380px;height:300px;margin:0;transform:rotate(2.5deg)">
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="Stamp showing a spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:352px;height:216px;object-fit:cover">
+    <figcaption style="display:flex;justify-content:space-between;align-items:center;height:56px;padding:0 4px">
+      <span style="font-family:Shrikhand,serif;font-size:22px;color:#E8352E;line-height:1">Fish Post<span style="display:block;font-family:'Courier Prime',monospace;font-size:12px;font-weight:700;color:#14246B;letter-spacing:.06em;margin-top:4px">ORIGIN: UNKNOWN</span></span>
+      <span style="font-family:Shrikhand,serif;font-size:32px;color:#14246B">12cm</span>
+    </figcaption>
+  </figure>
+  <svg aria-hidden="true" width="280" height="140" viewBox="0 0 280 140" style="position:absolute;left:976px;top:26px;opacity:.85">
+    <defs><path id="pmA" d="M210 120A50 50 0 1 1 210.1 120"></path></defs>
+    <circle cx="210" cy="70" r="58" fill="none" stroke="#14246B" stroke-width="3"></circle>
+    <circle cx="210" cy="70" r="40" fill="none" stroke="#14246B" stroke-width="2"></circle>
+    <text font-family="Courier Prime, monospace" font-size="13" font-weight="700" fill="#14246B" letter-spacing="2"><textPath href="#pmA">SORTING OFFICE &#183; LOST FISH &#183;</textPath></text>
+    <text x="210" y="66" text-anchor="middle" font-family="Courier Prime, monospace" font-size="16" font-weight="700" fill="#14246B">07 NOV</text>
+    <text x="210" y="84" text-anchor="middle" font-family="Courier Prime, monospace" font-size="16" font-weight="700" fill="#14246B">2026</text>
+    <path d="M24 50q12 -8 24 0t24 0t24 0t24 0t24 0M24 70q12 -8 24 0t24 0t24 0t24 0t24 0M24 90q12 -8 24 0t24 0t24 0t24 0t24 0" fill="none" stroke="#14246B" stroke-width="3"></path>
+  </svg>
+
+  <section aria-label="Customs declaration: today's clues" style="position:absolute;left:836px;top:404px;width:380px;box-sizing:border-box;background:#FFFFFF;border:2px solid #14246B;padding:14px 18px 16px">
+    <h2 style="margin:0 0 10px;font-size:16px;letter-spacing:.1em;border-bottom:2px solid #14246B;padding-bottom:6px">CUSTOMS DECLARATION</h2>
+    <dl style="margin:0;display:grid;grid-template-columns:118px 1fr;row-gap:6px;font-size:16px;line-height:1.25">
+      <dt style="font-weight:700">Contents</dt><dd style="margin:0">1 fish, live, spotted</dd>
+      <dt style="font-weight:700">Water</dt><dd style="margin:0">[X] Salt &#160; [ &#160;] Fresh</dd>
+      <dt style="font-weight:700">Length</dt><dd style="margin:0">Up to 12 cm</dd>
+      <dt style="font-weight:700">Handling</dt><dd style="margin:0;color:#C42620;font-weight:700">WALKS. DOES NOT SWIM.</dd>
+    </dl>
+    <div style="margin-top:12px;border-top:2px dashed #14246B;padding-top:8px;font-size:15px">Clue 2 is sealed. It opens after your first try.</div>
+  </section>
+
+  <div style="position:absolute;left:68px;top:656px;display:flex;align-items:center;gap:10px">
+    <span style="font-size:15px;font-weight:700;letter-spacing:.06em;margin-right:6px">DELIVERY<br>ATTEMPTS</span>
+    <span style="width:52px;height:60px;box-sizing:border-box;border:3px solid #E8352E;background:#FFFFFF;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:15px;color:#C42620">1st</span>
+    <span style="width:52px;height:60px;box-sizing:border-box;border:2px dashed #14246B;display:flex;align-items:center;justify-content:center;font-size:15px">2nd</span>
+    <span style="width:52px;height:60px;box-sizing:border-box;border:2px dashed #14246B;display:flex;align-items:center;justify-content:center;font-size:15px">3rd</span>
+    <img src="/_blob/10b18a84ca38560809bc9fe25e4d0e0b" alt="" style="width:60px;height:75px;margin-left:22px">
+    <span style="font-size:16px;line-height:1.3;max-width:300px">Live fish. Handle with care. Every miss opens another clue.</span>
+  </div>
+  <button class="send" type="button" style="position:absolute;left:896px;top:646px;width:320px;height:84px;background:#E8352E;color:#FFFFFF;border:4px solid #14246B;border-radius:12px;box-shadow:0 0 0 4px #E4F0FF,0 0 0 7px #E8352E;font-family:Shrikhand,serif;font-size:34px;transform:rotate(-1.5deg)">Stamp &amp; send</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1280,"height":800}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

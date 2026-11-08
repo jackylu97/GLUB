@@ -1,0 +1,225 @@
+# id | option | kind | spoilerRisk | note   (visual review of contact sheets, 2026-11-07)
+# option = index into photo_options.json; "reject" = no usable photo (reason in note)
+devils-hole-pupfish|3|live-wild|false|
+alabama-cavefish|reject|||only 142x188 px images available
+giant-sea-bass|0|live-wild|false|
+cui-ui|4|aquarium|false|1970s hatchery documentary photo; person holding the fish
+razorback-sucker|0|specimen|false|
+humpback-chub|0|live-wild|false|held in hands
+alabama-sturgeon|0|live-wild|false|held over a net
+american-paddlefish|0|live-wild|false|
+diamond-darter|1|live-wild|false|
+california-golden-trout|0|live-wild|false|held in hand
+apache-trout|3|live-wild|false|held in hand
+spring-pygmy-sunfish|0|aquarium|false|
+delta-smelt|0|live-wild|false|
+moapa-dace|0|live-wild|false|
+copper-redhorse|3|illustration|false|painted illustration
+atlantic-whitefish|0|live-wild|false|
+widemouth-blindcat|0|illustration|false|
+comanche-springs-pupfish|0|live-wild|false|
+vancouver-lamprey|reject|||only a captioned scientific plate
+tequila-splitfin|0|aquarium|false|
+butterfly-splitfin|0|aquarium|false|
+rainbow-characodon|0|aquarium|false|
+totoaba|reject|||only aquaculture-tank and beach-carcass photos
+cuban-gar|0|aquarium|false|
+monterrey-platyfish|0|aquarium|false|
+minckleys-cichlid|0|live-wild|false|
+clarion-angelfish|0|live-wild|false|
+splendid-toadfish|0|live-wild|false|
+gulf-grouper|0|live-wild|false|
+nassau-grouper|0|live-wild|false|
+arrow-cichlid|0|live-wild|false|held in hand
+sulphur-molly|reject|||only an indistinct shoal photo; other Commons matches show the wrong animal (a kingfisher)
+blind-swamp-eel|0|live-wild|false|
+bartons-cichlid|reject|||only one murky photo
+zebra-pleco|0|aquarium|false|
+naked-characin|0|live-wild|false|
+white-blotched-river-stingray|0|aquarium|false|
+ascotan-pupfish|reject|||only photo shows the fish too small to see
+brazilian-blind-characid|0|aquarium|false|
+brazilian-guitarfish|0|specimen|false|
+angular-angelshark|2|specimen|false|beach-cast fish
+doce-surubim|reject|||only a range map with a drawing
+flame-tetra|0|aquarium|false|
+pacama|0|aquarium|false|
+jumandi-cave-catfish|0|live-wild|false|
+danube-salmon|0|live-wild|false|
+corfu-toothcarp|reject|||only captioned scientific plates and a range map
+valencia-toothcarp|3|aquarium|false|
+adriatic-sturgeon|0|aquarium|false|
+european-sea-sturgeon|1|live-wild|false|
+ohrid-trout|0|live-wild|false|
+softmouth-trout|1|live-wild|false|
+asprete|reject|||only maps, diagrams and landscapes
+carpione|3|live-wild|false|person holding the fish
+gwyniad|2|illustration|false|painting
+angelshark|0|live-wild|false|
+maltese-skate|0|illustration|false|
+dalmatian-barbelgudgeon|0|specimen|false|
+apron|0|live-wild|false|
+lez-sculpin|0|aquarium|false|
+knysna-seahorse|0|live-wild|false|
+pindu|0|aquarium|false|
+pungu|reject|||only a specimen photo with a ruler
+golden-cave-catfish|1|live-wild|false|in its cave; small image
+lake-magadi-tilapia|0|live-wild|false|
+maloti-minnow|1|live-wild|false|
+clanwilliam-sandfish|reject|||only a captioned scientific plate
+red-steenbras|0|aquarium|false|
+dageraad|4|live-wild|false|
+lake-chala-tilapia|reject|||only a tagged specimen with ruler, a landscape and a captioned plate
+saulosi|0|aquarium|false|
+natal-shyshark|reject|||only a range map
+pinstripe-damba|4|aquarium|false|
+damba-mipentina|0|aquarium|false|
+mangarahara-cichlid|0|aquarium|false|
+malagasy-blind-gudgeon|0|live-wild|false|
+red-tailed-silverside|0|aquarium|false|
+madagascar-rainbowfish|0|aquarium|false|
+sakaramy-killifish|0|aquarium|false|
+patricias-pachypanchax|0|aquarium|false|
+beluga|2|aquarium|false|
+tawi-atair-garra|0|specimen|false|
+dead-sea-garra|reject|||only a range map
+azraq-killifish|0|aquarium|false|
+amu-darya-shovelnose|reject|||only stamps, maps, a jar specimen and a specimen with a scale-bar label
+persian-sturgeon|1|aquarium|false|captive pool
+mangar|reject|||all photos carry burned-in date stamps or are postage stamps
+pearl-mullet|0|live-wild|false|migrating up a cascade
+binni|0|specimen|false|
+galilee-tristramella|reject|||photos carry a watermark or are composites/old drawings
+halavi-guitarfish|0|live-wild|false|
+ili-marinka|reject|||only postage stamps (showing a different Schizothorax)
+denisons-barb|0|aquarium|false|
+gollum-snakehead|0|live-wild|false|
+hump-backed-mahseer|0|live-wild|false|held for measurement
+cherry-barb|0|aquarium|false|
+ornate-paradisefish|0|aquarium|false|
+zebra-loach|0|aquarium|false|
+pearly-rasbora|0|aquarium|false|
+asoka-barb|0|live-wild|false|
+tambraparni-barb|0|aquarium|false|
+black-ruby-barb|0|aquarium|false|
+banggai-cardinalfish|0|live-wild|false|
+mekong-giant-catfish|0|aquarium|false|
+cave-angelfish|0|live-wild|false|small image
+giant-barb|0|aquarium|false|
+siamese-tiger-perch|0|aquarium|false|
+red-tailed-black-shark|0|aquarium|false|
+sawbwa-barb|0|aquarium|false|
+celestial-pearl-danio|0|aquarium|false|
+tawilis|4|specimen|false|small fish on a palm
+black-betta|0|aquarium|false|
+mahachai-betta|0|aquarium|false|
+indonesian-coelacanth|4|specimen|false|museum specimen, no label visible
+psychedelic-frogfish|reject|||openly licensed photos are all 350 px or smaller
+halmahera-walking-shark|0|live-wild|false|
+celebes-rainbowfish|0|aquarium|false|
+daisys-ricefish|0|aquarium|false|
+kunimasu|0|aquarium|false|
+kaluga|0|aquarium|false|
+chinese-sturgeon|0|aquarium|false|
+high-fin-banded-shark|0|aquarium|false|
+sakhalin-taimen|0|aquarium|false|
+tokyo-bitterling|0|live-wild|false|
+ayumodoki|2|aquarium|false|
+qinghai-naked-carp|0|live-wild|false|
+white-cloud-minnow|4|aquarium|false|pale captive-bred colour form
+hong-kong-grouper|1|live-wild|false|angler holding the fish
+japanese-angelshark|0|aquarium|false|
+spotted-handfish|0|live-wild|false|
+red-handfish|0|live-wild|false|
+australian-lungfish|0|aquarium|false|
+red-finned-blue-eye|reject|||final check: fish not visible in the only label-free photo; clearer options carry burned-in male/female labels
+canterbury-mudfish|1|live-wild|false|in a sampling tub
+gollum-galaxias|3|live-wild|false|in a sampling jar
+blind-cave-eel|0|specimen|false|
+salamanderfish|3|illustration|false|
+boesemans-rainbowfish|0|aquarium|false|
+kutubu-rainbowfish|1|aquarium|false|
+red-rainbowfish|0|aquarium|false|
+lake-wanam-rainbowfish|0|aquarium|false|
+maugean-skate|reject|||only egg-case and unclear beach photos
+whites-seahorse|0|live-wild|false|
+pedder-galaxias|reject|||only a small (589 px) drawing
+mccullochs-anemonefish|3|live-wild|false|
+doubleheader-wrasse|0|live-wild|false|
+nopili-rock-climbing-goby|1|live-wild|false|
+oopu-alamoo|0|live-wild|false|
+clipperton-angelfish|0|live-wild|false|held in gloved hands
+galapagos-grouper|0|live-wild|false|
+mariana-snailfish|reject|||only composite scientific figures and maps
+african-coelacanth|0|live-wild|false|
+st-helena-sharpnose-puffer|0|live-wild|false|
+rocas-gregory|0|live-wild|false|
+noronha-cleaner-goby|reject|||the goby is not visible in the only photo
+golden-panchax|0|live-wild|false|held in hand
+greenland-shark|0|live-wild|false|
+blackfin-icefish|0|aquarium|false|
+bocaccio|0|live-wild|false|
+watercress-darter|0|aquarium|false|photo tank
+cuban-blind-cusk-eel|reject|||only captioned plates (caption names Cuba)
+humpbacked-limia|0|aquarium|false|
+sulphur-limia|0|aquarium|false|
+highland-splitfin|0|aquarium|false|
+clarion-damselfish|0|live-wild|false|
+iporanga-blind-catfish|0|live-wild|false|
+magnificent-pearlfish|0|aquarium|false|
+nahuelbuta-velvet-catfish|0|aquarium|false|
+mountain-catfish|reject|||only scientific illustrations; other Chilean species have photos
+irwins-percilia|0|aquarium|false|
+argentine-angelshark|reject|||only a placeholder, a captioned sketch and a map
+patagonian-seahorse|0|aquarium|false|
+sunshine-pleco|1|aquarium|false|
+piracanjuba|4|live-wild|false|held in hand
+marble-trout|1|live-wild|false|
+myaka|0|aquarium|false|
+natron-tilapia|0|aquarium|false|
+burchells-redfin|0|aquarium|false|
+fiery-redfin|1|live-wild|false|
+red-stumpnose|0|aquarium|false|
+somali-cavefish|0|aquarium|false|
+lake-ifni-trout|0|aquarium|false|photo tank
+deckerts-tilapia|0|aquarium|false|
+bermin-tilapia|0|aquarium|false|
+mafia-notho|0|aquarium|false|
+west-african-seahorse|3|live-wild|false|
+kieneri-damba|0|aquarium|false|
+saroy|0|aquarium|false|
+trondo-mainty|reject|||only a captioned plate (caption names Madagascar)
+marojejy-bedotia|0|aquarium|false|
+powder-blue-panchax|0|aquarium|false|
+pike-asp|reject|||only postage stamps
+sharpray|reject|||only postage stamps
+abant-trout|reject|||no photo of this taxon (Commons/Wikipedia images are generic Salmo trutta)
+shabout|1|live-wild|false|held in hands
+pnar-cavefish|0|live-wild|false|
+blotched-filament-barb|0|aquarium|false|
+sinarapan|reject|||only food photos, dried-fish packaging and small captioned plates
+lanao-barb|reject|||only a lettered multi-panel figure
+reticulated-hillstream-loach|0|aquarium|false|
+licorice-gourami|0|aquarium|false|
+sichuan-taimen|reject|||only a blurry photo, a line drawing and a map
+kanglang-fish|reject|||only a preserved museum display
+taiwan-angelshark|reject|||only a placeholder image and a map
+biwa-giant-catfish|0|aquarium|false|
+honmoroko|3|aquarium|false|
+itasenpara|0|aquarium|false|
+weedy-seadragon|0|live-wild|false|
+northland-mudfish|reject|||only a specimen with a scale label and a map
+dalhousie-goby|reject|||only an annotated sketch
+leopard-epaulette-shark|0|live-wild|false|
+cenderawasih-epaulette-shark|reject|||only a placeholder image
+northern-river-shark|2|specimen|false|
+oopu-nakea|1|live-wild|false|held in hand
+robertsons-wrasse|0|live-wild|false|small image
+galapagos-barnacle-blenny|0|live-wild|false|
+cocos-barnacle-blenny|0|live-wild|false|
+malpelo-barnacle-blenny|0|live-wild|false|small male symbol in the corner
+black-striped-salema|0|live-wild|false|
+red-striped-wrasse|0|live-wild|false|
+st-helena-wrasse|reject|||fish barely visible in tide-pool photos
+madeiran-ray|0|illustration|false|
+south-georgia-icefish|0|illustration|false|

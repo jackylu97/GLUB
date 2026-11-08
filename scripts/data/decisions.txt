@@ -1,0 +1,76 @@
+# id | decision | note
+# decision: allow (NT/DD/NE that pass the rarity rule) | reject (with reason) | method-anchors | method-cells
+# Rarity rule: CR/EN/VU/EW pass; NT/DD/NE pass only with documented extreme rarity or a tiny range (one lake,
+# cave, island or spring system). LC/EX are rejected automatically by 08_build.py.
+#
+# ---- NT / DD / NE allowed (tiny range or documented extreme rarity; evidence from Wikipedia/FishBase text)
+california-golden-trout|allow|IUCN NE; tiny range: Golden Trout Creek, Volcano Creek and the South Fork Kern River only
+butterfly-splitfin|allow|IUCN NE; tiny range: historically an area about 15 km across in the upper Ameca basin
+bartons-cichlid|allow|IUCN NE; tiny range: spring systems of the upper Panuco basin in San Luis Potosi
+jumandi-cave-catfish|allow|IUCN NT; single cave (Jumandi Cave)
+pearl-mullet|allow|IUCN NT; single closed lake basin (Lake Van)
+celestial-pearl-danio|allow|IUCN DD; tiny range: a very small area near Hopong
+mahachai-betta|allow|IUCN NE; tiny range: brackish swamps of Samut Sakhon and neighbouring coast
+psychedelic-frogfish|allow|IUCN NE; positively identified only at Ambon Island
+halmahera-walking-shark|allow|IUCN NT; single island (Halmahera)
+qinghai-naked-carp|allow|IUCN NT; single lake basin (Lake Qinghai)
+white-cloud-minnow|allow|IUCN DD; documented extreme rarity: practically extinct in its native habitat, one rediscovered wild population
+nopili-rock-climbing-goby|allow|IUCN NT; single archipelago endemic (Hawaiian Islands)
+oopu-alamoo|allow|IUCN DD; single archipelago endemic (Hawaiian Islands)
+oopu-nakea|allow|IUCN NE; single archipelago (Hawaiian Islands)
+clipperton-angelfish|allow|IUCN NT; single isolated atoll (Clipperton)
+clipperton-damselfish|allow|IUCN NT; single isolated atoll (Clipperton)
+mariana-snailfish|allow|IUCN NE; known from a single trench (Mariana Trench)
+golden-panchax|allow|IUCN DD; single small archipelago (granitic Seychelles)
+pnar-cavefish|allow|IUCN NE; two adjacent caves
+biwa-giant-catfish|allow|IUCN NE; single lake (Lake Biwa)
+st-helena-wrasse|allow|IUCN DD; single island (St Helena)
+# ---- NT / DD without a tiny range: rejected
+candy-darter|reject|IUCN NT; range is a whole river system (Kanawha), not tiny
+yucatan-blind-brotula|reject|IUCN NT; range spans the Yucatan aquifer, not a single cave/lake
+spanish-minnowcarp|reject|IUCN NT; range spans the Guadiana basin
+rainbow-snakehead|reject|IUCN NT; range spans the upper Brahmaputra basin
+orange-spotted-snakehead|reject|IUCN DD; range spans the Brahmaputra floodplain, rarity not documented
+# ---- other rejections
+beloribitsa|reject|IUCN code returned by GBIF (NT) appears to belong to the broad Stenodus leucichthys concept (incl. nelma); the Caspian beloribitsa's own status could not be verified
+ganges-shark|reject|range too uncertain: synonymy may extend it from Pakistan to Java; FishBase and Wikipedia disagree
+syr-darya-shovelnose|reject|CR (possibly extinct): no sightings since the 1960s per Wikipedia; live fish preferred
+duck-billed-buntingi|reject|CR (possibly extinct) per Wikipedia; live fish preferred
+galapagos-damsel|reject|possibly extinct after the 1982-83 El Nino per Wikipedia; live fish preferred
+# ---- geometry overrides
+mekong-giant-catfish|method-anchors|GBIF points include stocked Thai reservoirs outside the Mekong (e.g. Chao Phraya basin) that a bbox cannot separate; literature anchors along the Mekong used instead
+kunimasu|method-anchors|native range is Lake Tazawa only; the surviving Lake Saiko population is a 1930s translocation and is excluded from scoring
+# ---- caps and balance (applied after photo review; every one of these has a usable photo and could be swapped in)
+razorback-sucker|reject|country cap: USA kept to ~10 (specimen photo)
+alabama-sturgeon|reject|sturgeon cap (4) and USA country cap
+apache-trout|reject|country cap: USA kept to ~10; trout look-alikes
+moapa-dace|reject|country cap: USA kept to ~10
+cui-ui|reject|country cap: USA kept to ~10 (only an old hatchery photo with a person)
+comanche-springs-pupfish|reject|country cap: USA kept to ~10; pupfish look-alike (Devils Hole pupfish kept)
+watercress-darter|reject|country cap: USA kept to ~10
+widemouth-blindcat|reject|country cap: USA kept to ~10; only an illustration
+oopu-alamoo|reject|country cap: USA (Hawaii) kept to two gobies; weaker photo
+monterrey-platyfish|reject|country cap: Mexico kept to ~10
+highland-splitfin|reject|country cap: Mexico kept to ~10; goodeid look-alikes (3 kept)
+piracanjuba|reject|country cap: Brazil kept to ~10
+asoka-barb|reject|look-alike small Sri Lankan barbs (cherry, black ruby and blotched filament barbs kept)
+pearly-rasbora|reject|look-alike small Sri Lankan cyprinids
+madagascar-rainbowfish|reject|country cap: Madagascar kept to ~10; Bedotia look-alikes (2 kept)
+patricias-pachypanchax|reject|country cap: Madagascar kept to ~10; Pachypanchax look-alikes (2 kept)
+giant-barb|reject|SE Asia over-represented; large carp look-alike
+mahachai-betta|reject|SE Asia over-represented; one betta kept
+daisys-ricefish|reject|SE Asia over-represented; thin sources (no Wikipedia article)
+celebes-rainbowfish|reject|SE Asia over-represented
+itasenpara|reject|Japan look-alikes: one bitterling kept
+honmoroko|reject|Japan look-alikes: Lake Biwa already represented (giant catfish)
+chinese-sturgeon|reject|sturgeon cap (4)
+adriatic-sturgeon|reject|sturgeon cap (4)
+lake-magadi-tilapia|reject|soda-lake tilapia look-alike (Lake Natron species kept, better photo)
+burchells-redfin|reject|redfin look-alike (fiery redfin kept); small photo
+deckerts-tilapia|reject|Cameroon crater-lake cichlids capped (pindu, myaka, Bermin tilapia kept); murky photo
+ohrid-trout|reject|Salmo trout look-alikes capped (softmouth, marble, Lake Ifni trout kept)
+carpione|reject|Salmo trout look-alikes capped; only a trophy-style photo
+salamanderfish|reject|country cap: Australia kept to ~10; only an illustration
+galapagos-barnacle-blenny|reject|barnacle-blenny look-alikes: Cocos and Malpelo species kept
+pacama|reject|country cap: Brazil kept to ~10
+sunshine-pleco|reject|country cap: Brazil kept to ~10; Xingu pleco look-alike (zebra pleco kept)

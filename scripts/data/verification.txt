@@ -1,0 +1,246 @@
+# id | fishbase verdict | wikipedia verdict | notes   (verdicts: agree | conflict | missing; reviewed 2026-11-07)
+devils-hole-pupfish|agree|agree|
+alabama-cavefish|agree|agree|
+giant-sea-bass|conflict|conflict|FishBase country rows and Wikipedia both mention Japan; FishBase itself treats the NW Pacific wreckfish as a separate accepted species (Stereolepis doederleini, SpecCode 23382), so scoring uses the eastern Pacific range only
+cui-ui|agree|agree|
+razorback-sucker|agree|agree|Mexico is listed by FishBase as extirpated; removed from the native country list (historical only)
+humpback-chub|agree|agree|
+alabama-sturgeon|agree|agree|
+american-paddlefish|agree|agree|
+candy-darter|agree|agree|
+diamond-darter|agree|agree|
+california-golden-trout|agree|agree|
+apache-trout|agree|agree|
+spring-pygmy-sunfish|agree|agree|
+delta-smelt|agree|agree|
+moapa-dace|agree|agree|
+copper-redhorse|agree|agree|
+atlantic-whitefish|agree|agree|
+widemouth-blindcat|agree|agree|
+comanche-springs-pupfish|agree|agree|
+vancouver-lamprey|agree|agree|
+tequila-splitfin|agree|agree|
+butterfly-splitfin|agree|agree|
+rainbow-characodon|agree|agree|
+totoaba|agree|agree|
+cuban-gar|agree|agree|
+monterrey-platyfish|agree|agree|
+minckleys-cichlid|agree|agree|
+clarion-angelfish|agree|agree|
+splendid-toadfish|agree|agree|Curated range widened from Cozumel-only to Honduras-Belize-Cancun after Wikipedia and FishBase (BZ row)
+gulf-grouper|agree|agree|
+nassau-grouper|conflict|agree|FishBase also lists Brazil and the Guianas; treated as marginal and left outside the scoring bbox
+arrow-cichlid|agree|agree|
+sulphur-molly|agree|agree|
+yucatan-blind-brotula|agree|agree|
+blind-swamp-eel|agree|agree|
+bartons-cichlid|agree|agree|
+zebra-pleco|agree|agree|
+naked-characin|agree|agree|
+white-blotched-river-stingray|agree|agree|
+ascotan-pupfish|agree|agree|
+titicaca-orestias|agree|missing|
+brazilian-blind-characid|agree|agree|
+brazilian-guitarfish|agree|agree|
+angular-angelshark|agree|agree|
+doce-surubim|agree|agree|
+flame-tetra|agree|agree|Range widened to the upper Tiete basin (Sao Paulo) per Wikipedia
+pacama|agree|agree|
+jumandi-cave-catfish|agree|agree|
+danube-salmon|agree|agree|Country list replaced by the FishBase native set (Czechia extirpated, Poland not established)
+corfu-toothcarp|agree|agree|
+valencia-toothcarp|agree|agree|
+adriatic-sturgeon|agree|agree|
+european-sea-sturgeon|conflict|agree|FishBase lists the historical pan-European range; Wikipedia: formerly all over Europe. Only the Gironde population still spawns, so scoring uses the present-day Biscay/Channel range
+ohrid-trout|conflict|agree|FishBase marks Albania questionable; Lake Ohrid is shared with Albania and Wikipedia includes it, so kept
+softmouth-trout|agree|agree|
+asprete|agree|agree|
+carpione|agree|agree|
+gwyniad|agree|agree|FishBase row "UK Engld Wal" (endemic) = GB
+angelshark|agree|agree|FishBase adds a few small territories (GI, MC, IM, EH, BA, SI); consistent with the curated range
+maltese-skate|agree|agree|FishBase also lists Greece; consistent with central Mediterranean range
+dalmatian-barbelgudgeon|agree|agree|
+spanish-minnowcarp|agree|agree|
+apron|agree|agree|
+lez-sculpin|agree|agree|
+knysna-seahorse|agree|agree|
+pindu|agree|agree|
+pungu|agree|agree|
+golden-cave-catfish|agree|agree|
+congo-blind-barb|agree|agree|
+lake-magadi-tilapia|agree|agree|
+maloti-minnow|agree|agree|
+clanwilliam-sandfish|agree|agree|
+red-steenbras|agree|agree|Namibia removed: FishBase and Wikipedia say endemic to South Africa
+dageraad|agree|agree|
+lake-chala-tilapia|agree|agree|
+saulosi|agree|agree|
+natal-shyshark|agree|agree|
+pinstripe-damba|agree|agree|
+damba-mipentina|agree|agree|
+mangarahara-cichlid|agree|agree|
+malagasy-blind-gudgeon|agree|agree|
+red-tailed-silverside|agree|agree|Curated bbox narrowed to the Mananjary drainage per Wikipedia
+madagascar-rainbowfish|agree|agree|
+sakaramy-killifish|agree|agree|
+patricias-pachypanchax|agree|agree|
+beluga|conflict|agree|FishBase also lists the (extinct) Adriatic population; scoring uses Caspian and Black Sea basins
+beloribitsa|conflict|agree|FishBase uses broad Stenodus leucichthys incl. nelma (lists Canada, USA, China); Wikipedia: strict sense restricted to Caspian basin
+iraq-blind-barb|conflict|agree|FishBase also lists Iran; Wikipedia: endemic to the Haditha site in Iraq
+iran-cave-barb|agree|agree|
+tawi-atair-garra|agree|agree|
+dead-sea-garra|agree|agree|
+azraq-killifish|agree|agree|
+acigol-toothcarp|agree|agree|
+syr-darya-shovelnose|agree|agree|
+amu-darya-shovelnose|conflict|agree|FishBase lacks Tajikistan which Wikipedia includes
+persian-sturgeon|conflict|agree|FishBase and Wikipedia include the Black Sea (GE, TR) as marginal; scoring uses the Caspian
+mangar|conflict|agree|FishBase lacks Syria; Wikipedia includes Syria (Euphrates); kept
+pearl-mullet|agree|agree|
+binni|agree|agree|
+galilee-tristramella|agree|agree|
+halavi-guitarfish|conflict|agree|Draft wrongly included the Persian Gulf; corrected to Red Sea-Gulf of Oman per Wikipedia. FishBase lists Egypt, Oman, Somalia. GBIF cells: Red Sea (EG, SA) plus 2 UAE records
+ili-marinka|agree|agree|
+denisons-barb|agree|agree|Range extended south to the Pamba and Achankovil rivers per Wikipedia
+gollum-snakehead|agree|agree|
+hump-backed-mahseer|agree|agree|
+cherry-barb|agree|agree|
+ornate-paradisefish|agree|agree|
+rainbow-snakehead|agree|agree|
+zebra-loach|agree|agree|
+pearly-rasbora|agree|agree|
+asoka-barb|agree|agree|
+tambraparni-barb|agree|agree|
+black-ruby-barb|agree|agree|
+banggai-cardinalfish|agree|agree|
+mekong-giant-catfish|agree|agree|China and Myanmar added per FishBase/Wikipedia (adjacent Mekong)
+cave-angelfish|agree|agree|
+giant-barb|agree|agree|
+siamese-tiger-perch|agree|agree|Thailand removed (extirpated per Wikipedia; not native in FishBase)
+red-tailed-black-shark|agree|agree|
+sawbwa-barb|agree|agree|
+celestial-pearl-danio|agree|agree|Thailand removed (not supported by FishBase or Wikipedia)
+tawilis|agree|agree|
+black-betta|agree|agree|
+mahachai-betta|agree|agree|
+indonesian-coelacanth|agree|agree|
+psychedelic-frogfish|agree|agree|Wikipedia: positively identified only at Ambon Island (one mention of Bali, unverified)
+halmahera-walking-shark|agree|agree|
+celebes-rainbowfish|agree|agree|
+daisys-ricefish|agree|missing|
+kunimasu|agree|agree|
+chinese-bahaba|agree|agree|FishBase adds Taiwan; consistent
+kaluga|agree|agree|Japan (near Hokkaido) added per FishBase and Wikipedia
+chinese-sturgeon|conflict|agree|Japan and Korea listed historically (extirpated per Wikipedia); scoring uses China
+high-fin-banded-shark|agree|agree|
+sakhalin-taimen|agree|agree|
+tokyo-bitterling|agree|agree|
+ayumodoki|agree|agree|
+rhino-golden-line-barbel|agree|agree|
+qinghai-naked-carp|agree|agree|
+white-cloud-minnow|agree|agree|
+hong-kong-grouper|agree|agree|
+japanese-angelshark|agree|agree|
+spotted-handfish|agree|agree|
+red-handfish|agree|agree|
+australian-lungfish|agree|agree|
+red-finned-blue-eye|agree|agree|
+canterbury-mudfish|agree|agree|
+gollum-galaxias|agree|agree|
+blind-cave-eel|agree|agree|Barrow Island added per Wikipedia
+salamanderfish|agree|agree|
+boesemans-rainbowfish|agree|agree|
+kutubu-rainbowfish|agree|agree|
+red-rainbowfish|agree|agree|
+lake-wanam-rainbowfish|agree|agree|
+maugean-skate|agree|agree|
+whites-seahorse|agree|conflict|Wikipedia gives a broader SW Pacific range (to the Solomon Islands, older broad concept); FishBase lists Australia only; GBIF cells used
+pedder-galaxias|agree|agree|
+mccullochs-anemonefish|agree|conflict|Wikipedia adds Norfolk Island; FishBase lists Australia only and GBIF has no records east of 160E, so scored on Lord Howe + Middleton/Elizabeth reefs
+doubleheader-wrasse|agree|agree|
+nopili-rock-climbing-goby|agree|agree|
+oopu-alamoo|agree|agree|
+clipperton-angelfish|conflict|agree|FishBase country row lists only Costa Rica; Wikipedia: endemic to Clipperton Island. Kept Clipperton
+galapagos-grouper|agree|agree|
+new-caledonia-galaxias|agree|missing|
+mariana-snailfish|agree|agree|FishBase lists Guam; the trench also lies off the Northern Mariana Islands (MP), consistent
+african-coelacanth|conflict|agree|FishBase Indonesia row reflects the separate Indonesian coelacanth; ignored
+st-helena-sharpnose-puffer|agree|agree|
+rocas-gregory|agree|conflict|Wikipedia also lists the St Peter and St Paul Archipelago; added as an extra anchor
+noronha-cleaner-goby|agree|missing|
+golden-panchax|agree|agree|Wikipedia mentions a Zanzibar population now considered extinct; not scored
+greenland-shark|conflict|agree|FishBase adds strays off north-western Europe and the USA; scoring uses the Arctic/North Atlantic core range
+blackfin-icefish|agree|agree|FishBase adds a UK row (administrative, South Georgia/South Orkney); consistent
+bocaccio|agree|agree|
+watercress-darter|agree|agree|
+cuban-blind-cusk-eel|agree|agree|
+humpbacked-limia|agree|agree|
+sulphur-limia|agree|agree|
+highland-splitfin|agree|agree|
+clarion-damselfish|agree|agree|
+iporanga-blind-catfish|agree|agree|
+magnificent-pearlfish|agree|agree|
+nahuelbuta-velvet-catfish|agree|agree|
+mountain-catfish|agree|agree|
+irwins-percilia|agree|agree|
+argentine-angelshark|agree|agree|
+patagonian-seahorse|agree|agree|
+sunshine-pleco|agree|agree|
+piracanjuba|agree|missing|Paraguay removed from curated list to match FishBase native rows (AR, BR, UY)
+marble-trout|conflict|agree|FishBase lacks Bosnia-Herzegovina and Montenegro which Wikipedia includes; Albania extirpated
+myaka|agree|agree|
+natron-tilapia|agree|agree|Kenya (Shombole Swamps) added per Wikipedia and FishBase
+burchells-redfin|agree|agree|
+fiery-redfin|agree|agree|
+red-stumpnose|agree|agree|
+somali-cavefish|agree|agree|
+lake-ifni-trout|agree|agree|
+deckerts-tilapia|agree|agree|
+bermin-tilapia|agree|agree|
+mafia-notho|agree|agree|
+west-african-seahorse|conflict|agree|FishBase adds Cape Verde, Mauritania, Western Sahara, DR Congo; Wikipedia notes a Canary Islands sighting; scoring uses the Senegal-Angola coast
+kieneri-damba|agree|agree|
+saroy|agree|agree|
+trondo-mainty|agree|agree|Curated draft wrongly placed it in the central highlands; corrected to the Onilahy basin per Wikipedia
+marojejy-bedotia|agree|agree|
+powder-blue-panchax|agree|agree|
+pike-asp|conflict|agree|FishBase lists AF, TM, UZ; Wikipedia adds Tajikistan and Kyrgyzstan (extinct in Kazakhstan)
+sharpray|conflict|agree|FishBase adds Afghanistan; Wikipedia lists Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan
+abant-trout|agree|missing|Wikipedia redirects Salmo abanticus to Salmo trutta (no species article)
+shabout|agree|agree|
+pnar-cavefish|missing|agree|Described 2019; FishBase has no country rows yet
+orange-spotted-snakehead|agree|agree|
+blotched-filament-barb|agree|agree|Curated draft said Mahaweli; corrected to the Kalu River per Wikipedia
+ganges-shark|conflict|conflict|Wikipedia: Ganges-Brahmaputra, but recent synonymy may extend range to Pakistan, Myanmar, Borneo and Java; FishBase lists MM, MY, TH. Range too uncertain
+sinarapan|agree|agree|
+lanao-barb|agree|agree|
+reticulated-hillstream-loach|conflict|missing|FishBase adds China and Cambodia; Wikipedia gives no range
+duck-billed-buntingi|agree|agree|
+licorice-gourami|agree|agree|
+sichuan-taimen|agree|agree|
+kanglang-fish|agree|agree|
+taiwan-angelshark|conflict|agree|Wikipedia: continental shelf off Taiwan 20-24N; FishBase adds Japan; China and the Philippines removed from curated list
+biwa-giant-catfish|agree|agree|
+honmoroko|agree|agree|
+itasenpara|agree|agree|
+baikal-oilfish|agree|agree|
+weedy-seadragon|agree|agree|
+northland-mudfish|agree|agree|
+dalhousie-goby|agree|agree|
+leopard-epaulette-shark|agree|agree|
+cenderawasih-epaulette-shark|agree|agree|
+northern-river-shark|conflict|agree|FishBase lists Australia only; Wikipedia includes Papua New Guinea
+oopu-nakea|agree|agree|
+clipperton-damselfish|agree|agree|
+robertsons-wrasse|agree|agree|
+galapagos-damsel|agree|agree|Cocos Island added per Wikipedia and FishBase (CR)
+galapagos-barnacle-blenny|agree|agree|
+cocos-barnacle-blenny|agree|agree|
+malpelo-barnacle-blenny|agree|agree|
+black-striped-salema|agree|agree|
+red-striped-wrasse|agree|agree|
+st-helena-wrasse|agree|agree|
+madeiran-ray|agree|agree|Azores removed: Wikipedia says only Madeira; FishBase native row Madeira
+south-georgia-icefish|agree|agree|FishBase adds a New Zealand row (likely Antarctic sector); consistent with Scotia Arc range
+resplendent-angelfish|agree|agree|
+chagos-anemonefish|agree|agree|

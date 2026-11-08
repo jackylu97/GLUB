@@ -1,0 +1,3116 @@
+{
+ "devils-hole-pupfish": {
+  "funFact": "It has no pelvic fins, the males shine a metallic blue, and the entire wild population feeds and breeds on one small, shallow rock shelf.",
+  "revealFact": "It lives only in Devils Hole, a water-filled limestone cavern in Nevada's Ash Meadows, where irrigation in the 1960s and 1970s lowered the water and exposed its spawning shelf. The fight over that groundwater went all the way to the US Supreme Court.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Devils_Hole_pupfish",
+   "https://www.fishbase.se/summary/3170"
+  ],
+  "hints": {
+   "habitat": "The upper waters of one deep, water-filled limestone cavern, around a shallow rock ledge",
+   "size": "Up to about 3.4 cm long",
+   "depth": null,
+   "diet": "Nearly everything on offer: beetles, snails, algae and small freshwater crustaceans"
+  }
+ },
+ "alabama-cavefish": {
+  "funFact": "Females carry their eggs inside their gill chambers, and its fragile food web runs on the droppings of a colony of bats roosting overhead.",
+  "revealFact": "Found only in Key Cave in north-western Alabama, it may be the rarest freshwater fish of all: fewer than 100 are thought to remain, and surveys of 120 other caves nearby have never turned up another.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Alabama_cavefish",
+   "https://www.fishbase.se/summary/3062"
+  ],
+  "hints": {
+   "habitat": "Underground pools of groundwater in a single cave system",
+   "size": "Up to about 7.2 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "giant-sea-bass": {
+  "funFact": "Juveniles start out bright red or orange before fading to gray or brown, and despite their bulk, adults can dart fast enough to outpace a bonito.",
+  "revealFact": "It ranges from Humboldt Bay, California, south to the Gulf of California, and is most common from Point Conception southward. Heavy fishing nearly wiped it out off Southern California by the 1980s before it was given protection.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Giant_sea_bass",
+   "https://www.fishbase.se/summary/3310"
+  ],
+  "hints": {
+   "habitat": "Rocky bottoms, kelp forests and drop-offs near the shore",
+   "size": "Up to about 250 cm (2.5 m) long",
+   "depth": "5–46 m",
+   "diet": "Crustaceans such as crabs, plus many fish including anchovies, croakers and mackerel"
+  }
+ },
+ "cui-ui": {
+  "funFact": "This big sucker can live for around 40 years but doesn't start breeding until it is at least eight, and it dines mostly on tiny zooplankton.",
+  "revealFact": "It lives only in Pyramid Lake, Nevada, and must run up the lower Truckee River to spawn, because eggs laid in the salty lake rarely succeed. Its other home, Winnemucca Lake, dried up in the 20th century.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Cui-ui",
+   "https://www.fishbase.se/summary/2983"
+  ],
+  "hints": {
+   "habitat": "Deep water of a large, somewhat salty lake; spawns by migrating up an inflowing river",
+   "size": "Up to about 67 cm long",
+   "depth": null,
+   "diet": "Mainly zooplankton, and possibly tiny algae and diatoms"
+  }
+ },
+ "razorback-sucker": {
+  "funFact": "It is named for the sharp-edged keel that rises behind its head, and a complete fossil skeleton from the Early Pliocene still shows off that same hump.",
+  "revealFact": "Once found throughout the Colorado River basin and down into Mexico, it now survives mainly in the Colorado above the Grand Canyon and in reservoirs such as Lakes Mead, Mohave and Havasu. Dams, habitat loss and commercial fishing drove its decline.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Razorback_sucker",
+   "https://www.fishbase.se/summary/3015"
+  ],
+  "hints": {
+   "habitat": "Backwaters and deep pools near strong current in medium to large rivers, plus reservoirs",
+   "size": "Up to about 91 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "humpback-chub": {
+  "funFact": "The bump behind its head is thought to steer water over its body so it can hold its place in swift currents, and its skin is almost entirely scaleless.",
+  "revealFact": "It survives in just six population centres in the Colorado River system, including the Grand Canyon and the Little Colorado River in Arizona and canyons in Utah and Colorado. Habitat loss, such as from Glen Canyon Dam, cut its numbers dramatically.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Humpback_chub",
+   "https://www.fishbase.se/summary/2762"
+  ],
+  "hints": {
+   "habitat": "Swift, rocky runs and turbulent pools in steep, high-gradient stretches of large rivers",
+   "size": "Up to about 38 cm long",
+   "depth": null,
+   "diet": "Mostly invertebrates, plus some smaller fish"
+  }
+ },
+ "alabama-sturgeon": {
+  "funFact": "Biologists knew of this yellowish-orange sturgeon for decades, but it was mistaken for the shovelnose sturgeon until it was formally named as its own species in 1991.",
+  "revealFact": "It once lived across the Mobile River basin, including the Alabama, Tombigbee, Cahaba and Coosa rivers, but is now believed to survive only in a short stretch of the lower Alabama River.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Alabama_sturgeon",
+   "https://www.fishbase.se/summary/56264"
+  ],
+  "hints": {
+   "habitat": "The sandy, gravelly bottom of a large flowing river",
+   "size": null,
+   "depth": null,
+   "diet": "Aquatic insects such as mayflies, caddisflies and dragonflies, plus small fish (about a third of its diet)"
+  }
+ },
+ "american-paddlefish": {
+  "funFact": "Its paddle-shaped snout stretches nearly a third of its body length and is covered with tens of thousands of sensory receptors for finding swarms of zooplankton.",
+  "revealFact": "Native to the Mississippi River basin and neighbouring Gulf Coast drainages, it is the last living paddlefish, since its only modern relative, from China's Yangtze, is considered extinct. Overfishing, habitat destruction, pollution and poaching have shrunk its range.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/American_paddlefish",
+   "https://www.fishbase.se/summary/174"
+  ],
+  "hints": {
+   "habitat": "Slow-flowing big rivers, backwaters, oxbow lakes and reservoirs",
+   "size": "Up to about 221 cm (2.2 m) long",
+   "depth": "Usually deeper than 1.2 m",
+   "diet": "Plankton, mainly zooplankton, filtered from the water"
+  }
+ },
+ "diamond-darter": {
+  "funFact": "It is named for the sparkle it reflects when scientists collect it at night, and its see-through body is patterned in olive.",
+  "revealFact": "Once recorded from several Ohio River tributaries, including the Cumberland, Green and Muskingum, it is now known only from the Elk River in West Virginia. It was listed as endangered in 2013.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Diamond_darter",
+   "https://www.fishbase.se/summary/63734"
+  ],
+  "hints": {
+   "habitat": "The tail ends of riffles and heads of pools, with moderate flow over sand, gravel and cobble",
+   "size": "Up to about 7.7 cm long (standard length)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "california-golden-trout": {
+  "funFact": "Its golden flanks are striped with red bands and about ten dark oval 'parr marks' on each side, and its fins have white leading edges.",
+  "revealFact": "It is native to the southern Sierra Nevada of California, in Golden Trout Creek, Volcano Creek and the South Fork Kern River. It has been California's official state freshwater fish since 1947.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Golden_trout",
+   "https://www.fishbase.se/summary/2686"
+  ],
+  "hints": {
+   "habitat": "Clear, cool mountain headwaters, creeks and lakes above about 2,100 m elevation",
+   "size": "Up to about 71 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "apache-trout": {
+  "funFact": "Two small black dots on either side of each pupil give it the look of wearing a dark mask across its eyes.",
+  "revealFact": "Arizona's state fish is native to headwater streams of the White, Black and Little Colorado rivers in the White Mountains. It was among the first species protected under US endangered species law, and its numbers are still rising.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Apache_trout",
+   "https://www.fishbase.se/summary/2687"
+  ],
+  "hints": {
+   "habitat": "Clear, cool mountain streams through conifer forest, generally above 2,500 m elevation",
+   "size": "Up to about 58 cm long",
+   "depth": null,
+   "diet": "Land and aquatic insects such as caddisflies and true flies; in lakes also small fish and zooplankton"
+  }
+ },
+ "spring-pygmy-sunfish": {
+  "funFact": "It was written off as extinct after its first known spring was flooded by a reservoir in 1938, then turned up alive 35 years later. Breeding males are dark with shimmering blue-green bars.",
+  "revealFact": "It lives only in spring-fed wetlands of northern Alabama, chiefly the Beaverdam Spring complex in Limestone County, with a second population found in 2015 at Wheeler National Wildlife Refuge.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Spring_pygmy_sunfish",
+   "https://www.fishbase.se/summary/57438"
+  ],
+  "hints": {
+   "habitat": "Clear spring heads, spring pools and their weedy, spring-fed wetlands",
+   "size": "Rarely more than about an inch (2.5 cm) long",
+   "depth": null,
+   "diet": "Probably tiny aquatic invertebrates such as amphipods, isopods and insect larvae"
+  }
+ },
+ "delta-smelt": {
+  "funFact": "This see-through little fish lives only about a year, which makes it so sensitive to change that it serves as a gauge of its whole ecosystem's health.",
+  "revealFact": "It is endemic to the upper Sacramento–San Joaquin estuary of California, where large-scale water pumping and habitat loss have left it functionally extinct in the wild.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Delta_smelt",
+   "https://www.fishbase.se/summary/2696"
+  ],
+  "hints": {
+   "habitat": "Open, low-salinity channels of an estuary where fresh and salt water mix",
+   "size": "Up to about 12 cm long",
+   "depth": null,
+   "diet": "Zooplankton"
+  }
+ },
+ "moapa-dace": {
+  "funFact": "Its tiny scales are sunk into its skin, giving it a leathery feel, and that is exactly what its scientific name means in Latin.",
+  "revealFact": "It lives only in the warm springs and upper reaches of the Muddy (formerly Moapa) River in southern Nevada. The Moapa National Wildlife Refuge was set up just for it, the first US refuge created to protect an endangered fish.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Moapa_dace",
+   "https://www.fishbase.se/summary/2803"
+  ],
+  "hints": {
+   "habitat": "Shaded pools of warm, spring-fed headwater streams over gravel, sand and mud",
+   "size": "Up to about 9 cm long",
+   "depth": null,
+   "diet": "Omnivorous"
+  }
+ },
+ "copper-redhorse": {
+  "funFact": "Unlike its relatives, it has molar-like throat teeth for crushing hard-shelled bivalves, and it shows off a bright red tail fin.",
+  "revealFact": "It is found only in south-western Quebec, in the St Lawrence and Richelieu rivers and the Rivière des Mille Îles, and its tiny range has shrunk sharply in recent decades.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Copper_redhorse",
+   "https://www.fishbase.se/summary/3006"
+  ],
+  "hints": {
+   "habitat": "Rocky pools, backwaters and runs of medium-sized rivers that warm above 20 °C in summer",
+   "size": "Up to about 72 cm long",
+   "depth": "Spawns in riffles about 0.75–2 m deep",
+   "diet": "Hard-shelled bivalves"
+  }
+ },
+ "atlantic-whitefish": {
+  "funFact": "Its lineage split from all other whitefish about 15 million years ago, and nobody has ever seen it reproduce in the wild.",
+  "revealFact": "It survives only as landlocked populations in lakes of the Petite Rivière watershed in Nova Scotia; sea-run fish in the Tusket and Annis rivers are gone. Dams and introduced predators such as smallmouth bass and chain pickerel made it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Atlantic_whitefish",
+   "https://www.fishbase.se/summary/6207"
+  ],
+  "hints": {
+   "habitat": "Open water of freshwater lakes; historically also migrated between rivers and coastal estuaries",
+   "size": "Up to about 40 cm long",
+   "depth": null,
+   "diet": "Insects and small fish"
+  }
+ },
+ "widemouth-blindcat": {
+  "funFact": "It is the only species in a genus named Satan, and although it has eye remnants, its optic tract fades out before ever reaching the brain.",
+  "revealFact": "It is known only from five artesian wells that tap the San Antonio Pool of the Edwards Aquifer in Texas, where groundwater pollution threatens it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Widemouth_blindcat",
+   "https://www.fishbase.se/summary/3052"
+  ],
+  "hints": {
+   "habitat": "Deep, lightless underground water, reached only through artesian wells",
+   "size": "Up to about 13.7 cm long",
+   "depth": "305–582 m",
+   "diet": "Probably crustaceans (their shells have been found in its stomach)"
+  }
+ },
+ "comanche-springs-pupfish": {
+  "funFact": "Males wear a striking speckled pattern instead of the vertical bars their relatives sport, and the species was described way back in 1853.",
+  "revealFact": "Named for Comanche Springs in Fort Stockton, Texas, which went dry in 1955, it now survives only in spring systems near Balmorhea, such as San Solomon and Giffin springs. Part of its habitat is a spring whose head was turned into a concrete-lined swimming pool.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Comanche_Springs_pupfish",
+   "https://www.fishbase.se/summary/3171"
+  ],
+  "hints": {
+   "habitat": "Springs, spring-fed marshes and irrigation canals, usually over mud in flowing water",
+   "size": "Up to about 6.2 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "vancouver-lamprey": {
+  "funFact": "Adults latch onto young trout and salmon to feed on their body fluids, yet only about 15% of their hosts are fatally wounded.",
+  "revealFact": "It lives only in Cowichan Lake and neighbouring Mesachie Lake on Vancouver Island, British Columbia, with perhaps 1,000 to 2,000 adults in all. Unlike the Pacific lamprey it descends from, it never migrates and stays in fresh water.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lake_lamprey",
+   "https://www.fishbase.se/summary/4896"
+  ],
+  "hints": {
+   "habitat": "Shallow gravel shores of freshwater lakes; larvae live in silt and sand in still water",
+   "size": "Up to about 27.3 cm long",
+   "depth": null,
+   "diet": "Body fluids of other fish, especially young cutthroat trout and coho salmon"
+  }
+ },
+ "tequila-splitfin": {
+  "funFact": "Females give birth to live young, up to 29 per brood, and adult males flash a crescent-shaped red-orange or yellow band on the tail.",
+  "revealFact": "It is endemic to the Ameca River basin in Jalisco, Mexico, and by the early 2000s survived only in one tiny spring pool at Teuchitlán. After years of reintroduction work it now thrives at home again, and its name comes from the nearby Tequila Volcano.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Zoogoneticus_tequila",
+   "https://www.fishbase.se/summary/57594"
+  ],
+  "hints": {
+   "habitat": "Quiet, shallow water over mud and silt in a spring-fed river and pool",
+   "size": "Up to about 6 cm long",
+   "depth": "Shallow: less than 1 m",
+   "diet": null
+  }
+ },
+ "butterfly-splitfin": {
+  "funFact": "Males' fins flush with stronger color when they get excited, and newborns spend their first couple of weeks entirely silvery.",
+  "revealFact": "It comes from the upper Río Ameca basin around Teuchitlán in Jalisco, Mexico, historically an area only about 15 km across. Once an aquarium favourite, it is now rated critically endangered by the IUCN.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Butterfly_splitfin",
+   "https://www.fishbase.se/summary/6228"
+  ],
+  "hints": {
+   "habitat": "Springs and small streams of hard, alkaline water over limestone bedrock",
+   "size": "Up to about 8 cm long",
+   "depth": "Down to about 2 m",
+   "diet": null
+  }
+ },
+ "rainbow-characodon": {
+  "funFact": "Mothers nourish their developing young through a placenta-like structure, then give birth to 5–20 free-swimming fry after about 55 days.",
+  "revealFact": "It is native to just a few springs and streams of the upper Río Tunal around Durango, Mexico, such as the Abraham González spring and the El Salto waterfall area. Invasive species keep threatening its tiny range.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Rainbow_goodeid",
+   "https://www.fishbase.se/summary/6233"
+  ],
+  "hints": {
+   "habitat": "Clear, shallow springs and marshes with little current and plenty of submerged plants",
+   "size": "Up to about 4 cm long",
+   "depth": null,
+   "diet": "Algae"
+  }
+ },
+ "totoaba": {
+  "funFact": "It is the biggest member of the drum family and the only living species in its genus. Youngsters are spotted, while adults turn silvery with darker fins.",
+  "revealFact": "Endemic to Mexico's Gulf of California, it spawns and raises its young in the upper Gulf near the Colorado River delta, a habitat changed by damming of the river. Nearly 50 years of overfishing drove its decline.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Totoaba",
+   "https://www.fishbase.se/summary/6317"
+  ],
+  "hints": {
+   "habitat": "Soft, sandy coastal sea floor; young in river mouths and near rocky shores",
+   "size": "Up to about 200 cm (2 m) long",
+   "depth": "1–70 m",
+   "diet": "Fish and shrimp"
+  }
+ },
+ "cuban-gar": {
+  "funFact": "It shrugs off high ammonia levels, can breathe some air when the water runs low on oxygen, and adults hunt fish and even birds.",
+  "revealFact": "It lives in rivers, lakes and swamps of western Cuba, including the Zapata Swamp, and on the Isla de la Juventud. Overfishing, habitat loss and introduced largemouth bass, which prey on its young, have made it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Cuban_gar",
+   "https://www.fishbase.se/summary/1074"
+  ],
+  "hints": {
+   "habitat": "Slow rivers, lakes and floodplains; it also tolerates brackish water",
+   "size": "Up to about 200 cm (2 m) long",
+   "depth": null,
+   "diet": "Other fish and even birds"
+  }
+ },
+ "monterrey-platyfish": {
+  "funFact": "This drab little livebearer looks a lot like a female guppy, and it has proven trickier to keep in captivity than most of its relatives.",
+  "revealFact": "It was native to a tiny part of the Río San Juan system around Monterrey, Mexico, until urban sprawl, drying springs and pollution wiped out its wild habitat. Now extinct in the wild, it survives in captive 'safety populations' kept by universities, public aquariums and hobbyists.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Monterrey_platyfish",
+   "https://www.fishbase.se/summary/6223"
+  ],
+  "hints": {
+   "habitat": "Springs and small headwater streams",
+   "size": "Up to about 4 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "minckleys-cichlid": {
+  "funFact": "Its colors can shift within seconds during fights or courtship, and some individuals are deep-bodied while others are slender.",
+  "revealFact": "It is endemic to the spring pools of the butterfly-shaped Cuatro Ciénegas basin in Coahuila, Mexico, a place with very high levels of endemism. It honours ichthyologist Wendell Minckley, who studied the basin's ecology.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Minckley's_cichlid",
+   "https://www.fishbase.se/summary/6320"
+  ],
+  "hints": {
+   "habitat": "Clear spring-fed pools with plant and rock cover in a very dry basin",
+   "size": "Up to about 17.5 cm long (standard length)",
+   "depth": null,
+   "diet": "Snails and small fish"
+  }
+ },
+ "clarion-angelfish": {
+  "funFact": "Juveniles are yellowish-orange with blue bars that fade away as they grow into orange-and-brown adults with a vermilion tail.",
+  "revealFact": "It is largely restricted to the Revillagigedo Islands off western Mexico, with occasional strays at the tip of Baja California and at Clipperton Island. Collecting it became illegal once the islands were protected, but captive-bred fish now supply the aquarium trade.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Clarion_angelfish",
+   "https://www.fishbase.se/summary/11172"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs, alone or in shoals",
+   "size": "Up to about 20 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "splendid-toadfish": {
+  "funFact": "Unlike any other toadfish, it is vividly colored with bright yellow-edged fins, and it makes a buzzing mating call that divers can hear.",
+  "revealFact": "Once thought to live only around Cozumel Island, Mexico, it has since been found on reefs from Honduras north to Cancún.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Splendid_toadfish",
+   "https://www.fishbase.se/summary/12024"
+  ],
+  "hints": {
+   "habitat": "Dens under coral outcrops and in rocky reef caves, often marked by a sloping sand patch",
+   "size": "Up to about 24 cm long",
+   "depth": "8–25 m",
+   "diet": "Small fish, snails and polychaete worms"
+  }
+ },
+ "gulf-grouper": {
+  "funFact": "Adults can quickly change color to mimic their blotchy juvenile pattern, and they have been reported to prey on young hammerhead sharks.",
+  "revealFact": "It is endemic to Mexican waters from Baja California Sur south to Mazatlán, including the whole Gulf of California and the Revillagigedo Islands. Commercial fishing has cut its numbers sharply since the mid-20th century.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Gulf_grouper",
+   "https://www.fishbase.se/summary/3333"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs, kelp beds and seamounts",
+   "size": "Up to about 198 cm (2 m) long",
+   "depth": "5–30 m",
+   "diet": "Fish, lobsters and slipper lobsters, even young hammerhead sharks"
+  }
+ },
+ "nassau-grouper": {
+  "funFact": "Known as the least wary and friendliest of all groupers, it 'inhales' prey with its big mouth, and up to 30,000 may gather at one site to spawn.",
+  "revealFact": "It lives on reefs of the western Atlantic, from Bermuda, Florida and the Bahamas through the Caribbean to Venezuela. Because it returns to the same spawning sites every year, fishing those gatherings has made it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Nassau_grouper",
+   "https://www.fishbase.se/summary/18"
+  ],
+  "hints": {
+   "habitat": "Coral reefs, often close to caves; juveniles in seagrass beds",
+   "size": "Up to about 122 cm (1.2 m) long",
+   "depth": "1–90 m",
+   "diet": "Mostly fish and crabs, plus other crustaceans and molluscs"
+  }
+ },
+ "arrow-cichlid": {
+  "funFact": "Unlike its yellow-tinted relatives it is silver to greenish gray, and breeding adults can turn completely black.",
+  "revealFact": "It lives only in Lake Apoyo, a volcanic crater lake in Nicaragua, where genetic evidence suggests it and five close relatives evolved side by side within the same lake.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Amphilophus_zaliosus",
+   "https://www.fishbase.se/summary/12324"
+  ],
+  "hints": {
+   "habitat": "A single volcanic crater lake",
+   "size": "Up to about 20 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "sulphur-molly": {
+  "funFact": "Its water is so laced with toxic hydrogen sulfide that it spends most of its time breathing at the surface, and it makes waves to avoid hunting birds.",
+  "revealFact": "It is endemic to the sulfur springs of Baños del Azufre near Teapa, on the border of the Mexican states of Tabasco and Chiapas. It is one of the few fish able to withstand such toxic water.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sulphur_molly",
+   "https://www.fishbase.se/summary/6220"
+  ],
+  "hints": {
+   "habitat": "Toxic sulfur springs and their outflow stream",
+   "size": "Up to about 5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "blind-swamp-eel": {
+  "funFact": "Its describer loved giving cave fish devilish names, so he first called it Pluto infernalis, from the Latin for Hell. It has no eyes, no scales and no pigment.",
+  "revealFact": "It is endemic to water-filled sinkholes and limestone caves of Mexico's Yucatán Peninsula, turning up in only about 7% of caves searched. Sewage and wastewater seeping into the aquifer threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Blind_swamp_eel",
+   "https://www.fishbase.se/summary/6306"
+  ],
+  "hints": {
+   "habitat": "Shallow, muddy water in sinkholes and limestone caves, often under stones",
+   "size": null,
+   "depth": null,
+   "diet": "Bat and swallow droppings, plus shrimp"
+  }
+ },
+ "bartons-cichlid": {
+  "funFact": "In breeding season males darken to a deep black, making them look like they are wearing a tuxedo, and the species was briefly placed in a genus named Nosferatu.",
+  "revealFact": "It is endemic to freshwater springs of the upper Panuco basin in San Luis Potosí, Mexico, especially the La Media Luna spring lagoon and the upper Río Verde.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Barton's_cichlid",
+   "https://www.fishbase.se/summary/6318"
+  ],
+  "hints": {
+   "habitat": "Clear springs, spring lagoons and rivers with plant and rock cover",
+   "size": "Up to about 18 cm long (standard length)",
+   "depth": null,
+   "diet": "Smaller fish, aquatic insects, algae and other invertebrates"
+  }
+ },
+ "zebra-pleco": {
+  "funFact": "It goes by two aquarium code numbers, L-046 and L-098, and fathers guard the eggs until the fry swim off about a week later.",
+  "revealFact": "It lives only along a small stretch of the Rio Xingu's big bend below Altamira, Brazil, where the Belo Monte Dam has severely reduced the river's flow. Exporting it from Brazil has been illegal since 2004.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Zebra_pleco",
+   "https://www.fishbase.se/summary/53570"
+  ],
+  "hints": {
+   "habitat": "Fast-flowing, oxygen-rich rocky rapids full of caves and crevices",
+   "size": "Up to about 7 cm long",
+   "depth": null,
+   "diet": "Small invertebrates such as insect larvae"
+  }
+ },
+ "naked-characin": {
+  "funFact": "Young fish have tiny, delicate scales that get reabsorbed into the skin, so adults end up scaleless with a greasy, spongy-looking hide.",
+  "revealFact": "It lives only in the warm, spring-fed headwaters of the Valcheta Stream in northern Patagonia, Argentina, making it the southernmost characin. Invasive Uruguay tetras and rainbow trout threaten its tiny range.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Naked_characin",
+   "https://www.fishbase.se/summary/6183"
+  ],
+  "hints": {
+   "habitat": "Headwaters of a small stream fed by a thermal spring",
+   "size": "Up to about 7.5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "white-blotched-river-stingray": {
+  "funFact": "The venom in its tail spine gets weaker as it ages, while its jaws grow stiffer so older rays can crunch hard-shelled prey.",
+  "revealFact": "It is endemic to the Xingu River basin in Brazil, where it prefers clear water over rocky bottoms.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Xingu_River_ray",
+   "https://www.fishbase.se/summary/53766"
+  ],
+  "hints": {
+   "habitat": "Clear rivers with rocky bottoms; buries itself in sand by day",
+   "size": "Up to about 111 cm across the disc",
+   "depth": null,
+   "diet": "Bottom-dwelling invertebrates, hunted at night"
+  }
+ },
+ "ascotan-pupfish": {
+  "funFact": "Its entire species is spread across just 12 springs, and unlike some of its killifish kin, it is not a seasonal killifish.",
+  "revealFact": "It is endemic to 12 springs fringing the Salar de Ascotán, a salt flat in the high Andes of Chile's Antofagasta Region.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Orestias_ascotanensis",
+   "https://www.fishbase.se/summary/49600"
+  ],
+  "hints": {
+   "habitat": "Small springs at the edge of a salt flat",
+   "size": "Up to about 7.5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "brazilian-blind-characid": {
+  "funFact": "When undisturbed it hovers almost motionless in midwater with its body tilted at 10–40°, and in aquariums individuals ignore each other completely.",
+  "revealFact": "It is known only from groundwater in the karst near Jaíba, northern Minas Gerais, Brazil, where water extraction has dried many wells and springs. After a single specimen in 1962, it was not found again until 2004.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Stygichthys",
+   "https://www.fishbase.se/summary/12400"
+  ],
+  "hints": {
+   "habitat": "Underground water in limestone karst, reached through caves and shallow wells",
+   "size": "Up to about 2.4 cm long (standard length)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "brazilian-guitarfish": {
+  "funFact": "Its eggs lie dormant inside the mother for months before developing, and it is the only known host of a parasitic flatworm nicknamed 'Good Luck'.",
+  "revealFact": "It lives on the continental shelf of southern Brazil, ranging south to northern Argentina, and was traditionally the main ray caught there. Trawling and netting, which take mostly pregnant females, have cut its numbers by more than 80% since 1986.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Brazilian_guitarfish",
+   "https://www.fishbase.se/summary/8732"
+  ],
+  "hints": {
+   "habitat": "Coastal waters across the continental shelf, from the shoreline to the shelf edge",
+   "size": "Up to about 138 cm (1.4 m) long",
+   "depth": "1–150 m",
+   "diet": "Crustaceans, cephalopods, polychaete worms and small fish"
+  }
+ },
+ "angular-angelshark": {
+  "funFact": "This shark is shaped like a ray, and adult males carry patches of small spines on their pectoral fins that are thought to help them hold females while mating.",
+  "revealFact": "It lives along the coasts of Brazil, Uruguay and Argentina in the south-western Atlantic, where overfishing has made this bottom-dweller endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Angular_angelshark",
+   "https://www.fishbase.se/summary/53932"
+  ],
+  "hints": {
+   "habitat": "Sandy or muddy sea floor in coastal and shelf waters, sometimes brackish",
+   "size": "Up to about 129 cm (1.3 m) long",
+   "depth": "4–360 m",
+   "diet": "Mainly bony fish, plus crustaceans and molluscs"
+  }
+ },
+ "doce-surubim": {
+  "funFact": "This catfish is the largest native fish of its home river system, and it hangs out in the deepest parts of the main channels.",
+  "revealFact": "It is native to the Rio Doce basin in Minas Gerais and Espírito Santo, Brazil, where it was once common throughout the basin but is now endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Steindachneridion_doceanum",
+   "https://www.fishbase.se/summary/48550"
+  ],
+  "hints": {
+   "habitat": "The deepest parts of river channels and their main tributaries",
+   "size": "Up to about 42 cm long (standard length)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "flame-tetra": {
+  "funFact": "It was already being sold as an aquarium fish in 1920, four years before scientists formally described it. Its back half glows flame red.",
+  "revealFact": "Native to coastal streams of Rio de Janeiro and the upper Tietê basin of São Paulo in south-eastern Brazil, it has declined badly from habitat loss, pollution and introduced fish such as tilapia. Huge numbers are now bred in captivity for aquariums.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Flame_tetra",
+   "https://www.fishbase.se/summary/10652"
+  ],
+  "hints": {
+   "habitat": "Small, slow, shallow and weedy streams shaded by forest",
+   "size": "Up to about 2.6 cm long (standard length)",
+   "depth": null,
+   "diet": "Small insects, worms and plants"
+  }
+ },
+ "pacama": {
+  "funFact": "Its enormous mouth earned it the nickname 'Pac-Man catfish', and fathers look after the sticky eggs.",
+  "revealFact": "It comes from the São Francisco River basin in Brazil, and Brazil's Ministry of the Environment considers it threatened.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lophiosilurus_alexandri",
+   "https://www.fishbase.se/summary/47746"
+  ],
+  "hints": {
+   "habitat": "Still or slow-moving river waters, where it sits quietly on the bottom",
+   "size": "Up to about 72 cm long",
+   "depth": null,
+   "diet": "Smaller fish"
+  }
+ },
+ "jumandi-cave-catfish": {
+  "funFact": "Its skin is studded with tiny denticles that can sense water flow, handy in a home that never sees daylight. Its eyes are minute and it has no pigment.",
+  "revealFact": "It is endemic to the Jumandí Cave in the Napo River basin of Ecuador, living in the pitch-dark zone 300 m to 2 km in from the entrance.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Astroblepus_pholeter",
+   "https://www.fishbase.se/summary/49712"
+  ],
+  "hints": {
+   "habitat": "Permanently dark cave streams, hiding in holes among rocks",
+   "size": "Up to about 7 cm long (standard length)",
+   "depth": null,
+   "diet": "Mayfly nymphs"
+  }
+ },
+ "danube-salmon": {
+  "funFact": "This big predator eats mostly fish, but adults also go after amphibians, reptiles, small mammals and waterfowl.",
+  "revealFact": "The huchen is endemic to the Danube basin, with most remaining fish in upper tributaries such as the Inn, Drava and Mur, plus rivers like the Sava and Drina. Dams that cut fish off from their spawning grounds are its main threat.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Huchen",
+   "https://www.fishbase.se/summary/4664"
+  ],
+  "hints": {
+   "habitat": "Deeper stretches of swift, cold, oxygen-rich rivers",
+   "size": "Up to about 150 cm (1.5 m) long",
+   "depth": null,
+   "diet": "Mostly fish, plus amphibians, reptiles, small mammals and waterfowl; young eat invertebrates"
+  }
+ },
+ "corfu-toothcarp": {
+  "funFact": "This short-lived little fish prefers fresh water, yet in lab tests it has coped with salinity as high as 46 parts per thousand.",
+  "revealFact": "Despite its name, it has vanished from Corfu and Lefkas and now survives in springs and coastal wetlands of western Greece and southern Albania. Introduced species and water abstraction threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Valencia_letourneuxi",
+   "https://www.fishbase.se/summary/10462"
+  ],
+  "hints": {
+   "habitat": "Springs, swamps, lagoons and slow, weedy lowland streams",
+   "size": "Up to about 8 cm long",
+   "depth": null,
+   "diet": "Mainly insects, especially chironomid midges"
+  }
+ },
+ "valencia-toothcarp": {
+  "funFact": "This sociable little carnivore forms small shoals, and males show off orange-rimmed fins.",
+  "revealFact": "It is endemic to marshes, springs and irrigation channels of the Valencian Community and southern Catalonia, Spain. An aquarium in Valencia now breeds it for release into the nearby l'Albufera lagoon.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Valencia_toothcarp",
+   "https://www.fishbase.se/summary/6284"
+  ],
+  "hints": {
+   "habitat": "Marshes, springs, lagoons and irrigation ditches with little current and plenty of vegetation",
+   "size": "Up to about 8 cm long",
+   "depth": null,
+   "diet": "Crustaceans, insects and their larvae, and worms"
+  }
+ },
+ "adriatic-sturgeon": {
+  "funFact": "Its four barbels sit closer to the tip of its snout than to its mouth, and its body is armoured with five rows of bony scutes.",
+  "revealFact": "It is native to the Adriatic Sea and its large rivers, chiefly the Po and Adige in Italy, and once ranged down the eastern coast to Albania and Greece. Habitat destruction, pollution and overfishing have made it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Adriatic_sturgeon",
+   "https://www.fishbase.se/summary/2504"
+  ],
+  "hints": {
+   "habitat": "Large, deep rivers, estuaries and the near-shore sea over sand and mud",
+   "size": "Up to about 200 cm (2 m) long",
+   "depth": "10–40 m",
+   "diet": "Bottom-living invertebrates and small fish"
+  }
+ },
+ "european-sea-sturgeon": {
+  "funFact": "It can live to 100 years, and the last known wild hatching, in 1994, came from just a single mating pair.",
+  "revealFact": "Once found along coasts all over Europe, it now breeds only in the Garonne–Dordogne (Gironde) system of south-western France, with fewer than 800 mature wild fish estimated. Reintroductions are under way in the Rhine and Elbe.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/European_sea_sturgeon",
+   "https://www.fishbase.se/summary/2066"
+  ],
+  "hints": {
+   "habitat": "Coastal seas and estuaries, entering large rivers to spawn",
+   "size": "Up to about 600 cm (6 m) long",
+   "depth": "4–93 m",
+   "diet": "Polychaete worms and crustaceans, found with its sensitive barbels"
+  }
+ },
+ "ohrid-trout": {
+  "funFact": "Its lake may hold up to four forms of this trout, each breeding in its own place and season, though genetic data have not confirmed the split.",
+  "revealFact": "It is endemic to Lake Ohrid on the border of North Macedonia and Albania, along with its inflows and the Black Drin outlet. Heavy fishing has pushed it to the verge of extinction, and it even appears on the Macedonian 2-denar coin.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ohrid_trout",
+   "https://www.fishbase.se/summary/6423"
+  ],
+  "hints": {
+   "habitat": "Open water of a large lake, spawning in the shallower shore zones",
+   "size": "Up to about 76 cm long",
+   "depth": null,
+   "diet": "Zooplankton when young; adults also hunt small fish"
+  }
+ },
+ "softmouth-trout": {
+  "funFact": "It is easy to spot by its long snout and small, fleshy mouth, and its mostly green body is dotted with red and black spots.",
+  "revealFact": "It lives in just a handful of karst rivers draining to the Adriatic in Croatia, Bosnia and Herzegovina and Montenegro, including the Jadro, Vrljika, Neretva and Zeta. Dams, hybridization with introduced trout and overfishing threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Salmo_obtusirostris",
+   "https://www.fishbase.se/summary/6210"
+  ],
+  "hints": {
+   "habitat": "Deep, quiet spots in cold streams and small rivers",
+   "size": "Up to about 70 cm long (standard length)",
+   "depth": null,
+   "diet": "Invertebrates"
+  }
+ },
+ "asprete": {
+  "funFact": "Considered a living fossil unchanged for tens of millions of years, it hides under stones by day and fiercely guards its territory at night.",
+  "revealFact": "It now survives only in a short stretch of the Vâlsan River in southern Romania, making it the European fish genus with the most restricted range. Surveys in October 2022 confirmed just 58 individuals.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Romanichthys",
+   "https://www.fishbase.se/summary/6315"
+  ],
+  "hints": {
+   "habitat": "Under stones in fast, cold, clear mountain streams",
+   "size": "Up to about 11 cm long (standard length)",
+   "depth": null,
+   "diet": "Larvae of stream insects such as mayflies, stoneflies and caddisflies"
+  }
+ },
+ "carpione": {
+  "funFact": "It spawns beside underwater springs deep in its lake, and even the oldest individuals live only about five years.",
+  "revealFact": "It is endemic to Lake Garda in northern Italy; every attempt to establish it in other lakes has failed, and its numbers fell by about 80% in the ten years up to 2006.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Salmo_carpio",
+   "https://www.fishbase.se/summary/46490"
+  ],
+  "hints": {
+   "habitat": "Deep water of a large lake, spawning near underwater springs",
+   "size": "Up to about 50 cm long (standard length)",
+   "depth": "100–200 m",
+   "diet": "Zooplankton, plus bottom-dwelling crustaceans and other invertebrates in summer"
+  }
+ },
+ "gwyniad": {
+  "funFact": "It commutes up and down the water column every day, rising toward the surface to forage during the warmer months.",
+  "revealFact": "The gwyniad, or Welsh whitefish, is native only to Llyn Tegid (Bala Lake) in north Wales, where introduced ruffe eat its eggs and fry. Between 2003 and 2007, eggs were moved to nearby Llyn Arenig Fawr to start a backup population.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Gwyniad",
+   "https://www.fishbase.se/summary/49284"
+  ],
+  "hints": {
+   "habitat": "Open water in the deeper parts of a lake; spawns in shallow bays over stones and gravel",
+   "size": "Up to about 35 cm long (standard length)",
+   "depth": null,
+   "diet": "Crustaceans and insects"
+  }
+ },
+ "angelshark": {
+  "funFact": "It lies buried in sand by day with only its eyes poking out, and one was once found to have swallowed a cormorant.",
+  "revealFact": "Once widespread from Norway to north-west Africa and the Mediterranean, it is now found mainly around the Canary Islands, with scattered records off Wales and Ireland. Bycatch from intense commercial fishing has made it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Squatina_squatina",
+   "https://www.fishbase.se/summary/736"
+  ],
+  "hints": {
+   "habitat": "Sand or mud sea floor near the coast and across the continental shelf",
+   "size": "Up to about 183 cm (1.8 m) long",
+   "depth": "5–150 m",
+   "diet": "Mainly flatfish and other bottom fish, plus skates, crustaceans and molluscs"
+  }
+ },
+ "maltese-skate": {
+  "funFact": "This skate wears a set of fake eyes: brown, yellow-centred eye-spots on its wings that may fool or deter predators. Its tail even carries small electric organs, used mainly for communication.",
+  "revealFact": "The Maltese skate is one of three rare skates found only in the Mediterranean, living mainly in the Strait of Sicily around Malta, Tunisia and southern Sicily. Because it lives on the seafloor it is often caught by accident in commercial fishing, and this bycatch has left it Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Maltese_skate",
+   "https://www.fishbase.se/summary/9260"
+  ],
+  "hints": {
+   "habitat": "Soft sandy and muddy seabed in deep water, where it can bury itself",
+   "size": "Up to about 52 cm total length",
+   "depth": "60–800 m",
+   "diet": "Crustaceans, mainly amphipods"
+  }
+ },
+ "dalmatian-barbelgudgeon": {
+  "funFact": "Females of this night-active fish have a special egg-laying tube for tucking their eggs into cracks in rock and gravel. In winter or dry spells, adults slip away into underground waters.",
+  "revealFact": "The Dalmatian barbelgudgeon lives only in karst rivers, lakes and poljes of Dalmatia in Croatia and south-western Bosnia and Herzegovina, such as the Krka and Cetina. Dams, water extraction for farming and pollution threaten it, and it may already be gone from the Zrmanja River.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Dalmatian_barbelgudgeon",
+   "https://www.fishbase.se/summary/6088"
+  ],
+  "hints": {
+   "habitat": "Swift streams, still waters and lakes, retreating into underground waters in dry seasons",
+   "size": "Up to about 20 cm standard length",
+   "depth": null,
+   "diet": "Omnivorous"
+  }
+ },
+ "apron": {
+  "funFact": "This little perch lurks on stony riverbeds by day and comes out around dusk and at night to feed. Its eggs are so sticky they glue themselves to the gravel, hatching about two weeks later.",
+  "revealFact": "The apron survives in only a few rivers of the Rhône basin in France and Switzerland, including the Durance, Beaume and Doubs, where the Doubs population may be just 80–160 fish. Dams and water pollution have broken up and degraded its habitat, leaving it Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Zingel_asper",
+   "https://www.fishbase.se/summary/6316"
+  ],
+  "hints": {
+   "habitat": "Stony and gravelly riffles in the main channels of fast-flowing rivers",
+   "size": "Up to about 22 cm total length",
+   "depth": null,
+   "diet": "Small insects (flies, mayflies, caddisflies) and other aquatic invertebrates"
+  }
+ },
+ "lez-sculpin": {
+  "funFact": "This tiny sculpin was only confirmed as its own species in 2005, after long being lumped with its close cousin, the bullhead. In lab tests, females could lay a new clutch of large eggs within a month of the last.",
+  "revealFact": "The Lez sculpin lives only in a roughly 3 km stretch of the Lez River near Montpellier in southern France. The karstic springs feeding the river may have let this isolated population survive through geological history, but habitat loss now threatens it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Cottus_petiti",
+   "https://www.fishbase.se/summary/49384"
+  ],
+  "hints": {
+   "habitat": "A short stretch of cold, spring-fed stream",
+   "size": "Up to about 6.4 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "knysna-seahorse": {
+  "funFact": "This seahorse's colour shifts with its surroundings and even its mood, from pale green to purplish black. And it's dad who carries the eggs, in a brood pouch under his tail.",
+  "revealFact": "The Knysna seahorse is known from only three estuaries on South Africa's southern Cape coast: the Knysna Lagoon, Swartvlei and the Keurbooms. Such a tiny range puts it at great risk, and floods in 2007 and 2011 shrank the Keurbooms population.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Knysna_seahorse",
+   "https://www.fishbase.se/summary/6303"
+  ],
+  "hints": {
+   "habitat": "Dense seagrass and weed beds in brackish estuaries and lagoons",
+   "size": "Up to about 12 cm tall (crown to tip of the straightened tail)",
+   "depth": "0–27 m",
+   "diet": null
+  }
+ },
+ "pindu": {
+  "funFact": "This jet-black cichlid is reportedly a crab thief, stealing food from freshwater crabs. After spawning, mum keeps the eggs safe in her mouth for three to four weeks.",
+  "revealFact": "The pindu lives only in Barombi Mbo, a volcanic crater lake about 3 miles across in western Cameroon. Pollution, sedimentation and water abstraction for the growing town of Kumba threaten it, though commercial fishing on the lake is banned.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pindu",
+   "https://www.fishbase.se/summary/6331"
+  ],
+  "hints": {
+   "habitat": "A small volcanic crater lake where only the upper waters hold enough oxygen",
+   "size": "Up to about 9.1 cm standard length",
+   "depth": "Within the top 40 m or so (deeper water lacks oxygen)",
+   "diet": "Shrimp and insect larvae; also steals food from crabs"
+  }
+ },
+ "pungu": {
+  "funFact": "The pungu has a taste for sponge: besides insect larvae, it nibbles a freshwater sponge found nowhere else. Mums brood their eggs in their mouths.",
+  "revealFact": "The pungu is endemic to Lake Barombi Mbo in Cameroon, which is also home to three other equally threatened cichlid genera found nowhere else. It is the only member of its genus, named after the Barombi people's own word for the fish, and is threatened by pollution and sedimentation.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pungu",
+   "https://www.fishbase.se/summary/6327"
+  ],
+  "hints": {
+   "habitat": "Shallow shoreline waters of a small lake, in small groups",
+   "size": "Up to about 10 cm standard length",
+   "depth": "Less than about 4 m",
+   "diet": "Insect larvae, freshwater sponge, diatoms and plant matter"
+  }
+ },
+ "golden-cave-catfish": {
+  "funFact": "This pale, air-breathing catfish has tiny skin-covered eyes and is probably blind. Its menu includes bat droppings and any unlucky insects that fall into its underground lake.",
+  "revealFact": "The golden cave catfish lives only in the lake inside Aigamas Cave in the Otjozondjupa region of Namibia, with an estimated 200–400 individuals. It is the only known cavefish of mainland southern Africa, and water extraction has already lowered its lake.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Clarias_cavernicola",
+   "https://www.fishbase.se/summary/2106"
+  ],
+  "hints": {
+   "habitat": "A clear lake deep inside a cave",
+   "size": "Up to about 16 cm standard length",
+   "depth": null,
+   "diet": "Bat droppings, carcasses, insects and detritus that fall into the water"
+  }
+ },
+ "lake-magadi-tilapia": {
+  "funFact": "Most fish get rid of waste as ammonia, but this cichlid excretes urea instead, because ammonia struggles to diffuse away in highly alkaline water. It can also cope with water as hot as 42 °C!",
+  "revealFact": "This cichlid is the only fish living in Kenya's hot, hypersaline and highly alkaline Lake Magadi, where it sticks to the springs and lagoons around the shore. It has been introduced to Lakes Elmenteita and Nakuru, but does not seem to have become established in Tanzania's Lake Natron.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Alcolapia_grahami",
+   "https://www.fishbase.se/summary/2033"
+  ],
+  "hints": {
+   "habitat": "Hot, highly alkaline springs and lagoons around the edge of a very salty lake",
+   "size": "Up to about 20 cm standard length",
+   "depth": null,
+   "diet": "Blue-green algae, copepods and fly larvae, taken at the surface"
+  }
+ },
+ "maloti-minnow": {
+  "funFact": "Despite its common name, this little fish isn't a true minnow at all. Youngsters gather in shoals in big pools, while adults prefer going solo or in small groups.",
+  "revealFact": "The Maloti minnow is Lesotho's only endemic freshwater fish, living in upper tributaries of the Senqu (Orange) River in the Maloti–Drakensberg highlands. Invasive fish such as the smallmouth yellowfish threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Maluti_redfin",
+   "https://www.fishbase.se/summary/6140"
+  ],
+  "hints": {
+   "habitat": "Pools and riffles of clear streams with cobbles and pebbles",
+   "size": "Up to about 13 cm standard length",
+   "depth": null,
+   "diet": "Aquatic insects"
+  }
+ },
+ "clanwilliam-sandfish": {
+  "funFact": "This fish rolls and twists so much as it feeds that, in clear water, it is often seen only as a flash of silver. In spring and summer, big crowds migrate upstream together to breed.",
+  "revealFact": "The Clanwilliam sandfish is found only in the Olifants–Doring River system of South Africa's Western and Northern Cape. It is one of South Africa's most threatened freshwater fish.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Clanwilliam_sandfish",
+   "https://www.fishbase.se/summary/6124"
+  ],
+  "hints": {
+   "habitat": "Pools and deep runs in a river's main channel and larger tributaries",
+   "size": "Up to about 35.5 cm standard length",
+   "depth": null,
+   "diet": "Algae, detritus and small invertebrates, grazed off rocks or grubbed from soft sediment"
+  }
+ },
+ "red-steenbras": {
+  "funFact": "Both halves of its scientific name point to its favourite hangout: the genus name comes from a word for 'rock', and the species name means 'dweller in rocks'. It is also the biggest member of the whole seabream family.",
+  "revealFact": "The red steenbras is found only off South Africa, from Table Bay in the Western Cape to St Lucia in KwaZulu-Natal. Slow to mature at around 7 years old, it has been badly depleted by overfishing.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Red_steenbras",
+   "https://www.fishbase.se/summary/447"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs and banks in coastal waters; adults offshore, juveniles on shallower reefs",
+   "size": "Up to about 200 cm (2 m) total length",
+   "depth": null,
+   "diet": "Octopuses, crabs and fish"
+  }
+ },
+ "dageraad": {
+  "funFact": "Its scientific name means 'crown-head', a nod to the raised nape of adult males. When cold water wells up, these red reef fish leave their usual home patch, apparently chasing warmer water.",
+  "revealFact": "The dageraad lives only off South Africa, between False Bay in the Western Cape and Durban in KwaZulu-Natal. Long-lived, slow-growing, late to mature and territorial, it was hit hard by overfishing and is now Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Chrysoblephus_cristiceps",
+   "https://www.fishbase.se/summary/6002"
+  ],
+  "hints": {
+   "habitat": "Offshore rocky reefs; juveniles on shallower subtidal reefs",
+   "size": "Up to about 75 cm total length",
+   "depth": "30–100 m",
+   "diet": "Crustaceans, molluscs, worms and small fish"
+  }
+ },
+ "lake-chala-tilapia": {
+  "funFact": "This tilapia is the official reference species for its entire genus. Until people introduced other tilapias, it had its home waters all to itself.",
+  "revealFact": "The Lake Chala tilapia is found only in Lake Chala, a small crater lake on the Kenya–Tanzania border at the foot of Kilimanjaro. Siltation and introduced non-native tilapias have made it much rarer, and it is now Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lake_Chala_tilapia",
+   "https://www.fishbase.se/summary/2032"
+  ],
+  "hints": {
+   "habitat": "A small crater lake, often in fairly deep water; feeds among rocks near the shore",
+   "size": "Up to about 30 cm standard length",
+   "depth": null,
+   "diet": "Algae and debris picked off the bottom between rocks"
+  }
+ },
+ "saulosi": {
+  "funFact": "These cichlids are all born yellow, but dominant males turn blue with black bars. Some young males stay 'undercover' in yellow among the females, ready to colour up if the boss leaves.",
+  "revealFact": "Pseudotropheus saulosi lives only on Taiwan Reef (Taiwanee Reef) near Chizumulu Island in Lake Malawi. Critically Endangered in the wild, it is being restocked there with captive-bred fish.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pseudotropheus_saulosi",
+   "https://www.fishbase.se/summary/8341"
+  ],
+  "hints": {
+   "habitat": "Clean, sediment-free rocks on the upper part of a rocky reef with strong current, in large groups",
+   "size": "Up to about 8.6 cm total length",
+   "depth": null,
+   "diet": "Picks and nibbles loose material from the growth coating the rocks"
+  }
+ },
+ "natal-shyshark": {
+  "funFact": "This shark goes by the cheerful nickname 'happy chappie'. It was only described as a species of its own in 2006, having long been treated as a form of a look-alike cousin.",
+  "revealFact": "The Natal shyshark is endemic to a small stretch of South African coast, mainly off KwaZulu-Natal, living in warm water from the surf zone to shallow rocky reefs. Rare and threatened by habitat degradation and commercial fishing, it is assessed as Vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Natal_shyshark"
+  ],
+  "hints": {
+   "habitat": "The surf zone and shallow rocky reefs near the coast, living on the bottom",
+   "size": null,
+   "depth": null,
+   "diet": null
+  }
+ },
+ "pinstripe-damba": {
+  "funFact": "This cichlid was once listed as extinct in the wild, until a small surviving population was rediscovered. Its body is very flat from side to side and striped with darker vertical bands.",
+  "revealFact": "The pinstripe damba lives in floodplain lakes of the Sofia River system in north-western Madagascar, where a remnant population was found in Lake Tseny. Invasive species and overfishing threaten it, and zoos and fishkeepers are breeding it in captivity.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Paretroplus_menarambo",
+   "https://www.fishbase.se/summary/57958"
+  ],
+  "hints": {
+   "habitat": "Floodplain lakes of a river system",
+   "size": "Up to about 16.7 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "damba-mipentina": {
+  "funFact": "This deep-bodied cichlid is easy to tell apart from its relatives by one big black spot on its side. Zoos and home fishkeepers are breeding it to help the species survive.",
+  "revealFact": "The damba mipentina comes from turbid, shallow floodplain lakes in the Betsiboka and Ikopa River basins of north-western Madagascar. Habitat loss, overfishing and invasive species have caused a drastic decline, leaving it Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Damba_mipentina",
+   "https://www.fishbase.se/summary/8789"
+  ],
+  "hints": {
+   "habitat": "Murky, shallow floodplain lakes",
+   "size": "Up to about 14.8 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "mangarahara-cichlid": {
+  "funFact": "Its local name means 'red girl', after the males' long, ragged, red-edged fins. When the last known female was killed during a breeding attempt, a media appeal went out to find any survivors.",
+  "revealFact": "The Mangarahara cichlid comes from the Mangarahara and Amboaboa rivers near Mandritsara in northern Madagascar. Feared lost from the wild, a remnant population was found in 2013, and breeding programmes in Madagascar and at Toronto Zoo have since produced thousands of hatchlings.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ptychochromis_insolitus",
+   "https://www.fishbase.se/summary/62937"
+  ],
+  "hints": {
+   "habitat": "A couple of rivers in a very small area, shared with introduced fish",
+   "size": "Up to about 24.5 cm total length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "malagasy-blind-gudgeon": {
+  "funFact": "This blind, pigment-free cavefish is drawn to disturbances on the water's surface. Populations in caves that don't connect to each other may even turn out to be separate species.",
+  "revealFact": "This gudgeon lives only in underground waters of the Mahafaly Plateau in south-western Madagascar, known from more than 10 caves and sinkholes. Some of its caves, including the Mitoho Grotto, are protected within Tsimanampetsotsa National Park.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Typhleotris_madagascariensis",
+   "https://www.fishbase.se/summary/10026"
+  ],
+  "hints": {
+   "habitat": "Underground water in limestone caves, sinkholes and wells",
+   "size": "Up to about 8 cm standard length",
+   "depth": null,
+   "diet": "Crustaceans and insects found in caves"
+  }
+ },
+ "red-tailed-silverside": {
+  "funFact": "Breeding males sport a red spot on the lower jaw, a handy way to tell them from a near-identical cousin that is common in the aquarium trade. The species is named after the pharmacist who collected the first specimen.",
+  "revealFact": "The red-tailed silverside lives only in the Mananjary River drainage of eastern Madagascar. It hasn't been found in the lower-lying parts of the basin, probably because deforestation made the water siltier and warmer, and introduced species add to its troubles.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Zona",
+   "https://www.fishbase.se/summary/9883"
+  ],
+  "hints": {
+   "habitat": "Shady, quiet stretches of small streams at 300–650 m elevation",
+   "size": "Up to about 9 cm total length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "madagascar-rainbowfish": {
+  "funFact": "These rainbowfish hang out in loose, size-sorted groups of up to several dozen, with youngsters in the shallows and grown-ups in deeper water. Their genus is named after a museum director, Maurice Bedot.",
+  "revealFact": "Bedotia madagascariensis is found only in eastern Madagascar, in rivers and lakes between the Ivoloina River and Manambolo Creek around Toamasina. Like every member of its family it is endemic to Madagascar, and it is threatened by habitat loss.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Bedotia_madagascariensis",
+   "https://www.fishbase.se/summary/9882"
+  ],
+  "hints": {
+   "habitat": "Clear, well-shaded, slow-flowing lowland streams (below about 30 m elevation)",
+   "size": "Up to about 8.6 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "sakaramy-killifish": {
+  "funFact": "Unlike some of its relatives, this killifish is not a 'seasonal' species. It lives in mountain brooks and has also been reported from several crater lakes.",
+  "revealFact": "Pachypanchax sakaramyi is known only from the Sakaramy and Antongombato rivers, which drain Montagne d'Ambre in northern Madagascar, with reports from several crater lakes. Habitat loss and invasive species threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pachypanchax_sakaramyi",
+   "https://www.fishbase.se/summary/11855"
+  ],
+  "hints": {
+   "habitat": "Brooks in mountainous country, and possibly crater lakes",
+   "size": "Up to about 9 cm total length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "patricias-pachypanchax": {
+  "funFact": "This tiny killifish has to watch out not only for fish-eating birds but also for dragonfly nymphs. It is named after a conservationist who ran a charity called Friends of Fishes.",
+  "revealFact": "Patricia's pachypanchax lives in the Mananjeba, Mahavavy du Nord, Ifasy, Manehoko and Ampandra river basins of north-western Madagascar. It honours conservationist Patricia Yazgi, and introduced alien fishes may threaten it in some areas.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pachypanchax_patriciae",
+   "https://www.fishbase.se/summary/63019"
+  ],
+  "hints": {
+   "habitat": "Small tea-coloured, acidic, soft-water rivers, and larger seasonal rivers with floodplains",
+   "size": "Up to about 5.2 cm standard length",
+   "depth": null,
+   "diet": "Land and aquatic insects"
+  }
+ },
+ "beluga": {
+  "funFact": "This giant sturgeon rivals the ocean sunfish as the most massive bony fish alive. As it grows, its mouth shifts from underneath its head to almost the front, and its bony scutes are slowly absorbed.",
+  "revealFact": "The beluga lives mainly in the Caspian and Black Sea basins, migrating up rivers such as the Volga and Ural to spawn, and was formerly found in the Adriatic. Overfishing and poaching for its roe have crashed wild numbers, and it is Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Beluga_(sturgeon)",
+   "https://www.fishbase.se/summary/2067"
+  ],
+  "hints": {
+   "habitat": "Open sea, migrating up large, deep, fast rivers to spawn on stone or gravel",
+   "size": "Up to about 800 cm (8 m) total length",
+   "depth": "70–180 m",
+   "diet": "Mostly fish, plus crustaceans and molluscs"
+  }
+ },
+ "tawi-atair-garra": {
+  "funFact": "This pale cavefish lacks pigment, yet surprisingly it has normal eyes, unlike the cave-dwelling form of a close relative.",
+  "revealFact": "Garra dunsirei is found only in pools near Tawi Atair, a giant limestone sinkhole in the Dhofar mountains of southern Oman. Confined to this one extremely isolated sinkhole, it is listed as Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Garra_dunsirei",
+   "https://www.fishbase.se/summary/6118"
+  ],
+  "hints": {
+   "habitat": "Pools in an extremely isolated sinkhole",
+   "size": "Up to about 6.8 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "dead-sea-garra": {
+  "funFact": "This small fish is almost a pure algae-grazer. It spawns in groups, releasing eggs into open water that quickly sink to the bottom.",
+  "revealFact": "The Dead Sea garra lives in springs and wadis draining into the southern Dead Sea in Jordan, such as Wadi Hasa and Ghor Fifa. It once also occurred in Israel but is no longer found there, and habitat loss threatens it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Garra_ghorensis",
+   "https://www.fishbase.se/summary/27839"
+  ],
+  "hints": {
+   "habitat": "Small, fast-running spring-fed streams over gravel",
+   "size": "Up to about 10 cm standard length",
+   "depth": null,
+   "diet": "Almost entirely algae"
+  }
+ },
+ "azraq-killifish": {
+  "funFact": "This little toothcarp was feared extinct in the mid-1990s, until a survey in 2000 found about 45 adults hanging on. A captive-breeding rescue mission began the very next year.",
+  "revealFact": "The Azraq killifish lives only in the Azraq Wetland Reserve, an oasis in eastern Jordan. Its survival depends on water levels that are now artificially maintained against illegal water extraction, and on getting rid of the invasive mango tilapia.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Aphaniops_sirhani",
+   "https://www.fishbase.se/summary/27857"
+  ],
+  "hints": {
+   "habitat": "Shallow wetland pools among plants and stones, or over mud",
+   "size": "Up to about 5 cm total length",
+   "depth": null,
+   "diet": "Insect larvae and crustaceans"
+  }
+ },
+ "amu-darya-shovelnose": {
+  "funFact": "This small sturgeon trails a long, thin filament from its tail. It comes in two versions: a large, pale form that matures late and a small, dark one that matures early.",
+  "revealFact": "The Amu Darya shovelnose survives in the middle and lower Amu Darya and the lower Vakhsh River in Turkmenistan, Uzbekistan and Tajikistan, though it once reached the river's delta in the Aral Sea. Habitat loss, pollution and poaching have made it Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Amu_Darya_sturgeon",
+   "https://www.fishbase.se/summary/4634"
+  ],
+  "hints": {
+   "habitat": "Shallow, turbid, muddy flowing water in a large river",
+   "size": "Up to about 75 cm total length",
+   "depth": "1–2 m",
+   "diet": "Small fish and aquatic insect larvae"
+  }
+ },
+ "persian-sturgeon": {
+  "funFact": "This bluish sturgeon finds food by touch and taste, then simply sucks it in. Its menu grows up with it: tiny shrimp and insect larvae when young, crabs and fish later on.",
+  "revealFact": "The Persian sturgeon lives mainly in the southern and middle Caspian Sea, spawning in rivers such as the Volga, Kura, Araks and Ural. Overfishing of immature fish, dams, lost spawning grounds and pollution have made it Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Persian_sturgeon",
+   "https://www.fishbase.se/summary/9763"
+  ],
+  "hints": {
+   "habitat": "Coastal and estuary waters of a sea, running up big, fast rivers to breed",
+   "size": "Up to about 255 cm (2.5 m) total length",
+   "depth": null,
+   "diet": "Shrimp, midge larvae and amphipods when young; crabs, then mainly fish, as it grows"
+  }
+ },
+ "mangar": {
+  "funFact": "Artworks more than 3,000 years old show priests or gods dressed in the skin of this giant barbel. Its toothless mouth doesn't hold it back: it eats everything from plankton to birds.",
+  "revealFact": "The mangar is native to the Tigris–Euphrates river system in Turkey, Syria, Iraq and Iran, and was already well known in ancient times, appearing in Assyrian art. Overfishing and habitat loss have made it Vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Mangar_(fish)",
+   "https://www.fishbase.se/summary/11957"
+  ],
+  "hints": {
+   "habitat": "Large rivers and reservoirs, moving into smaller inflows to spawn",
+   "size": "Up to about 230 cm (2.3 m) total length",
+   "depth": null,
+   "diet": "Fish (about half its diet), plus zooplankton, invertebrates, phytoplankton and even birds"
+  }
+ },
+ "pearl-mullet": {
+  "funFact": "Each spring this fish heads upstream to spawn, leaping through the air like a salmon. It was long thought to be the only fish in its salty, alkaline home, until a second species was discovered there in 2018.",
+  "revealFact": "The pearl mullet is found only in the Lake Van basin of eastern Turkey, a salty, alkaline soda lake that most fish can't survive in. Heavy catches during its spawning run have become big business, though its IUCN status improved from Endangered in 1994 to Near Threatened in 2014.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Alburnus_tarichi",
+   "https://www.fishbase.se/summary/9635"
+  ],
+  "hints": {
+   "habitat": "A salty, alkaline lake, plus the freshwater streams it runs up to spawn",
+   "size": "Up to about 28 cm total length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "binni": {
+  "funFact": "This barbel is almost entirely vegetarian; the few tiny animals found in its stomach were probably swallowed by accident. It once sat in a catch-all 'wastebasket' genus before getting a genus all to itself.",
+  "revealFact": "The binni lives in the lower Tigris–Euphrates basin and the Mesopotamian Marshes of Iraq and south-western Iran, and is highly valued by the Marsh Arabs. Iraq's Umm al Binni Lake was named after it, but draining of the marshes and overfishing have cut its numbers.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Binni",
+   "https://www.fishbase.se/summary/54811"
+  ],
+  "hints": {
+   "habitat": "Densely vegetated lakes and marshes, sometimes moving into rivers",
+   "size": "Up to about 43 cm total length",
+   "depth": null,
+   "diet": "Plants, from phytoplankton and algae to larger water plants"
+  }
+ },
+ "galilee-tristramella": {
+  "funFact": "This cichlid is the last surviving member of its genus; all the others are extinct. Each fish can spawn at least two or three times in a single breeding season.",
+  "revealFact": "The short-jaw tristramella lives in the Jordan River system, including Lake Kinneret (the Sea of Galilee), in Israel and Syria. Catches in the lake dropped sharply after 2005, and water extraction and a drying climate threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Tristramella_simonis",
+   "https://www.fishbase.se/summary/6911"
+  ],
+  "hints": {
+   "habitat": "Still or slow water in a river system and a large lake; adults school in open water, young stay near shore",
+   "size": "Up to about 25 cm total length",
+   "depth": null,
+   "diet": "Phytoplankton and water plants, plus some zooplankton and small invertebrates"
+  }
+ },
+ "halavi-guitarfish": {
+  "funFact": "Its yellow-grey colouring helps this ray blend in on the seafloor. Mothers give birth to litters of up to 10 pups, each already around 29 cm long.",
+  "revealFact": "The halavi guitarfish lives in coastal waters from the Red Sea and Gulf of Aden east to the Gulf of Oman, with just two records (1997 and 2004) in Levantine waters of the Mediterranean. Taken both as a target and as bycatch in small-scale fisheries, it is Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Halavi_guitarfish",
+   "https://www.fishbase.se/summary/10804"
+  ],
+  "hints": {
+   "habitat": "On the bottom in very shallow coastal water and out over the continental shelf",
+   "size": "Up to about 120 cm disc width; at least 171 cm total length",
+   "depth": "0–100 m",
+   "diet": "Small molluscs, bony fish and crustaceans"
+  }
+ },
+ "ili-marinka": {
+  "funFact": "Each spring this fish pushes into tributary streams, and it spawns over stony bottoms from May until the middle of July.",
+  "revealFact": "The Ili marinka is a Schizothorax of Central Asia, found in rivers of the Ili–Balkhash basin in south-eastern Kazakhstan and western China. It is assessed as Vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ili_marinka",
+   "https://www.fishbase.se/summary/48168"
+  ],
+  "hints": {
+   "habitat": "Rivers and their tributaries, spawning over stony bottoms",
+   "size": "Up to about 70 cm total length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "denisons-barb": {
+  "funFact": "This torpedo-shaped barb, with a red stripe running through its eye, won third prize at a world ornamental-fish show in 1997. It became so popular that collecting for aquariums turned into its biggest threat.",
+  "revealFact": "Denison's barb is endemic to fast hill streams of the Western Ghats in southern India, in rivers such as the Chaliyar, Pamba, Achankovil and Valapattanam. By 2007–08 it made up roughly 60–65% of India's live ornamental-fish exports, and over-collection has left it Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Denison_barb",
+   "https://www.fishbase.se/summary/24148"
+  ],
+  "hints": {
+   "habitat": "Rocky pools of fast-flowing hill streams with thick vegetation along the banks",
+   "size": "Up to about 15 cm total length",
+   "depth": null,
+   "diet": "Mainly plants (herbivorous)"
+  }
+ },
+ "gollum-snakehead": {
+  "funFact": "This eel-like snakehead lives in underground water yet, unusually, has normal eyes and full colour. One specimen only came to light when a well suddenly turned muddy and was drained for cleaning.",
+  "revealFact": "The Gollum snakehead lives in underground aquifers of Kerala in south-western India, known from a flooded paddy field at Oorakam and a well about 250 km to the south. It stayed unknown to science until 2018, and an estimated six million groundwater wells in the region threaten it by lowering the water table.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Aenigmachanna_gollum",
+   "https://www.fishbase.se/summary/69391"
+  ],
+  "hints": {
+   "habitat": "Warm groundwater aquifers, occasionally turning up in flooded paddy fields and wells",
+   "size": "Up to about 12.7 cm standard length",
+   "depth": null,
+   "diet": "Predatory; probably small invertebrates such as insects and crustaceans"
+  }
+ },
+ "hump-backed-mahseer": {
+  "funFact": "For years this huge, orange-tailed mahseer had no proper scientific name, which made it hard to protect. A 2018 study finally matched it to a little-known species described from just 19 fish.",
+  "revealFact": "The hump-backed mahseer is found only in the Kaveri (Cauvery) river basin of the Western Ghats in southern India, in rivers such as the Moyar, Kabini, Bhavani and Pambar. Introduced non-native mahseers, dams and dynamite fishing helped crash its populations around 2004.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Tor_remadeviae",
+   "https://www.fishbase.se/summary/66322"
+  ],
+  "hints": {
+   "habitat": "Big rivers, from fast shallow rapids to deep slow pools over bedrock and boulders",
+   "size": "Up to about 175 cm (1.75 m) fork length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "cherry-barb": {
+  "funFact": "Males of this tiny barb turn a deep red when ready to breed. Since 2023 it has had a genus all to itself, Rohanella, named in honour of a biologist.",
+  "revealFact": "The cherry barb is endemic to the shaded streams of Sri Lanka's south-western wet zone, from the Kelani to the Nilwala basins. Though widely bred for aquariums, wild populations are still threatened by over-collection and habitat loss.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Cherry_barb",
+   "https://www.fishbase.se/summary/6147"
+  ],
+  "hints": {
+   "habitat": "Shallow, slow, heavily shaded streams with silt and leaf litter",
+   "size": "Up to about 5 cm total length",
+   "depth": null,
+   "diet": "Omnivorous: detritus, algae, diatoms, flies and other small animals"
+  }
+ },
+ "ornate-paradisefish": {
+  "funFact": "This tiny gourami builds a nest out of bubbles, and in aquariums it is said to be exceedingly shy. Its scientific name honours a lawyer and judge.",
+  "revealFact": "The ornate paradisefish is endemic to Sri Lanka, living in forest streams of the south-western wet zone. It is the only recognised species in its genus and is listed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ornate_paradisefish",
+   "https://www.fishbase.se/summary/6354"
+  ],
+  "hints": {
+   "habitat": "Small, shallow, slow, silty streams in shaded forest, with leaf litter and thick plants along the edges",
+   "size": "Up to about 4 cm total length",
+   "depth": null,
+   "diet": "Fish fry, plankton and insect larvae"
+  }
+ },
+ "zebra-loach": {
+  "funFact": "The scientist who first described it couldn't hide his admiration, calling its broad dark and narrow yellow bands 'most beautiful'. Some individuals even wear twisted or net-like stripes.",
+  "revealFact": "The zebra loach lives in just four rivers of the northern Western Ghats in India: the Tunga and Bhadra in Karnataka and the Panchganga and Koyna in Maharashtra, an area of about 400 km². Deforestation, pollution and heavy export for the aquarium trade threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Zebra_loach",
+   "https://www.fishbase.se/summary/12255"
+  ],
+  "hints": {
+   "habitat": "Clear mountain streams with pebble or gravel beds",
+   "size": "Up to about 7.8 cm standard length",
+   "depth": null,
+   "diet": "Omnivorous: phytoplankton and crustaceans from the streambed"
+  }
+ },
+ "pearly-rasbora": {
+  "funFact": "This tiny 'fire rasbora' feeds mainly on land insects such as flies and beetles. In 2018, scientists concluded that a supposedly separate species was really just this fish under another name.",
+  "revealFact": "The pearly rasbora is endemic to Sri Lanka, where it is restricted to the Kalu River basin in the shaded forest streams of the south-western wet zone. It is more threatened than its relatively widespread relative Rasboroides pallidus.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Rasboroides_vaterifloris",
+   "https://www.fishbase.se/summary/6148"
+  ],
+  "hints": {
+   "habitat": "Cool, clear, quiet and heavily shaded forest streams with silt and leaf litter",
+   "size": "Up to about 4 cm total length",
+   "depth": null,
+   "diet": "Land insects such as flies and beetles, plus detritus"
+  }
+ },
+ "asoka-barb": {
+  "funFact": "Young fish of this barb gather in schools of 30–100 in water just 5–25 cm deep, while the adults move upstream into deeper water. They swim so fast they are hard to identify from above.",
+  "revealFact": "The Asoka barb is endemic to Sri Lanka, found only in the upper Sitawaka River and its tributaries and in the Kelani near Kitulgala. Intensive collection by fish exporters has driven its numbers down, and it is Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Asoka_barb",
+   "https://www.fishbase.se/summary/6141"
+  ],
+  "hints": {
+   "habitat": "Unshaded, fast-flowing river stretches over gravel or sand",
+   "size": "Up to about 17 cm total length",
+   "depth": "1–2 m (juveniles in water 5–25 cm deep)",
+   "diet": null
+  }
+ },
+ "tambraparni-barb": {
+  "funFact": "This barb was first described in 1953 as a mere subspecies of another barb, before being treated as a full species and moved to a newer genus. Sadly, its numbers have dropped sharply, partly due to sand mining.",
+  "revealFact": "Dawkinsia tambraparniei is found only in the Tamiraparani (Tambraparni) River basin of the southern Western Ghats in Tamil Nadu, India. Human activities such as sand mining have caused its population to fall significantly in recent years.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Dawkinsia_tambraparniei",
+   "https://www.fishbase.se/summary/62214"
+  ],
+  "hints": {
+   "habitat": "A single river system, where sand mining is a threat",
+   "size": "Up to about 12.8 cm standard length",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "black-ruby-barb": {
+  "funFact": "Breeding males turn from silver to deep ruby red, with a jet-black dorsal fin and purple pelvic fins. Their eggs hatch in a day or two, and the fry swim freely just 24 hours later.",
+  "revealFact": "The black ruby barb is endemic to forested hill streams of south-western Sri Lanka, from the Kelani to the Nilwala basins. A brightly coloured introduced population at Ginigathena is said to have shrunk because of the aquarium export trade.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Black_ruby_barb",
+   "https://www.fishbase.se/summary/6144"
+  ],
+  "hints": {
+   "habitat": "Clear, cool, shady forest streams over gravel or sand",
+   "size": "Up to about 6 cm total length",
+   "depth": null,
+   "diet": "Mainly filamentous algae and detritus"
+  }
+ },
+ "banggai-cardinalfish": {
+  "funFact": "Dad broods the eggs in his mouth, and the babies stay there even after hatching, with no drifting larval stage at all. Groups hover over sea urchins and duck between the spines when danger looms.",
+  "revealFact": "The Banggai cardinalfish is naturally restricted to the shallows of the Banggai Archipelago off Central Sulawesi, Indonesia, where an estimated 2.4 million fish share about 5,500 km². Heavy collection for the aquarium trade and disease have made it Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Banggai_cardinalfish",
+   "https://www.fishbase.se/summary/15426"
+  ],
+  "hints": {
+   "habitat": "Calm, shallow seagrass beds, coral reefs and sand, often among long-spined sea urchins",
+   "size": "Up to about 8 cm total length",
+   "depth": "0–16 m (most common at 1.5–2.5 m)",
+   "diet": "Probably small crustaceans from the bottom and the plankton"
+  }
+ },
+ "mekong-giant-catfish": {
+  "funFact": "Young giant catfish have whiskers and teeth, but lose both by the time they are 30–50 cm long. Then they grow astonishingly fast, reaching 150–200 kg in just six years.",
+  "revealFact": "The Mekong giant catfish once ranged along almost the entire Mekong, from Vietnam to China's Yunnan, but now survives only in small, isolated populations in the middle Mekong and Cambodia's Tonlé Sap. Overfishing and habitat loss have made it Critically Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Mekong_giant_catfish",
+   "https://www.fishbase.se/summary/6192"
+  ],
+  "hints": {
+   "habitat": "The deep main channel of a very large river",
+   "size": "Up to about 300 cm (3 m) total length (unconfirmed)",
+   "depth": null,
+   "diet": "Algae and detritus as adults; zooplankton as fry"
+  }
+ },
+ "cave-angelfish": {
+  "funFact": "This eyeless little loach climbs waterfalls, gripping the rock with its fins. In 2016 scientists reported that it walks with a gait like a four-legged animal, thanks to a sturdy hip girdle joined to its spine.",
+  "revealFact": "The cave angelfish is known from eight caves in the Pang Mapha karst of Mae Hong Son Province, northern Thailand, occupying only about 6 km². Agricultural pollution, deforestation and caving tourism threaten its fragile cave streams.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Waterfall_climbing_cave_fish",
+   "https://www.fishbase.se/summary/26877"
+  ],
+  "hints": {
+   "habitat": "Swift water over rock, deep inside caves",
+   "size": "Up to about 2.8 cm standard length",
+   "depth": null,
+   "diet": "Cave microorganisms and organic matter"
+  }
+ },
+ "giant-barb": {
+  "funFact": "This gentle giant, the largest member of the carp family, has four copies of every chromosome instead of the usual two. It feeds on algae and the fruit of flooded plants rather than chasing prey.",
+  "revealFact": "The giant barb is found only in the Mekong, Chao Phraya and Mae Klong basins of Indochina, and has vanished entirely from the Chao Phraya River. In Cambodia the catch fell from 200 tonnes in 1964 to just 10 fish in 2000, and the country made it its national fish in 2005.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Giant_barb",
+   "https://www.fishbase.se/summary/12060"
+  ],
+  "hints": {
+   "habitat": "Large pools in big rivers, seasonally entering canals, floodplains and flooded forest",
+   "size": "Up to about 300 cm (3 m) total length (unconfirmed)",
+   "depth": null,
+   "diet": "Algae, phytoplankton, fruit of flooded plants and detritus"
+  }
+ },
+ "siamese-tiger-perch": {
+  "funFact": "Rounded lobes on its rear fins make this fish look as if it has three tails. Its scientific name means 'beautiful', probably a nod to the bold bars on its orange-brown body.",
+  "revealFact": "The Siamese tiger perch lives in the middle and lower Mekong in Laos, Cambodia and Vietnam, including Tonlé Sap, but has been locally extinct in Thailand since the 1990s. Collection for the aquarium trade and damming of its rivers have caused drastic declines.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Siamese_tigerfish",
+   "https://www.fishbase.se/summary/50395"
+  ],
+  "hints": {
+   "habitat": "Main rivers, tributaries and connected lakes and marshes, around sunken wood and rocky crevices",
+   "size": "Up to about 40 cm standard length",
+   "depth": null,
+   "diet": "Fish and shrimp"
+  }
+ },
+ "red-tailed-black-shark": {
+  "funFact": "Despite its name, this 'shark' is really a relative of carp, named for its shark-like looks and moves. Its bright red tail can fade when the fish is stressed, sick or living in poor water.",
+  "revealFact": "The red-tailed black shark is native only to the Chao Phraya River basin of central Thailand, where it is Critically Endangered in the wild. It remains common in aquariums, but every fish in the trade today is captive bred.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Red-tailed_black_shark",
+   "https://www.fishbase.se/summary/10835"
+  ],
+  "hints": {
+   "habitat": "Main river channels and floodplains",
+   "size": "Up to about 13 cm total length",
+   "depth": null,
+   "diet": "Omnivorous: plant matter and small bottom-dwelling animals"
+  }
+ },
+ "sawbwa-barb": {
+  "funFact": "This tiny fish has no scales at all. Mature males shimmer silvery blue, set off by a red snout and red tail-fin lobes.",
+  "revealFact": "The sawbwa barb is endemic to Inle Lake and its surrounding wetlands in Shan State, Myanmar, where it is extremely common. Even so, it is listed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sawbwa_barb",
+   "https://www.fishbase.se/summary/13204"
+  ],
+  "hints": {
+   "habitat": "Large shoals among dense plants in a lake and its swamps, in clear or peaty water",
+   "size": "Up to about 3 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "celestial-pearl-danio": {
+  "funFact": "Its gill covers are see-through, so its blood-red gills shine right through them. Discovered only in 2006, this pearl-spotted mini-fish became an instant hit in the aquarium trade.",
+  "revealFact": "The celestial pearl danio is known only from a tiny area near Hopong, east of Inle Lake in Myanmar, at over 1,000 m elevation in the Salween basin. It lives in spring-fed ponds linked to the Nam Lang and Nam Pawn rivers.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Danio_margaritatus",
+   "https://www.fishbase.se/summary/63298"
+  ],
+  "hints": {
+   "habitat": "Tiny, shallow, weedy ponds fed by seeping groundwater or springs, amid open grassland",
+   "size": "Up to about 2.1 cm standard length",
+   "depth": "0–1 m (its ponds are at most about 30 cm deep)",
+   "diet": null
+  }
+ },
+ "tawilis": {
+  "funFact": "This is the only sardine in its genus known to live entirely in fresh water. It swims with its mouth open to strain plankton, yet still seems to favour the bigger copepods.",
+  "revealFact": "Tawilis lives only in Taal Lake on Luzon in the Philippines, a lake in a volcano's caldera that was cut off from the sea by 18th-century eruptions. It is thought to be one of a few marine species trapped there that evolved into freshwater fish, and overfishing has made it Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sardinella_tawilis",
+   "https://www.fishbase.se/summary/1518"
+  ],
+  "hints": {
+   "habitat": "Open water of a large freshwater lake, schooling just below the surface",
+   "size": "Up to about 12 cm total length",
+   "depth": null,
+   "diet": "Plankton, especially larger copepods, plus rotifers and water fleas"
+  }
+ },
+ "black-betta": {
+  "funFact": "Named after Persephone, queen of the Underworld, this tiny betta survives dry spells by burying itself in damp leaf litter. It also builds a ball of bubbles among plants to hold its eggs.",
+  "revealFact": "Betta persephone is known only from Johor in Peninsular Malaysia, with its type locality in the peat swamp forest at Ayer Hitam. Its small swampy range is shrinking as forests are cleared for oil palm plantations.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Betta_persephone",
+   "https://www.fishbase.se/summary/52394"
+  ],
+  "hints": {
+   "habitat": "Dark, soft, acidic blackwater streams and peat swamps under a closed forest canopy",
+   "size": "Up to about 2.6 cm standard length",
+   "depth": null,
+   "diet": "Insects and other small invertebrates"
+  }
+ },
+ "mahachai-betta": {
+  "funFact": "The paper naming this betta was its journal's most-read of 2012, viewed over 15,000 times. Pairs court, build bubble nests and raise fry in tiny pools of water cupped inside palm bracts.",
+  "revealFact": "Named after the Mahachai area of Samut Sakhon, Thailand, this betta lives in brackish nipa-palm swamps west of Bangkok. It is the only Betta known to cope with both fresh and brackish water, and it is considered critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Betta_mahachaiensis",
+   "https://www.fishbase.se/summary/66633"
+  ],
+  "hints": {
+   "habitat": "Still water of swamps, pools and ponds among nipa palms, fresh to slightly salty",
+   "size": "Up to about 4.4 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "indonesian-coelacanth": {
+  "funFact": "Science first learned of this brown lobe-finned fish in 1997, when a honeymooning couple photographed one at a local market. A rival claim of an earlier find hinged on a photo later exposed as a crude forgery.",
+  "revealFact": "First spotted at a market on Manado Tua, North Sulawesi, this coelacanth lives on deep slopes of eastern Indonesia, with populations off Sulawesi, Papua and North Maluku. It is one of only two living coelacanth species and is listed as vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Indonesian_coelacanth",
+   "https://www.fishbase.se/summary/53783"
+  ],
+  "hints": {
+   "habitat": "Rocky slopes and caves in deep, cool water",
+   "size": "Up to about 140 cm (1.4 m) long",
+   "depth": "About 150–200 m (one pair was seen in a cave at 155 m)",
+   "diet": null
+  }
+ },
+ "psychedelic-frogfish": {
+  "funFact": "Its swirling stripes act like a fingerprint: every individual's pattern is unique, so researchers can identify each one from any angle. Now and then it stretches its head and mouth wide, as if yawning.",
+  "revealFact": "The psychedelic frogfish has been confirmed only at Ambon Island in Indonesia's Maluku islands, where it hides in coral rubble near a harbour jetty at a dive site known as the 'Twilight Zone'. It was described in 2009 and named for its swirling stripes.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Psychedelic_frogfish",
+   "https://www.fishbase.se/summary/64877"
+  ],
+  "hints": {
+   "habitat": "Coarse coral rubble, crusted with sponges and sea squirts, on a gently sloping harbour floor",
+   "size": "Up to about 6.5 cm long (body length, tail fin excluded)",
+   "depth": "5–10 m",
+   "diet": null
+  }
+ },
+ "halmahera-walking-shark": {
+  "funFact": "This small shark would rather walk than swim, using its pectoral fins to stroll along the seafloor. Its brown body is dotted with clusters of brown and white spots arranged in polygon shapes.",
+  "revealFact": "Named for Halmahera in Indonesia's North Maluku, this epaulette shark was described from two specimens collected near Ternate island in 2013. Its closest look-alike, from West Papua, has seven large dark spots on each side instead of spot clusters.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hemiscyllium_halmahera",
+   "https://www.fishbase.se/summary/67088"
+  ],
+  "hints": {
+   "habitat": "Near-shore coastal waters, where it walks along the sea bottom",
+   "size": "Up to about 68 cm long",
+   "depth": "5–10 m",
+   "diet": null
+  }
+ },
+ "celebes-rainbowfish": {
+  "funFact": "Its slender body is almost completely see-through apart from a blue stripe along each side, while males sport stretched-out black fins. It's the only known species in its genus.",
+  "revealFact": "The Celebes rainbowfish lives only near the town of Maros in South Sulawesi, Indonesia (Celebes is Sulawesi's former name). The ornamental fish trade and pollution have sharply reduced its numbers.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Celebes_rainbowfish",
+   "https://www.fishbase.se/summary/6300"
+  ],
+  "hints": {
+   "habitat": "Well-oxygenated streams and estuaries, fresh to slightly salty, hiding among plant leaves",
+   "size": "Up to about 8 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Small worms, insects and bits of plant matter"
+  }
+ },
+ "daisys-ricefish": {
+  "funFact": "Fully grown, this ricefish is under 3 cm long without its tail fin, and instead of hugging the bottom it lives up in open water.",
+  "revealFact": "Daisy's ricefish is known only from streams on Muna Island, off South-east Sulawesi in Indonesia. It is listed as endangered.",
+  "factSources": [
+   "https://www.fishbase.se/summary/65542"
+  ],
+  "hints": {
+   "habitat": "Freshwater streams, swimming in open water",
+   "size": "Up to about 2.8 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "kunimasu": {
+  "funFact": "Written off as extinct for about 70 years, this dark, black-spotted salmon turned up alive in 2010, descended from eggs shipped to other lakes in the 1930s. DNA tests later proved it was no hybrid.",
+  "revealFact": "The kunimasu originally lived only in Lake Tazawa in Akita Prefecture, Japan, until strongly acidic river water diverted in for hydroelectric power killed it off in 1940. It survives today in Lake Saiko near Mount Fuji, where eggs had been sent in 1935.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Oncorhynchus_kawamurae",
+   "https://www.fishbase.se/summary/66106"
+  ],
+  "hints": {
+   "habitat": "Cold, deep water of a freshwater lake",
+   "size": "Up to about 24 cm long",
+   "depth": "38–180 m",
+   "diet": "Probably zooplankton drifting in deep water"
+  }
+ },
+ "kaluga": {
+  "funFact": "One of the biggest sturgeons on Earth, it can reach about 5.6 m, and there are even reports of kalugas tipping over fishing boats. Older fish spawn less often, sometimes waiting four years or more.",
+  "revealFact": "The kaluga lives in the Amur River basin along the Russia–China border, spending part of its life in the salty estuary. Hunted to near extinction for its valuable roe, it is critically endangered, and poaching continues despite constant patrols.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Kaluga_(fish)",
+   "https://www.fishbase.se/summary/4633"
+  ],
+  "hints": {
+   "habitat": "A huge river system and its estuary; adults live in rivers and lakes and sometimes enter salt water",
+   "size": "Up to about 560 cm (5.6 m) long",
+   "depth": "0–50 m",
+   "diet": "Invertebrates at first, then young fish; adults hunt fish such as salmon"
+  }
+ },
+ "chinese-sturgeon": {
+  "funFact": "It makes the longest migration of any sturgeon, swimming from the coast far upriver to spawn. One female can carry over a million eggs, yet fewer than 1% of the hatchlings survive.",
+  "revealFact": "The Chinese sturgeon spawns in the Yangtze River and lives along China's eastern coasts; it once also reached Japan and Korea but has vanished from both. Protected as a 'national treasure' like the giant panda, it is critically endangered by habitat loss and overfishing.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Chinese_sturgeon",
+   "https://www.fishbase.se/summary/8762"
+  ],
+  "hints": {
+   "habitat": "Coastal seas as adults, migrating far up a large river to spawn; young in slow water",
+   "size": "Up to about 346 cm (3.5 m) long",
+   "depth": null,
+   "diet": "Adults eat almost any water animal they can swallow; young eat aquatic insects, larvae and diatoms"
+  }
+ },
+ "high-fin-banded-shark": {
+  "funFact": "Despite being sold as a 'banded shark', this fish is a sucker with no relation to real sharks. It's an 'ugly duckling in reverse': the bold bands of youth vanish as it darkens into adulthood.",
+  "revealFact": "The Chinese high-fin banded shark is native to the Yangtze River basin of China, and its population in the Min River tributary may already be gone. It is listed as vulnerable in the wild, though it is widely farmed.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Myxocyprinus",
+   "https://www.fishbase.se/summary/12304"
+  ],
+  "hints": {
+   "habitat": "Main channels of a large river, moving into fast, shallow headwaters to spawn",
+   "size": "Up to about 68 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "sakhalin-taimen": {
+  "funFact": "One of the largest and most ancient salmon, it takes about eight years to mature and lives roughly fourteen. Once longer than about 30 cm, it eats nothing but other fish.",
+  "revealFact": "The Sakhalin taimen lives in rivers and lakes of Sakhalin, the Kuril Islands and the Russian Far East mainland, as well as Hokkaido in Japan. Habitat loss, bycatch and poaching have cut it to under 5% of its historic numbers, so it is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sakhalin_taimen",
+   "https://www.fishbase.se/summary/9182"
+  ],
+  "hints": {
+   "habitat": "Lower and middle reaches of rivers and lakes; some populations head out to sea",
+   "size": "Up to about 200 cm (2 m) long",
+   "depth": "0–100 m",
+   "diet": "Aquatic insects when young; only fish once over about 30 cm"
+  }
+ },
+ "tokyo-bitterling": {
+  "funFact": "Like other bitterlings, it lays its eggs inside freshwater mussel shells, but this one is fussy and uses only one kind of mussel, which limits its breeding chances.",
+  "revealFact": "The Tokyo bitterling now survives only on the Kantō Plain around Tokyo, Japan, where people and pollution have overrun its streams. The Japanese government has declared it a 'national monument' to give it special protection.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Tokyo_bitterling",
+   "https://www.fishbase.se/summary/6152"
+  ],
+  "hints": {
+   "habitat": "Gentle little freshwater streams, where it needs one particular mussel to breed",
+   "size": "Up to about 5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "ayumodoki": {
+  "funFact": "Also called the kissing loach, it spawns just once a year in flooded rice paddies and ditches, racing to breed in the few days they hold water. Six barbels near its mouth help it feel for food in mud.",
+  "revealFact": "The ayumodoki lives only in a few river systems on Honshu, Japan, such as the Yodo River system near Kyoto and the Yoshii River in Okayama, whose rice paddies it uses for spawning. It is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ayumodoki",
+   "https://www.fishbase.se/summary/12244"
+  ],
+  "hints": {
+   "habitat": "Fast, muddy streams and rivers, moving into flooded rice paddies to spawn",
+   "size": "Up to about 15 cm long (body length, tail fin excluded)",
+   "depth": "Spawns in flooded paddies roughly 54 cm deep",
+   "diet": "Water fleas when young; later detritus, mud worms and other small bottom animals"
+  }
+ },
+ "qinghai-naked-carp": {
+  "funFact": "This carp is almost scaleless, keeping only a few specialised scales near its vent and shoulders, hence 'naked carp'. It grows slowly, needing 7–10 years before it can breed.",
+  "revealFact": "Przewalski's naked carp lives only in Lake Qinghai and its tributaries on the north-eastern Tibetan Plateau, China's largest saline lake with no outflow. From April to July adults leave the brackish lake and swim up a handful of freshwater rivers to spawn.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Schizopygopsis_przewalskii",
+   "https://www.fishbase.se/summary/55381"
+  ],
+  "hints": {
+   "habitat": "A huge, slightly salty lake with no outlet, plus the slow freshwater streams feeding it",
+   "size": "Up to about 48 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Mostly zooplankton near the bottom, plus other small aquatic invertebrates"
+  }
+ },
+ "white-cloud-minnow": {
+  "funFact": "Its genus name means 'Tan's fish', after the scout leader who discovered it in the 1930s. It can cope with water as chilly as 5°C, one reason it's a classic beginner's aquarium fish.",
+  "revealFact": "The White Cloud Mountain minnow was discovered on White Cloud Mountain in Guangzhou, Guangdong, China, where pollution and tourism have nearly wiped it out. After it was long thought extinct in the wild, an apparently native population was found on Hainan Island.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/White_Cloud_Mountain_minnow",
+   "https://www.fishbase.se/summary/4758"
+  ],
+  "hints": {
+   "habitat": "Clean, slow-flowing streams thick with water plants",
+   "size": "Up to about 4 cm long",
+   "depth": null,
+   "diet": "Zooplankton and detritus, plus plants and insect larvae"
+  }
+ },
+ "hong-kong-grouper": {
+  "funFact": "Its pale grey-brown body is sprinkled with tiny red, orange or gold spots and crossed by six faint dark bars. Divers have reported summer gatherings of up to 50 on reefs, right in spawning season.",
+  "revealFact": "The Hong Kong grouper lives on rocky and coral reefs of the western Pacific, from southern Japan and Korea through China and Taiwan to the Gulf of Tonkin. It is endangered and is a familiar sight in Hong Kong's live fish markets.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_grouper",
+   "https://www.fishbase.se/summary/5158"
+  ],
+  "hints": {
+   "habitat": "Rocky and coral reefs; young ones stay in shallower water",
+   "size": "Up to about 58 cm long",
+   "depth": "1–55 m",
+   "diet": null
+  }
+ },
+ "japanese-angelshark": {
+  "funFact": "A flat, wing-finned ambush hunter, it lies still on the sand all day and strikes at night. Its lineage split from its closest angelshark cousins about 100 million years ago, in the Cretaceous.",
+  "revealFact": "The Japanese angelshark lives on sandy bottoms of the north-western Pacific off Japan, Korea, China and Taiwan, and its type specimen came from Nagasaki. Caught in large numbers for meat and shagreen leather, it is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Japanese_angelshark",
+   "https://www.fishbase.se/summary/733"
+  ],
+  "hints": {
+   "habitat": "Sandy sea bottoms on the continental shelf",
+   "size": "Up to about 200 cm (2 m) long",
+   "depth": null,
+   "diet": "Fishes, cephalopods and crustaceans"
+  }
+ },
+ "spotted-handfish": {
+  "funFact": "Its hand-shaped fins let it stroll across the seafloor instead of swimming. Females lay eggs on upright objects such as sea squirts and seagrass, and the young hatch 7–8 weeks later as fully formed mini handfish.",
+  "revealFact": "The spotted handfish lives only in the Derwent Estuary of south-east Tasmania, Australia, and nearby areas. It is critically endangered, chiefly threatened by an invasive species, the Northern Pacific seastar.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Spotted_handfish",
+   "https://www.fishbase.se/summary/24716"
+  ],
+  "hints": {
+   "habitat": "Sandy bottoms in sheltered inshore waters, often in shell-filled hollows",
+   "size": "Up to about 15 cm long",
+   "depth": "1–60 m (most often 5–10 m)",
+   "diet": null
+  }
+ },
+ "red-handfish": {
+  "funFact": "Studded with little warts and dressed in red, it crawls on hand-like fins instead of swimming. Parents stand guard over their clusters of 30–60 eggs until the young hatch.",
+  "revealFact": "Once found at several sites around south-east Tasmania, the red handfish is now known from just two small reefs in Frederick Henry Bay, each no more than about 50 m across. Its slow breeding and dispersal keep its range tiny, and it is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Red_handfish",
+   "https://www.fishbase.se/summary/24718"
+  ],
+  "hints": {
+   "habitat": "Rocky reef edges next to sand, hidden under seaweed canopies",
+   "size": "Up to about 9 cm long (body length, tail fin excluded)",
+   "depth": "To about 6 m per FishBase (other records say 1–20 m)",
+   "diet": "Small bottom-living animals such as crustaceans and polychaete worms"
+  }
+ },
+ "australian-lungfish": {
+  "funFact": "When it gulps air at the surface, its exhale has been likened to the puff of a small bellows. Nearly identical fossils show its genus has barely changed in over 100 million years.",
+  "revealFact": "The Australian lungfish is native only to the Mary and Burnett river systems of south-east Queensland, Australia, though it has been introduced to rivers farther south. It is the last surviving member of its family and is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Australian_lungfish",
+   "https://www.fishbase.se/summary/4512"
+  ],
+  "hints": {
+   "habitat": "Deep pools of slow rivers and still water, over mud, sand or gravel",
+   "size": "Up to about 170 cm (1.7 m) long",
+   "depth": null,
+   "diet": "Frogs, tadpoles, fish, shrimp, earthworms, snails, water plants and fallen fruit"
+  }
+ },
+ "red-finned-blue-eye": {
+  "funFact": "Only the males of this tiny fish wear red fins. Its pools are just a few centimetres deep and sit in full sun, where air temperatures swing from 3°C in winter to 51°C in summer.",
+  "revealFact": "The red-finned blue-eye lives only in a cluster of artesian springs on Edgbaston Reserve in central Queensland, Australia, and by 2021 was down to one wild spring. Invasive mosquitofish are a major threat, but a 2021 release of captive-bred fish lifted its numbers from about 200 to around 3,000.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Red-finned_blue-eye",
+   "https://www.fishbase.se/summary/10536"
+  ],
+  "hints": {
+   "habitat": "Slightly salty spring-fed pools among grassy tussocks in dry, open country",
+   "size": "Up to about 2.5 cm long (body length, tail fin excluded)",
+   "depth": "Only a few centimetres",
+   "diet": null
+  }
+ },
+ "canterbury-mudfish": {
+  "funFact": "The first specimen reached scientists by parcel post, packed in a tin box of damp earth, and was still lively after a 30-hour journey. Its name honours the farmer who sent it, not its burrowing habit.",
+  "revealFact": "The Canterbury mudfish (kowaro) lives only on the Canterbury Plains of New Zealand's South Island, from just north of Christchurch to the Waitaki River. Its wetlands were largely drained for farming, so it now clings on in springs, water races and drains.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Canterbury_mudfish",
+   "https://www.fishbase.se/summary/5378"
+  ],
+  "hints": {
+   "habitat": "Wetlands, springs and drains that can dry out over summer",
+   "size": "Up to about 15 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "gollum-galaxias": {
+  "funFact": "This scaleless little fish has big eyes set high on its head, each wider than 23% of its head length. It also packs enlarged canine teeth in both jaws.",
+  "revealFact": "The Gollum galaxias lives only in southern New Zealand: streams of the Southland Plains, tributaries of the Clutha River, the Catlins and Stewart Island / Rakiura. It belongs to a group of 10 species that were once all lumped together as a single species.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Gollum_galaxias",
+   "https://www.fishbase.se/summary/61558"
+  ],
+  "hints": {
+   "habitat": "Slow or still lowland streams and wetlands, among moss, woody debris and plant-lined banks",
+   "size": "The type specimen measured about 7.5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "blind-cave-eel": {
+  "funFact": "Eyeless and pale pink to white, this eel-like fish was seen only 36 times between 1959 and 2017. Scientists now search for it by testing cave water for traces of its DNA.",
+  "revealFact": "The blind cave eel lives in underground waters of north-western Australia, in the Cape Range area near Exmouth, the Pilbara and Barrow Island. It is Australia's longest cavefish and one of only three vertebrates there that live solely underground.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Blind_cave_eel",
+   "https://www.fishbase.se/summary/6305"
+  ],
+  "hints": {
+   "habitat": "Pitch-dark, slightly salty, tide-influenced water in limestone caves and wells",
+   "size": "Up to about 40 cm long",
+   "depth": "0–3 m",
+   "diet": "Invertebrates such as crustaceans, plus land creatures washed into the caves"
+  }
+ },
+ "salamanderfish": {
+  "funFact": "Its eyes can't move, so this little fish swivels its neck instead. When its pool dries up it burrows into the sand and breathes through its skin until the water returns.",
+  "revealFact": "The salamanderfish lives only in acidic pools on peat flats in the far south-west of Western Australia, between the Blackwood and Kent rivers. It is such an isolated lineage that it sits alone in its own superorder, and it is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lepidogalaxias",
+   "https://www.fishbase.se/summary/4537"
+  ],
+  "hints": {
+   "habitat": "Shallow, acidic, tea-coloured pools and streams that dry out in summer",
+   "size": "Up to about 7.4 cm long (body length, tail fin excluded)",
+   "depth": "Pools no deeper than about 0.1 m",
+   "diet": "Mainly aquatic insect larvae and small crustaceans"
+  }
+ },
+ "boesemans-rainbowfish": {
+  "funFact": "This rainbowfish looks like two fish joined at the middle: bluish-grey to purple up front and orange-red at the back. It can dial its colours up or down, a sign of mood or health.",
+  "revealFact": "Boeseman's rainbowfish lives only in the Ayamaru (Ajamaru) Lakes and their tributaries on the Bird's Head (Vogelkop) Peninsula of West Papua, Indonesia. It is named after Dutch ichthyologist Marinus Boeseman, who collected the first specimens, and is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Boeseman's_rainbowfish",
+   "https://www.fishbase.se/summary/10489"
+  ],
+  "hints": {
+   "habitat": "Mountain lakes at a river's headwaters, and their feeder streams",
+   "size": "Up to about 9 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Omnivorous; in aquariums it favours meatier foods"
+  }
+ },
+ "kutubu-rainbowfish": {
+  "funFact": "Nicknamed the turquoise rainbowfish, it shares its one home lake with 12 other fish species found nowhere else on Earth.",
+  "revealFact": "The Lake Kutubu rainbowfish lives only in Lake Kutubu and its outflow in the Southern Highlands of Papua New Guinea, part of the Kikori River system. It is one of 13 fish species endemic to the lake and is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lake_Kutubu_rainbowfish",
+   "https://www.fishbase.se/summary/10497"
+  ],
+  "hints": {
+   "habitat": "A highland lake and its outlet stream, far upstream from the sea",
+   "size": "Up to about 10 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Omnivorous"
+  }
+ },
+ "red-rainbowfish": {
+  "funFact": "Males blaze bright red and grow a taller back with age, though low-ranking males stay drab. Its scientific name is almost always misspelt: grammar demands 'incisa', not 'incisus'.",
+  "revealFact": "The red rainbowfish is found only in Lake Sentani and its tributaries near Jayapura in Papua, Indonesia. A fast-growing human population around the lake and introduced fish such as tilapia have made it endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Red_rainbowfish",
+   "https://www.fishbase.se/summary/10477"
+  ],
+  "hints": {
+   "habitat": "A lake in hilly country about 75 m above sea level, and its tributaries",
+   "size": "Up to about 12 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Omnivorous, possibly a bit more meat-loving than its relatives"
+  }
+ },
+ "lake-wanam-rainbowfish": {
+  "funFact": "Its whole natural home is one small lake just 2–3 km across, where introduced tilapia have nearly wiped it out. Luckily, captive populations keep the species going.",
+  "revealFact": "The Lake Wanam rainbowfish is endemic to Lake Wanam near Lae in Papua New Guinea. Competition from introduced tilapias has made it critically endangered, and it has virtually vanished from the wild.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lake_Wanam_rainbowfish",
+   "https://www.fishbase.se/summary/10483"
+  ],
+  "hints": {
+   "habitat": "A small lake about 150 m above sea level",
+   "size": "Up to about 9 cm long (body length, tail fin excluded)",
+   "depth": "About 10 m",
+   "diet": "Omnivorous"
+  }
+ },
+ "maugean-skate": {
+  "funFact": "Only discovered in 1988, this skate shows its sex on its tail: males carry three rows of thorns there, females five. The entire population may be fewer than 1,000 fish.",
+  "revealFact": "Nicknamed the 'thylacine of the sea', the Maugean skate lives only in brackish estuaries on Tasmania's west coast, mainly Macquarie Harbour, and may be gone from Bathurst Harbour. Salmon farming in Macquarie Harbour could push it to extinction.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Maugean_skate",
+   "https://www.fishbase.se/summary/63418"
+  ],
+  "hints": {
+   "habitat": "Dim, tannin-stained, brackish estuary channels with silty bottoms",
+   "size": "Up to about 71 cm long",
+   "depth": "About 5–15 m",
+   "diet": "Bottom-living prey, mostly crustaceans"
+  }
+ },
+ "whites-seahorse": {
+  "funFact": "Here the dads get pregnant: after a three-week gestation a male gives birth to about 150 young, and may do it several times a season. Pairs stay faithful all season, and some even settle on shark nets.",
+  "revealFact": "White's seahorse, also called the Sydney seahorse, lives in estuaries and sheltered bays of central New South Wales, from Port Stephens to the Sydney area. As its natural seagrass and sponge habitats disappear, it increasingly uses jetties and other artificial structures.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/New_Holland_seahorse",
+   "https://www.fishbase.se/summary/22818"
+  ],
+  "hints": {
+   "habitat": "Sheltered bays among seagrass, sponges, soft corals and kelp, and under jetties",
+   "size": "Up to about 13 cm long",
+   "depth": "0–46 m",
+   "diet": "Small crustaceans such as copepods, amphipods, shrimp and mysids"
+  }
+ },
+ "pedder-galaxias": {
+  "funFact": "This galaxias spawns in frigid water of just 6.7–7.5°C, laying up to 1,200 eggs. Its menu ranges from water-insect larvae to land insects like beetles, flies and even cicadas.",
+  "revealFact": "The Pedder galaxias once lived only in Lake Pedder in south-west Tasmania, but after a 1972 dam created a 'new' Lake Pedder and introduced trout took hold, none has been caught in the wild since 1996. It survives in two translocated populations, including one in Lake Oberon in the Western Arthurs range.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pedder_galaxias",
+   "https://www.fishbase.se/summary/6204"
+  ],
+  "hints": {
+   "habitat": "Rocky edges of a lake with dark, tannin-stained water",
+   "size": "Up to about 16 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Crustaceans, aquatic insect larvae and land insects such as beetles, flies and cicadas"
+  }
+ },
+ "mccullochs-anemonefish": {
+  "funFact": "Each group is ruled by its biggest fish, the female; if she dies, the breeding male turns female and the next-largest steps up. It lives with just one kind of anemone, the bubble-tip.",
+  "revealFact": "McCulloch's anemonefish lives only around Lord Howe Island and the nearby Middleton and Elizabeth reefs in the south-western Pacific. Its tiny range and reliance on a single kind of anemone make it vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Amphiprion_mccullochi",
+   "https://www.fishbase.se/summary/9208"
+  ],
+  "hints": {
+   "habitat": "Lagoons and rocky reefs, always with bubble-tip anemones",
+   "size": "Up to about 12 cm long",
+   "depth": "2–45 m",
+   "diet": null
+  }
+ },
+ "doubleheader-wrasse": {
+  "funFact": "Both males and females grow a big bulging hump on the forehead, which explains its scientific name ('bump-forehead') and its nickname, the doubleheader. It ties for largest wrasse in its genus.",
+  "revealFact": "The doubleheader lives around Lord Howe Island, Norfolk Island and Middleton Reef in the south-west Pacific, only rarely turning up off New South Wales. Usually seen in small groups dominated by one large male, it is listed as vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Coris_bulbifrons",
+   "https://www.fishbase.se/summary/12729"
+  ],
+  "hints": {
+   "habitat": "Shallow rocky and coral reefs; young ones in tide pools",
+   "size": "Up to about 60 cm long",
+   "depth": "Usually shallower than 20 m",
+   "diet": "Snails, clams and other bivalves, and crabs"
+  }
+ },
+ "nopili-rock-climbing-goby": {
+  "funFact": "Within two days, a young goby's mouth shifts from the front of its face to underneath, letting it inch up sheer waterfalls with mouth and belly suckers. Adults tend algae 'gardens' on boulders.",
+  "revealFact": "The nopili rock-climbing goby is endemic to the Hawaiian Islands, living in clear, fast mountain streams on all the main islands, though it is now rare on Oahu. Its larvae drift out to sea, and juveniles must climb back past towering waterfalls to reach upstream pools.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sicyopterus_stimpsoni",
+   "https://www.fishbase.se/summary/6347"
+  ],
+  "hints": {
+   "habitat": "Fast, rocky mountain streams with clean gravel and no silt",
+   "size": "Up to about 20 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Diatoms and filamentous algae grazed off rocks"
+  }
+ },
+ "oopu-alamoo": {
+  "funFact": "This little goby scales waterfalls in 'powerbursts', shoving off with its pectoral fins and sticking back on with a belly sucker. It has turned up above a waterfall more than 130 m tall.",
+  "revealFact": "The ʻoʻopu ʻalamoʻo is endemic to the Hawaiian Islands, living in mountain streams up to about 750 m elevation on Hawaii, Maui, Molokai, Kauai and Oahu. It has even been found above ʻAkaka Falls on the Big Island, which drops more than 130 m.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hawaiian_freshwater_goby",
+   "https://www.fishbase.se/summary/6343"
+  ],
+  "hints": {
+   "habitat": "Upper reaches of fast mountain streams, above waterfalls",
+   "size": "Up to about 7 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Algae such as diatoms, grazed from rocks as it climbs"
+  }
+ },
+ "clipperton-angelfish": {
+  "funFact": "In 2009 a dealer tried to smuggle 52 of these angelfish past wildlife officers by declaring them as king angelfish, hoping to sell each for $10,000. Youngsters wear blue bars that fade with age.",
+  "revealFact": "The Clipperton angelfish lives only around Clipperton Island, a remote French atoll in the eastern Pacific west of Costa Rica. Its isolation makes it extremely scarce in the aquarium trade, where it fetches very high prices.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Clipperton_angelfish",
+   "https://www.fishbase.se/summary/11177"
+  ],
+  "hints": {
+   "habitat": "Reef waters around a single remote atoll",
+   "size": "Up to about 25 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "galapagos-grouper": {
+  "funFact": "These groupers appear to start adult life as females and switch to male around age 12. Every so often one shows up entirely bright yellow instead of the usual spotted grey-brown.",
+  "revealFact": "The Galápagos (sailfin) grouper lives off the Galápagos Islands of Ecuador, with smaller populations at Cocos Island (Costa Rica) and Malpelo Island (Colombia). It is the most valuable finfish landed by the islands' handline fishery and is now endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sailfin_grouper",
+   "https://www.fishbase.se/summary/8204"
+  ],
+  "hints": {
+   "habitat": "Rock walls, lava ridges and drop-offs; young in lagoons, seagrass, mangroves and even inland lava ponds",
+   "size": "Up to about 120 cm (1.2 m) long",
+   "depth": "5–73 m",
+   "diet": "Mainly other fish, especially creolefish"
+  }
+ },
+ "mariana-snailfish": {
+  "funFact": "This pale, tadpole-like fish lives close to about 8,200 m, the apparent depth limit for bony fish. Its skin is see-through, its skull is only partly turned to bone, and it can barely see, if at all.",
+  "revealFact": "The Mariana snailfish lives in the Mariana Trench of the western Pacific, mostly at 7,000–8,000 m, where it appears to be the top predator. It is named for Herbert Swire of the 1870s Challenger expedition, which found the Challenger Deep.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pseudoliparis_swirei",
+   "https://www.fishbase.se/summary/68464"
+  ],
+  "hints": {
+   "habitat": "The pitch-dark, high-pressure floor of the deep sea",
+   "size": "Up to about 22.6 cm long (body length, tail fin excluded)",
+   "depth": "6,198–8,178 m",
+   "diet": "Tiny crustaceans, especially amphipods"
+  }
+ },
+ "african-coelacanth": {
+  "funFact": "Known to science only from fossils until 1938, this 'living fossil' spends its days in caves, sometimes 14 to a cave. At night it drifts out alone to hunt, travelling up to 8 km before heading home by dawn.",
+  "revealFact": "The West Indian Ocean coelacanth lives on deep rocky slopes mainly around the Comoros (Grande Comore and Anjouan), with smaller populations off South Africa, Mozambique, Tanzania, Kenya and Madagascar. The first scientific specimen came from a South African trawler in 1938, and the genus Latimeria honours museum curator Marjorie Courtenay-Latimer, who spotted it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth",
+   "https://www.fishbase.se/summary/2063"
+  ],
+  "hints": {
+   "habitat": "Steep rocky slopes riddled with caves",
+   "size": "Up to about 168 cm (1.7 m) long",
+   "depth": "150–700 m",
+   "diet": "Fishes and squid"
+  }
+ },
+ "st-helena-sharpnose-puffer": {
+  "funFact": "Adults of this little pufferfish are usually seen in pairs. Unlike its close relatives, it has no dark stripes along its body or tail base and no bold dark spot on its back.",
+  "revealFact": "The St Helena sharpnose pufferfish is known only from the remote South Atlantic islands of St Helena and Ascension. It is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Canthigaster_sanctaehelenae",
+   "https://www.fishbase.se/summary/55073"
+  ],
+  "hints": {
+   "habitat": "Tide pools and rocky areas around remote islands",
+   "size": "Up to about 6.7 cm long (body length, tail fin excluded)",
+   "depth": "0–50 m",
+   "diet": null
+  }
+ },
+ "rocas-gregory": {
+  "funFact": "In this little damselfish the dads babysit: males guard the eggs and fan them with fresh water. Pairs team up to breed, and the eggs are stuck to the bottom.",
+  "revealFact": "The Rocas gregory lives only around Rocas Atoll and the Fernando de Noronha archipelago off north-eastern Brazil, and has also been reported from the St Peter and St Paul Archipelago. It is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Stegastes_rocasensis",
+   "https://www.fishbase.se/summary/12518"
+  ],
+  "hints": {
+   "habitat": "Shallow outer reefs, lagoons and rock pools, around rocks and rubble",
+   "size": "Up to about 9 cm long (body length, tail fin excluded)",
+   "depth": "0–60 m",
+   "diet": null
+  }
+ },
+ "noronha-cleaner-goby": {
+  "funFact": "This tiny goby runs a cleaning service, with up to 15 workers at the busiest stations. Its clients span about 30 fish species, including big predators like sharks and groupers.",
+  "revealFact": "The Noronha cleaner goby lives only on the reefs of the Fernando de Noronha archipelago off north-eastern Brazil. It is listed as endangered.",
+  "factSources": [
+   "https://www.fishbase.se/summary/64757"
+  ],
+  "hints": {
+   "habitat": "Cleaning stations on coral heads, sponges and rocks around small islets",
+   "size": "Up to about 3.2 cm long (body length, tail fin excluded)",
+   "depth": "3–18 m",
+   "diet": null
+  }
+ },
+ "golden-panchax": {
+  "funFact": "In breeding season the male's scales lift up, giving his skin a rough look. It was also among the very first killifish kept in aquariums, back in the 1860s.",
+  "revealFact": "The golden panchax is the only freshwater fish endemic to the Seychelles, found only on the granitic islands. A population taken to Zanzibar for mosquito control after the First World War lasted for decades before invasive tilapia wiped it out.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pachypanchax_playfairii",
+   "https://www.fishbase.se/summary/9878"
+  ],
+  "hints": {
+   "habitat": "Small fresh and brackish streams, ponds and marshes",
+   "size": "Up to about 10 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Worms, crustaceans, insects and small fish"
+  }
+ },
+ "greenland-shark": {
+  "funFact": "It may live 272–510 years, longer than any other known vertebrate, and doesn't mature until around age 150. Many carry parasites clamped onto their eyes, yet they get by on smell and hearing.",
+  "revealFact": "The Greenland shark roams the cold, deep waters of the Arctic and northern North Atlantic, from Greenland, Iceland and Svalbard to Arctic Canada and northern Norway. Its deep, remote home means it is still poorly studied, and it is listed as vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Greenland_shark",
+   "https://www.fishbase.se/summary/138"
+  ],
+  "hints": {
+   "habitat": "Frigid shelf and slope waters, usually below 5°C; enters shallow bays in colder months",
+   "size": "Up to about 427 cm (4.3 m) long",
+   "depth": "0–2,992 m",
+   "diet": "A generalist: many kinds of fish, plus carrion"
+  }
+ },
+ "blackfin-icefish": {
+  "funFact": "It has no haemoglobin at all, so its blood is see-through and its gills are creamy white, a trait found only in icefishes. With no swim bladder, it rests on the seabed on thick-skinned pelvic fins.",
+  "revealFact": "The blackfin icefish lives around the Scotia Arc in the Southern Ocean: South Georgia, the South Orkney and South Shetland islands, Bouvet Island and the Antarctic Peninsula. The icy, oxygen-rich water there lets it survive without haemoglobin.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Blackfin_icefish",
+   "https://www.fishbase.se/summary/473"
+  ],
+  "hints": {
+   "habitat": "The seabed of near-freezing, oxygen-rich shelf seas",
+   "size": "Up to about 72 cm long",
+   "depth": "5–770 m",
+   "diet": "Mostly fish and krill"
+  }
+ },
+ "bocaccio": {
+  "funFact": "A single female can produce over 2 million eggs a season, releasing her young as live larvae rather than laying eggs. Juveniles hide under floating kelp mats, driftwood and even oil platforms.",
+  "revealFact": "The bocaccio ranges along the eastern North Pacific from Alaska to central Baja California, and is most abundant from Oregon to northern Baja California. It can live at least 50 years and is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Bocaccio_rockfish",
+   "https://www.fishbase.se/summary/3987"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs and open bottoms; young shelter near shore under floating kelp",
+   "size": "Up to about 91 cm long",
+   "depth": "0–476 m",
+   "diet": "Mainly fish, including other rockfish; young eat zooplankton such as copepods"
+  }
+ },
+ "watercress-darter": {
+  "funFact": "True to its name, it perches on watercress leaves and stems well above the stream bed. In 2008 over 12,000 died when workers removed a beaver dam whose pond kept flooding a nearby tennis court.",
+  "revealFact": "The watercress darter is known from just four bodies of water in the Black Warrior River basin near Birmingham, Alabama, including the Watercress Darter National Wildlife Refuge. Its tiny range, small population and sensitivity to spring water quality make it endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Watercress_darter",
+   "https://www.fishbase.se/summary/3446"
+  ],
+  "hints": {
+   "habitat": "Slow, spring-fed water thick with watercress and other plants",
+   "size": "Up to about 5.4 cm long",
+   "depth": null,
+   "diet": "Snails, crustaceans and insect larvae"
+  }
+ },
+ "cuban-blind-cusk-eel": {
+  "funFact": "Rather than laying eggs, this cave-dwelling fish gives birth to live young. It shares its dark underground waters with two other members of its genus.",
+  "revealFact": "Lucifuga dentata is endemic to Cuba, where it lives in flooded limestone caves and sinkholes in the west of the island. It is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Lucifuga_dentata",
+   "https://www.fishbase.se/summary/27638"
+  ],
+  "hints": {
+   "habitat": "Dark freshwater in underground caves",
+   "size": "Up to about 15.2 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Small cave isopods (cirolanids)"
+  }
+ },
+ "humpbacked-limia": {
+  "funFact": "As males age they grow a distinct hump and turn more golden, then woo females by flaring a big purple-flecked dorsal fin and wagging their tails. Mothers give birth to 15–30 live young.",
+  "revealFact": "The humpbacked limia lives only in Lake Miragoâne in Haiti, which suffers from severe deforestation, pollution and climate change. With no species-specific protection in place, it is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Humpbacked_limia",
+   "https://www.fishbase.se/summary/11981"
+  ],
+  "hints": {
+   "habitat": "A lake with weedy, muddy shallows; schools over all kinds of bottoms",
+   "size": "Up to about 5.2 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Only detritus and algae"
+  }
+ },
+ "sulphur-limia": {
+  "funFact": "Its scientific name means 'sulphur-loving', because the first specimens were caught in a sulphur spring. Mature males flash yellow-to-orange dorsal fins, and bluish-purple scales glint along its sides.",
+  "revealFact": "The sulphur limia is known for certain only from the sulphur spring at Balneario La Zurza, on the south-eastern shore of Lake Enriquillo in the Dominican Republic. It is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Limia_sulphurophila",
+   "https://www.fishbase.se/summary/27713"
+  ],
+  "hints": {
+   "habitat": "A lowland sulphur spring with hard, alkaline water and a sandy to gravelly bottom",
+   "size": "Up to about 3.9 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "highland-splitfin": {
+  "funFact": "Its scientific name is a double tribute, honouring two ichthyologists who teamed up on a 1939 review of its fish family. It's the only species in its genus.",
+  "revealFact": "The highland splitfin is endemic to Mexico's Lerma River basin; it was first described in 1940 from Cointzio, Michoacán, and now survives around Laguna de Zacapu and nearby springs. It is critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hubbsina",
+   "https://www.fishbase.se/summary/6241"
+  ],
+  "hints": {
+   "habitat": "Rivers, ponds and springs",
+   "size": "Up to about 5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "clarion-damselfish": {
+  "funFact": "About 95% of the entire species lives around one small group of islands. As in other damselfish, the dads guard the eggs and keep them aerated.",
+  "revealFact": "The Clarion damselfish ranges from Mexico's Revillagigedo Islands to the southern tip of Baja California, but about 95% of the population lives around the Revillagigedo Islands. Warm El Niño events could threaten it, and it is listed as vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Stegastes_redemptus",
+   "https://www.fishbase.se/summary/12517"
+  ],
+  "hints": {
+   "habitat": "Rocky inshore reefs",
+   "size": "Up to about 12 cm long (body length, tail fin excluded)",
+   "depth": "1–15 m",
+   "diet": "Omnivorous"
+  }
+ },
+ "iporanga-blind-catfish": {
+  "funFact": "This blind catfish grows less than 1 mm a month but can live 15 to 20 years. It barely shies from light, roaming the whole water column right up to the surface.",
+  "revealFact": "Pimelodella kronei lives only in cave streams of the Betari River basin in the upper Ribeira de Iguape valley near Iporanga, São Paulo state, Brazil. It was the first cave-dwelling fish ever described from Brazil.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pimelodella_kronei",
+   "https://www.fishbase.se/summary/48472"
+  ],
+  "hints": {
+   "habitat": "Underground headwater streams with rocky rapids and soft-bottomed pools",
+   "size": "Up to about 20 cm long (body length, tail fin excluded)",
+   "depth": null,
+   "diet": "Invertebrates; an opportunistic carnivore"
+  }
+ },
+ "magnificent-pearlfish": {
+  "funFact": "This little killifish lays its eggs in the bottom, and they take about five months to develop before hatching.",
+  "revealFact": "The magnificent pearlfish lives in seasonal floodplain pools of the middle São Francisco River basin in northern Minas Gerais and Bahia, Brazil. It is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hypsolebias_magnificus",
+   "https://www.fishbase.se/summary/49521"
+  ],
+  "hints": {
+   "habitat": "Temporary pools on a river floodplain",
+   "size": "Up to about 5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "nahuelbuta-velvet-catfish": {
+  "funFact": "This bottom-dwelling fish belongs to the velvet catfishes, family Diplomystidae, and can grow to about 26 cm long.",
+  "revealFact": "This velvet catfish is endemic to Chile, where it lives in the Biobío and Imperial river basins and some coastal basins of the Biobío Region, rivers that drain the Nahuelbuta Range. It is listed as endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Diplomystes_nahuelbutaensis",
+   "https://www.fishbase.se/summary/10395"
+  ],
+  "hints": {
+   "habitat": "Rivers and coastal river basins, living near the bottom",
+   "size": "Up to about 26 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "mountain-catfish": {
+  "funFact": "It's the last living member of its entire family: a scaleless catfish with three pairs of whiskers, sprouting from its chin, its upper jaw and even beside its nostrils.",
+  "revealFact": "This critically endangered catfish lives only in the fresh waters of central Chile. It is the sole surviving species of the family Nematogenyidae, and the only other species described in its genus is extinct.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Nematogenys_inermis",
+   "https://www.fishbase.se/summary/10410"
+  ],
+  "hints": {
+   "habitat": "On the bottom of freshwater rivers",
+   "size": "Up to about 41 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "irwins-percilia": {
+  "funFact": "A perch-like fish under 10 cm long, it belongs to the family Perciliidae and lives in just two river basins anywhere on Earth.",
+  "revealFact": "Irwin's percilia is found only in the Malleco and Biobío river basins of south-central Chile, and is listed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Percilia_irwini",
+   "https://www.fishbase.se/summary/10596"
+  ],
+  "hints": {
+   "habitat": "Freshwater rivers, between the bottom and midwater",
+   "size": "Up to about 9.6 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "argentine-angelshark": {
+  "funFact": "This flattened shark wears purplish-brown camouflage with dark spots clustered in little rings, and mothers give birth to litters of about 7 to 11 live pups.",
+  "revealFact": "It lives on the outer continental shelf and upper slope of the south-western Atlantic, from southern Brazil to Patagonia. Its population is very slow to recover, taking more than 14 years to double, which leaves it highly vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Argentine_angelshark",
+   "https://www.fishbase.se/summary/727"
+  ],
+  "hints": {
+   "habitat": "On the sea floor of the continental shelf and upper slope",
+   "size": "Up to about 170 cm (1.7 m) long",
+   "depth": "100–400 m",
+   "diet": "Bottom-living fishes, shrimp and squid"
+  }
+ },
+ "patagonian-seahorse": {
+  "funFact": "Dads carry the pregnancy: females slip their eggs into the male's pouch, and about 20 days later he gives birth to live young. Babies also hitch rides on floating debris to drift to new homes.",
+  "revealFact": "The Patagonian seahorse lives along the coasts of south-eastern Brazil, Uruguay and Argentina. It is the seahorse most often caught in southern Brazil, mostly as bycatch of shrimp fisheries, and is also traded as curios, amulets and traditional medicine.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hippocampus_patagonicus",
+   "https://www.fishbase.se/summary/62875"
+  ],
+  "hints": {
+   "habitat": "Clinging to seaweed, seagrass, sponges or man-made structures in shallow coastal water",
+   "size": "Up to about 9.2 cm long",
+   "depth": "0–120 m",
+   "diet": "Small crustaceans, mainly amphipods and decapods"
+  }
+ },
+ "sunshine-pleco": {
+  "funFact": "This armoured suckermouth catfish is an aquarium celebrity with several stage names: 'sunshine pleco', 'goldie pleco', or simply its catalogue code, L-014.",
+  "revealFact": "The sunshine pleco lives in the Xingu River basin in Pará, Brazil, mainly around the Volta Grande do Xingu, with records reaching into the lower Iriri. It is listed as Vulnerable.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Scobinancistrus_aureatus",
+   "https://www.fishbase.se/summary/57543"
+  ],
+  "hints": {
+   "habitat": "Rocky rapids of a big river, hugging the bottom",
+   "size": "Up to about 29 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "piracanjuba": {
+  "funFact": "An endangered freshwater fish that can grow to nearly 80 cm, it roams both near the riverbed and up in midwater.",
+  "revealFact": "The piracanjuba lives in the large rivers of the Paraná–Paraguay–Uruguay (La Plata) basin, shared by Brazil, Paraguay, Argentina and Uruguay, and is listed as Endangered.",
+  "factSources": [
+   "https://www.fishbase.se/summary/48557"
+  ],
+  "hints": {
+   "habitat": "Big freshwater rivers, between the bottom and midwater",
+   "size": "Up to about 80 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "marble-trout": {
+  "funFact": "Its skin looks like polished marble, and the pattern's intensity shifts with its surroundings. Its head is so big, up to a quarter of its body, that one local nickname simply means 'head'.",
+  "revealFact": "Marble trout survive in only a handful of rivers draining to the Adriatic, in Italy, Slovenia, Croatia, Bosnia and Herzegovina and Montenegro, and are probably gone from Albania. Hybridisation with stocked foreign trout is one of their biggest threats.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Salmo_marmoratus",
+   "https://www.fishbase.se/summary/46498"
+  ],
+  "hints": {
+   "habitat": "Cold, clean mountain streams and rivers over sand and gravel, rarely warmer than 15 °C in summer",
+   "size": "Up to about 120 cm (1.2 m) long, not counting the tail",
+   "depth": "Spawns in swift water about 0.6–0.8 m deep",
+   "diet": "Invertebrates when young; mainly smaller fish as adults"
+  }
+ },
+ "myaka": {
+  "funFact": "The only member of its genus, this little cichlid lives in open, deep water but heads for the shallows to breed in the rainy season, where crowds of males each guard a patch about 50 cm wide.",
+  "revealFact": "The myaka lives only in Barombi Mbo, a small volcanic crater lake in western Cameroon, alongside three other endemic cichlid genera. Pollution and sedimentation from human activity threaten it, and gas released from the lake bottom is a potential risk too.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Myaka",
+   "https://www.fishbase.se/summary/6326"
+  ],
+  "hints": {
+   "habitat": "Open, deeper water of a small crater lake",
+   "size": "Up to about 6.7 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Phytoplankton and small insects"
+  }
+ },
+ "natron-tilapia": {
+  "funFact": "This hardy cichlid thrives in extra-salty water at a toasty 30–32 °C. Males dig nest pits in the shallows, and mothers carry the young in their mouths.",
+  "revealFact": "The soda tilapia lives only in the hot, hypersaline Lake Natron in Tanzania, its drainage, and the Shombole Swamps in Kenya. That tiny range is why it is classed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Alcolapia_alcalica",
+   "https://www.fishbase.se/summary/2034"
+  ],
+  "hints": {
+   "habitat": "Hot springs and lagoons around a very salty, warm lake",
+   "size": "Up to about 11.6 cm long",
+   "depth": null,
+   "diet": "Mainly algae, plus copepods and fly larvae"
+  }
+ },
+ "burchells-redfin": {
+  "funFact": "Like all its close relatives, this redfin is tetraploid, carrying four sets of chromosomes instead of two. Youngsters gather in big shoals, while adults stick to small groups.",
+  "revealFact": "Burchell's redfin survives in just two known populations in South Africa's Western Cape, in the Moeras and Tradouw rivers, which are cut off from each other when water runs low in summer. Introduced smallmouth bass, river changes and pollution have left it critically endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Burchell's_redfin",
+   "https://www.fishbase.se/summary/6137"
+  ],
+  "hints": {
+   "habitat": "Pools and deeper, slightly peaty stretches of small rivers",
+   "size": "Up to about 13.5 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Detritus and small bottom-living organisms"
+  }
+ },
+ "fiery-redfin": {
+  "funFact": "In the breeding season males light up with bright red fins and defend their own patch of stream. Youngsters keep to the edges, while adults prefer calmer pools.",
+  "revealFact": "The fiery redfin lives only in a handful of tributaries of the Olifants River system on the western side of the Cederberg Mountains, South Africa, where invasive bass, trout, carp and catfish threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Fiery_redfin",
+   "https://www.fishbase.se/summary/6139"
+  ],
+  "hints": {
+   "habitat": "Clear, rocky streams with cobble riffles and pools",
+   "size": "Up to about 7.1 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Detritus and small bottom-living insects"
+  }
+ },
+ "red-stumpnose": {
+  "funFact": "Its scientific name means 'hump-head', after the bulging forehead that big adult males grow. It also answers to the nickname 'Miss Lucy', and its favourite prey is brittle stars.",
+  "revealFact": "The red stumpnose is found only off the southern coast of South Africa, roughly from False Bay to East London. Adults live on offshore reefs while juveniles shoal over shallow rocky reefs, and the species is classed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Chrysoblephus_gibbiceps",
+   "https://www.fishbase.se/summary/6003"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs in coastal seas; juveniles in the shallows, adults further offshore",
+   "size": "Up to about 75 cm long",
+   "depth": "20–50 m",
+   "diet": "Mainly brittle stars, plus crustaceans, molluscs, worms and small fish"
+  }
+ },
+ "somali-cavefish": {
+  "funFact": "This pale, scaleless, blind fish ignores the sun entirely: it was the first animal found whose body clock doesn't reset to daylight, running on cycles up to 47 hours long.",
+  "revealFact": "Found only in underground waters of Somalia, reached through wells and caves around Bud Bud, it is thought to have been evolving in caves for some two million years. Somalia is home to two other cavefish species as well.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Garra_andruzzii",
+   "https://www.fishbase.se/summary/11610"
+  ],
+  "hints": {
+   "habitat": "Dark underground waters reached through wells and caves",
+   "size": "Up to about 6.2 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "lake-ifni-trout": {
+  "funFact": "Its back is marbled and its belly fins are tipped in black and white. A peek at its stomach contents turned up tiny crustaceans, land-dwelling arthropods and a dense mat of algae.",
+  "revealFact": "The Ifni trout lives only in Lake Ifni, a high mountain lake smaller than one square kilometre in Toubkal National Park, in Morocco's High Atlas.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Salmo_akairos",
+   "https://www.fishbase.se/summary/62271"
+  ],
+  "hints": {
+   "habitat": "A single small, high-altitude lake",
+   "size": "Up to about 18 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Tiny Cyclops crustaceans, land arthropods, filamentous algae and diatoms"
+  }
+ },
+ "deckerts-tilapia": {
+  "funFact": "Mum and dad pair up, dig a shallow nest pit beside a stone or branch, and guard their brood together. Cheeky youngsters have been seen nibbling the fins of other fish!",
+  "revealFact": "Deckert's tilapia lives only in Lake Ejagham, a small lake in western Cameroon that turned out to hold six more endemic cichlids, described in 2010 and 2011. A recently introduced catfish is probably a serious threat to all of them.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Coptodon_deckerti",
+   "https://www.fishbase.se/summary/8914"
+  ],
+  "hints": {
+   "habitat": "A small, fairly shallow freshwater lake",
+   "size": "Up to about 10 cm long, not counting the tail",
+   "depth": "Breeds in water shallower than 2 m",
+   "diet": "Zooplankton, copepods and a few insect larvae"
+  }
+ },
+ "bermin-tilapia": {
+  "funFact": "These cichlids lay their eggs on sunken wood, sometimes in neighbourhoods of about 10 pairs spaced just 30 cm apart, and pairs have even been seen guarding youngsters together.",
+  "revealFact": "This critically endangered cichlid lives only in Lake Bermin, a tiny crater lake in western Cameroon, where pollution and sedimentation from human activities threaten it.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Coptodon_flava",
+   "https://www.fishbase.se/summary/10673"
+  ],
+  "hints": {
+   "habitat": "A tiny freshwater crater lake",
+   "size": "Up to about 8.2 cm long, not counting the tail",
+   "depth": "Spawns in 1–2 m of water",
+   "diet": "Mainly phytoplankton, plus plants and sponges"
+  }
+ },
+ "mafia-notho": {
+  "funFact": "This killifish is most common in temporary pools, spawning on the bottom, where its eggs take one to three months to develop. It honours the aquarist Edith Korthaus, who collected the first specimens.",
+  "revealFact": "Nothobranchius korthausae is found only on Mafia Island, Tanzania, in pools, swamps, ditches and small streams amid savanna-like vegetation and gallery forest.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Nothobranchius_korthausae",
+   "https://www.fishbase.se/summary/9859"
+  ],
+  "hints": {
+   "habitat": "Temporary pools, ditches and small streams in savanna-like country",
+   "size": "Up to about 5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "west-african-seahorse": {
+  "funFact": "Remarkably, this seahorse was first caught on video only in 2012, and scientists still know almost nothing about its life cycle. Dad does the egg-carrying, in a brood pouch under his tail.",
+  "revealFact": "The West African seahorse lives in coastal waters from Senegal to Angola, and has recently turned up in the Canary Islands, where it has hybridised with a local seahorse. Around 600,000 a year are exported for traditional medicine, mostly to China.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/West_African_seahorse",
+   "https://www.fishbase.se/summary/53788"
+  ],
+  "hints": {
+   "habitat": "Near the sea floor in shallow coastal waters",
+   "size": "Up to about 19 cm tall",
+   "depth": "0–25 m",
+   "diet": null
+  }
+ },
+ "kieneri-damba": {
+  "funFact": "This fairly slender cichlid might actually be more than one species hiding under a single name. It honours the fisheries scientist André Kiener.",
+  "revealFact": "The kotsovato lives in rivers and lakes across several river basins of north-western Madagascar, and is threatened by habitat loss and competition from introduced species.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Kotsovato",
+   "https://www.fishbase.se/summary/8788"
+  ],
+  "hints": {
+   "habitat": "Rivers and lakes, near the bottom",
+   "size": "Up to about 16 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "saroy": {
+  "funFact": "This cichlid grows up to 25 cm and is at home in slightly salty brackish water as well as fresh.",
+  "revealFact": "The saroy lives in streams of far north-western Madagascar and on the island of Nosy Be. The island population seems stable, but mainland populations are threatened by habitat loss.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Ptychochromis_oligacanthus",
+   "https://www.fishbase.se/summary/8821"
+  ],
+  "hints": {
+   "habitat": "Freshwater streams near the bottom; also tolerates brackish water",
+   "size": "Up to about 25 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "trondo-mainty": {
+  "funFact": "A critically endangered cichlid of up to 24 cm, it shares its home waters with another cichlid that has probably already gone extinct.",
+  "revealFact": "The trondo mainty is found only in the Onilahy River basin of south-western Madagascar, where habitat loss, fishing and introduced species threaten what remains of its small range.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Trondo_mainty",
+   "https://www.fishbase.se/summary/8822"
+  ],
+  "hints": {
+   "habitat": "Near the bottom in a single river basin",
+   "size": "Up to about 24 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "marojejy-bedotia": {
+  "funFact": "Only described by scientists in 2000, this little open-water fish takes its name from the national park beside which its first specimens were collected.",
+  "revealFact": "Bedotia marojejy is known from the Manantenina River on the edge of Marojejy National Park in north-eastern Madagascar, and is threatened by habitat loss.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Bedotia_marojejy",
+   "https://www.fishbase.se/summary/58332"
+  ],
+  "hints": {
+   "habitat": "Open water of forest streams",
+   "size": "Up to about 4.8 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "powder-blue-panchax": {
+  "funFact": "This killifish is not one of the seasonal kinds, and aquarists find it hard to keep; it prefers a tank furnished with rocks, plants and driftwood.",
+  "revealFact": "The powder-blue panchax is found only on the island of Nosy Be and in the Sambirano River basin and nearby streams on the adjacent mainland of north-western Madagascar.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pachypanchax_omalonotus",
+   "https://www.fishbase.se/summary/9877"
+  ],
+  "hints": {
+   "habitat": "Quiet stretches of brooks and small rivers",
+   "size": "Up to about 9.5 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "pike-asp": {
+  "funFact": "This fish-eating river predator is the only species in its genus, and it was a common fish until the 1980s before its numbers crashed.",
+  "revealFact": "The pike asp lives in rivers of the Aral Sea basin, such as the Amu Darya and Syr Darya, in Uzbekistan, Turkmenistan, Tajikistan and Kyrgyzstan. After a rapid decline it is endangered there and has vanished from neighbouring Kazakhstan.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Aspiolucius",
+   "https://www.fishbase.se/summary/22828"
+  ],
+  "hints": {
+   "habitat": "Main channels of big rivers; rarely in lakes",
+   "size": "Up to about 50 cm long",
+   "depth": null,
+   "diet": "Other fish"
+  }
+ },
+ "sharpray": {
+  "funFact": "It's the only species in its genus, yet it still manages to come in two recognised subspecies.",
+  "revealFact": "The sharpray lives in rivers of the Aral Sea basin, including the Syr Darya, Amu Darya and Zeravshan, in a region shared by Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Capoetobrama",
+   "https://www.fishbase.se/summary/22833"
+  ],
+  "hints": {
+   "habitat": "Near the bottom of freshwater rivers",
+   "size": "Up to about 21 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "abant-trout": {
+  "funFact": "This vulnerable trout grows to about 30 cm, and its entire species lives in just one small lake.",
+  "revealFact": "The Abant trout is found only in Lake Abant, a small mountain lake in Bolu Province, north-western Turkey.",
+  "factSources": [
+   "https://www.fishbase.se/summary/66450"
+  ],
+  "hints": {
+   "habitat": "A single small mountain lake",
+   "size": "Up to about 30 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "shabout": {
+  "funFact": "This giant carp can reach 2 m and 100 kg, yet it is mostly vegetarian, munching algae, water plants, fruits and even grain. A single female can lay over 235,000 eggs.",
+  "revealFact": "The shabout lives in the Tigris–Euphrates river system of Turkey, Syria, Iraq and western Iran, plus Iranian rivers draining to the Persian Gulf. Dams, water extraction, drought, pollution and overfishing have driven its decline.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Shabout",
+   "https://www.fishbase.se/summary/54808"
+  ],
+  "hints": {
+   "habitat": "Rivers from upstream tributaries to their mouths; also marshes and reservoirs",
+   "size": "Up to about 150 cm (1.5 m) long; reportedly up to 2 m",
+   "depth": null,
+   "diet": "Mostly plants (algae, water plants, fruits and grain), plus some invertebrates and small fish"
+  }
+ },
+ "pnar-cavefish": {
+  "funFact": "This is the biggest known cave-dwelling fish, and oddly its eyes shrink out of sight as it grows: juveniles have obvious eyes, while the largest adults barely seem to have any.",
+  "revealFact": "Neolissochilus pnar lives in the Krem Um Ladaw and Krem Chympe caves in the Jaintia Hills of Meghalaya, north-eastern India. First seen in the 1990s, it was only collected and photographed for study in 2019, and is named after the local Pnar people.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Neolissochilus_pnar"
+  ],
+  "hints": {
+   "habitat": "Pools in a seasonally flooded cave with a rocky floor",
+   "size": "The largest known subterranean fish",
+   "depth": null,
+   "diet": "Possibly plant debris washed in by seasonal floods"
+  }
+ },
+ "blotched-filament-barb": {
+  "funFact": "Each of these barbs stakes out a territory several square metres wide, yet fish of the same size still hang out together in loose schools.",
+  "revealFact": "The blotched filament barb lives only in the Kalu River basin of south-western Sri Lanka, where tailings from upstream mines push it toward extinction. It has recently been bred at the Dehiwala Zoological Gardens.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Dawkinsia_srilankensis",
+   "https://www.fishbase.se/summary/6146"
+  ],
+  "hints": {
+   "habitat": "Midwater in fast-flowing river stretches over pebbles, never silt",
+   "size": "Up to about 10 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "sinarapan": {
+  "funFact": "Barely 2.5 cm long, this goby is see-through, with just a few dark spots and a pair of black eyes. It's also the only member of its genus.",
+  "revealFact": "The sinarapan lives only in Lake Buhi, a few nearby lakes and the Bicol River in Camarines Sur and Albay on Luzon, Philippines. Overfishing and introduced Nile tilapia pushed it near extinction, so thousands were moved to safer lakes, where they were breeding by 2001.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sinarapan",
+   "https://www.fishbase.se/summary/4898"
+  ],
+  "hints": {
+   "habitat": "Freshwater lakes, from the shoreline down to about 12 m",
+   "size": "Up to about 2.5 cm long",
+   "depth": "0–12 m",
+   "diet": null
+  }
+ },
+ "lanao-barb": {
+  "funFact": "This endangered member of the carp family grows to about 13 cm and roams between the bottom and midwater of lakes and rivers.",
+  "revealFact": "Barbodes tumba is found only in Lake Lanao and its connected waters on Mindanao, Philippines.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Barbodes_tumba",
+   "https://www.fishbase.se/summary/5178"
+  ],
+  "hints": {
+   "habitat": "Lakes and rivers, between the bottom and midwater",
+   "size": "Up to about 13 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "reticulated-hillstream-loach": {
+  "funFact": "Instead of hopping rock to rock like its cousins, this loach launches off a high rock and glides on the current before landing. It also flutters its fins over sand to uncover food.",
+  "revealFact": "The reticulated hillstream loach lives in fast hill streams of central Vietnam, in the provinces of Thua Thien-Hue, Quang Nam, Quang Ngai and Binh Dinh.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Sewellia_lineolata",
+   "https://www.fishbase.se/summary/26831"
+  ],
+  "hints": {
+   "habitat": "Shallow, fast, oxygen-rich streams with riffles, pools and waterfalls",
+   "size": "Up to about 5.7 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Algae and tiny organisms grazed off surfaces, plus the odd insect larva"
+  }
+ },
+ "licorice-gourami": {
+  "funFact": "Less than 3 cm long, this gourami is the type species for its entire genus. It honours a military health officer who sent fish specimens to the scientist who described it in 1859.",
+  "revealFact": "The licorice gourami is found only on Bangka Island in Indonesia, in slow blackwater streams of peat swamp forests.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Licorice_gourami",
+   "https://www.fishbase.se/summary/12078"
+  ],
+  "hints": {
+   "habitat": "Slow, dark-watered creeks among plants in peat swamp forest",
+   "size": "Up to about 3 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "sichuan-taimen": {
+  "funFact": "A glacial relic of the salmon family, it spawns in water of just 4–9 °C, burying its heavy yellow eggs in nests dug into the soft riverbed.",
+  "revealFact": "The Sichuan taimen survives only in cold headwaters of the upper Yangtze basin in China, in tributaries such as the Min and Dadu in Sichuan and Qinghai and the Han River system in Shaanxi. It is critically endangered and has lost much of its genetic diversity.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hucho_bleekeri",
+   "https://www.fishbase.se/summary/55417"
+  ],
+  "hints": {
+   "habitat": "Fast, cold, oxygen-rich mountain brooks with sand and gravel beds, 700–3,300 m above sea level",
+   "size": "Up to about 64 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Aquatic insects, worms and smaller fish; zooplankton when young"
+  }
+ },
+ "kanglang-fish": {
+  "funFact": "This open-water minnow is losing a battle for food against an introduced rival with a delightful name: the noodlefish.",
+  "revealFact": "The Kanglang fish lives only in Fuxian Lake in Yunnan, southern China, where competition with the introduced noodlefish Neosalanx taihuensis may be pushing it toward extinction.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Kanglang_fish",
+   "https://www.fishbase.se/summary/52006"
+  ],
+  "hints": {
+   "habitat": "Open water of a single freshwater lake",
+   "size": "Up to about 15.6 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "taiwan-angelshark": {
+  "funFact": "This flat, ray-like shark buries itself in the sediment to ambush prey, with its eyes perched on top of its head. Oddly, the lower lobe of its tail is bigger than the upper one.",
+  "revealFact": "The Taiwan angelshark is found only on the continental shelf off Taiwan, between about 20° and 24° N. It is a frequent bycatch of bottom trawling, and its population is suspected to have fallen by 50–80%.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Taiwan_angelshark",
+   "https://www.fishbase.se/summary/732"
+  ],
+  "hints": {
+   "habitat": "Buried in sediment on the outer continental shelf",
+   "size": "Up to about 55 cm long (possibly larger)",
+   "depth": "183–220 m",
+   "diet": null
+  }
+ },
+ "biwa-giant-catfish": {
+  "funFact": "The top predator of its home waters, this giant catfish hunts fish and frogs, yet it's a homebody that mostly stays close to its spawning grounds.",
+  "revealFact": "The Lake Biwa giant catfish lives only in Lake Biwa in Japan, where it is the largest predatory fish, and it is the biggest of Japan's silurid catfishes. It even appears in Japanese mythology, where a giant catfish named Namazu causes earthquakes.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Silurus_biwaensis",
+   "https://www.fishbase.se/summary/8686"
+  ],
+  "hints": {
+   "habitat": "Near the bottom of a big freshwater lake",
+   "size": "Up to about 118 cm (1.2 m) long",
+   "depth": null,
+   "diet": "Fish and frogs"
+  }
+ },
+ "honmoroko": {
+  "funFact": "This endangered gudgeon goes by the bouncy common name 'honmoroko' and spends its time between the lake bottom and midwater.",
+  "revealFact": "The honmoroko, or Biwa moroko gudgeon, lives only in Lake Biwa in Shiga Prefecture, Japan, and is listed as Endangered.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Gnathopogon_caerulescens"
+  ],
+  "hints": {
+   "habitat": "Between the bottom and midwater of a single big freshwater lake",
+   "size": null,
+   "depth": null,
+   "diet": null
+  }
+ },
+ "itasenpara": {
+  "funFact": "Also known as the deepbody bitterling, this little fish tops out at a maximum length of just 8 cm.",
+  "revealFact": "The Itasenpara bitterling is endemic to central and southern Japan, living in floodplain waters of the Nōbi Plain (Kiso–Nagara rivers), the Toyama Plain and the Yodo River.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Deepbody_bitterling",
+   "https://www.fishbase.se/summary/9528"
+  ],
+  "hints": {
+   "habitat": "Fresh waters on low-lying river floodplains",
+   "size": "Up to about 8 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "weedy-seadragon": {
+  "funFact": "Disguised with leafy flaps that mimic seaweed, it drifts rather than swims and can't grip with its tail like a seahorse. Dad carries around 120 eggs stuck under his tail for about a month.",
+  "revealFact": "The weedy seadragon lives only along Australia's temperate southern coast, from Western Australia to New South Wales and around Tasmania. It is the marine emblem of the state of Victoria.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Common_seadragon",
+   "https://www.fishbase.se/summary/14267"
+  ],
+  "hints": {
+   "habitat": "Rocky reefs, kelp and seaweed beds and seagrass meadows",
+   "size": "Up to about 46 cm long",
+   "depth": "0–50 m",
+   "diet": "Tiny crustaceans and other zooplankton, sucked up through a tube-like snout"
+  }
+ },
+ "northland-mudfish": {
+  "funFact": "When its swampy home dries out over summer, this mudfish simply waits it out in damp spots under tree roots and logs. Its species name means 'marsh dwelling'.",
+  "revealFact": "The Northland mudfish is found only in a few swampy peat wetlands west of the Bay of Islands in Northland, New Zealand, and in 2026 it won New Zealand's Fish of the Year competition.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Northland_mudfish",
+   "https://www.fishbase.se/summary/59938"
+  ],
+  "hints": {
+   "habitat": "Peaty swamps and wetlands that dry out over summer",
+   "size": "Up to about 11.8 cm long",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "dalhousie-goby": {
+  "funFact": "This tiny goby can tolerate water as hot as 43 °C, though it usually stays below 36 °C. Adults are also known to eat their own young.",
+  "revealFact": "The Dalhousie goby lives only in Dalhousie Springs in Witjira National Park, South Australia, in about 28 of roughly 148 isolated springs fed by the Great Artesian Basin. It is the smallest of five fish species found nowhere else but these springs.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Dalhousie_goby",
+   "https://www.fishbase.se/summary/25862"
+  ],
+  "hints": {
+   "habitat": "Shallow, warm, reedy edges of spring-fed pools and swamps",
+   "size": "Up to about 4.5 cm long, not counting the tail",
+   "depth": null,
+   "diet": "Filamentous algae, small molluscs and crustaceans, and sometimes its own young"
+  }
+ },
+ "leopard-epaulette-shark": {
+  "funFact": "Covered in dense leopard-like spots with a big black eyespot behind its head, this little shark went unrecognised until 2010, when a photographer noticed it was different and it was named after him.",
+  "revealFact": "The leopard epaulette shark is known only from shallow reefs of eastern Papua New Guinea, mostly in Milne Bay Province. It was long confused with the Indonesian speckled carpetshark until it was described as a separate species in 2010.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Leopard_epaulette_shark",
+   "https://www.fishbase.se/summary/65392"
+  ],
+  "hints": {
+   "habitat": "Coral reefs, rocky outcrops, tide pools and seagrass beds",
+   "size": "Up to about 70 cm long",
+   "depth": "2–20 m",
+   "diet": null
+  }
+ },
+ "cenderawasih-epaulette-shark": {
+  "funFact": "This small shark often 'walks' across the seabed on its fins. Its species name honours a photographer who made a winning bid at a charity auction to help conserve it.",
+  "revealFact": "Hemiscyllium galei is known only from shallow reefs in Cenderawasih Bay, West Papua, Indonesia, and was scientifically described only in 2008.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Hemiscyllium_galei",
+   "https://www.fishbase.se/summary/63706"
+  ],
+  "hints": {
+   "habitat": "Fringing and patch reefs, resting under rocks or corals by day",
+   "size": "Up to about 57 cm long",
+   "depth": "2–25 m",
+   "diet": null
+  }
+ },
+ "northern-river-shark": {
+  "funFact": "Known only by a placeholder label, 'Glyphis species C', until it got a proper name in 2008, this tiny-eyed shark lives in murky, silty water with big tides. Its young roam into fresh water, but adults stay in the sea.",
+  "revealFact": "The northern river shark is found in scattered tidal rivers and coastal waters of northern Australia (the Kimberley and the Northern Territory) and southern Papua New Guinea. Very rare, it is threatened by commercial and recreational fishing.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Northern_river_shark",
+   "https://www.fishbase.se/summary/64133"
+  ],
+  "hints": {
+   "habitat": "Murky tidal rivers, estuaries and coastal bays with muddy bottoms",
+   "size": "Up to about 145 cm (1.45 m) long",
+   "depth": "Down to about 11 m",
+   "diet": "Probably fish"
+  }
+ },
+ "oopu-nakea": {
+  "funFact": "Its diet is about 84% stringy algae with a side of non-biting midges. Males build the nest, and both parents stand guard over the eggs.",
+  "revealFact": "ʻOʻopu nākea lives only in streams of the main Hawaiian Islands. Once lumped in with a related goby, it was recognised as a distinct species thanks to differences in body form and genetics.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Awaous_stamineus"
+  ],
+  "hints": {
+   "habitat": "Freshwater streams, swimming upstream against strong currents",
+   "size": null,
+   "depth": null,
+   "diet": "Mostly filamentous algae, plus non-biting midges"
+  }
+ },
+ "robertsons-wrasse": {
+  "funFact": "This little wrasse seeks out rough water, favouring reef slopes pounded by strong waves. It is named after a scientist honoured for his studies of reef fishes.",
+  "revealFact": "Robertson's wrasse is known only from the waters around Clipperton Island in the eastern Pacific, and is named after Dr D. Ross Robertson of the Smithsonian Tropical Research Institute.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Thalassoma_robertsoni",
+   "https://www.fishbase.se/summary/59638"
+  ],
+  "hints": {
+   "habitat": "The outer reef slope, where surge is strong",
+   "size": "Up to about 7.8 cm long, not counting the tail",
+   "depth": "3–50 m",
+   "diet": null
+  }
+ },
+ "galapagos-barnacle-blenny": {
+  "funFact": "This blenny moves into empty barnacle shells, poking out only its head and darting out to grab drifting bits of food. Dad guards the eggs stuck to the walls of the shell home.",
+  "revealFact": "The Galápagos barnacle blenny is found only on reefs of the Galápagos Islands, and is named after Miguel Castro, a naturalist at the Charles Darwin Foundation on Santa Cruz Island.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Acanthemblemaria_castroi",
+   "https://www.fishbase.se/summary/25510"
+  ],
+  "hints": {
+   "habitat": "Empty barnacle shells on reefs",
+   "size": "Up to about 6 cm long",
+   "depth": "1–23 m",
+   "diet": "Bits of floating food"
+  }
+ },
+ "cocos-barnacle-blenny": {
+  "funFact": "Barely 3 cm long, this blenny lays its eggs on the walls of its shelter, where dad stays on babysitting duty.",
+  "revealFact": "The Cocos barnacle blenny lives only in the waters around Cocos Island (Isla del Coco), Costa Rica.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Acanthemblemaria_atrata",
+   "https://www.fishbase.se/summary/60573"
+  ],
+  "hints": {
+   "habitat": "On the bottom of rocky reefs; common in the shallows",
+   "size": "Up to about 3.2 cm long, not counting the tail",
+   "depth": "5–31 m",
+   "diet": null
+  }
+ },
+ "malpelo-barnacle-blenny": {
+  "funFact": "A tiny house-hunter, this blenny moves into empty barnacles and abandoned worm or mollusc tubes, and snaps up passing zooplankton.",
+  "revealFact": "The Malpelo barnacle blenny is found only on reefs around Malpelo Island, Colombia, in the eastern Pacific.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Acanthemblemaria_stephensi",
+   "https://www.fishbase.se/summary/46725"
+  ],
+  "hints": {
+   "habitat": "Empty barnacles and worm or mollusc tubes on rocky reefs",
+   "size": "Up to about 5 cm long",
+   "depth": "9–10 m",
+   "diet": "Zooplankton"
+  }
+ },
+ "black-striped-salema": {
+  "funFact": "Sporting seven black stripes along its silvery sides, this grunt forms dense daytime schools along rock walls. Its species name honours the describing scientist's second wife, Jessie.",
+  "revealFact": "The black-striped salema lives only in the waters around the Galápagos Islands, where it was first described in 1890 from Isla Santa María.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Brachygenys_jessiae",
+   "https://www.fishbase.se/summary/25502"
+  ],
+  "hints": {
+   "habitat": "Rock walls and rocky slopes, in big daytime schools",
+   "size": "Up to about 30 cm long",
+   "depth": "3–18 m",
+   "diet": "Plankton and small fishes"
+  }
+ },
+ "red-striped-wrasse": {
+  "funFact": "This little wrasse picks an unusual neighbourhood: sandy seabeds sprinkled with fine rubble, where it lives down to at least 30 m.",
+  "revealFact": "The red-striped wrasse is found only around Cocos Island (Isla del Coco), Costa Rica; close relatives fill the same sandy-rubble niche on the mainland and at Malpelo Island.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Halichoeres_salmofasciatus",
+   "https://www.fishbase.se/summary/60811"
+  ],
+  "hints": {
+   "habitat": "Sand scattered with small rubble of volcanic rock chips or chalky algae, near reefs",
+   "size": "Up to about 6.3 cm long, not counting the tail",
+   "depth": "7–30 m",
+   "diet": null
+  }
+ },
+ "st-helena-wrasse": {
+  "funFact": "So little is known about this wrasse that its habitat entry on FishBase is still flagged as 'needs verification'.",
+  "revealFact": "The St Helena wrasse is found only in the waters around St Helena in the South Atlantic, in shallow coastal water near rocks and rocky reefs.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/St._Helena_wrasse",
+   "https://www.fishbase.se/summary/59651"
+  ],
+  "hints": {
+   "habitat": "Shallow coastal water near rocks and rocky reefs",
+   "size": "Up to about 18.7 cm long, not counting the tail",
+   "depth": null,
+   "diet": null
+  }
+ },
+ "madeiran-ray": {
+  "funFact": "Its belly starts out smooth but turns prickly with age, and it lays eggs whose shells sport horn-like projections.",
+  "revealFact": "The Madeiran ray seems to be found only on the shelf and upper slope around Madeira, Portugal, although similar skates reported from the Azores may turn out to be the same species.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Raja_maderensis",
+   "https://www.fishbase.se/summary/5013"
+  ],
+  "hints": {
+   "habitat": "Hard and soft seabeds of the continental shelf and upper slope",
+   "size": "Up to about 85 cm long",
+   "depth": "Down to about 500 m",
+   "diet": "All kinds of bottom-dwelling animals"
+  }
+ },
+ "south-georgia-icefish": {
+  "funFact": "A 'crocodile icefish' with a forward-curving spine on its snout, three lateral lines and big fan-shaped pelvic fins, it dines mostly on krill.",
+  "revealFact": "The South Georgia icefish lives in shelf waters around South Georgia, the Scotia Sea and the northern Antarctic Peninsula. It was listed as Endangered in 2024, though a 2026 study argued that the assessment relied on outdated data and that the species is not clearly declining.",
+  "factSources": [
+   "https://en.wikipedia.org/wiki/Pseudochaenichthys",
+   "https://www.fishbase.se/summary/475"
+  ],
+  "hints": {
+   "habitat": "Near the seabed in continental-shelf waters",
+   "size": "Up to about 60 cm long",
+   "depth": "0–475 m",
+   "diet": "Mainly krill and other fish"
+  }
+ }
+}

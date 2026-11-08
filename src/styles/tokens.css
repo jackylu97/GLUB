@@ -1,0 +1,17 @@
+:root {
+  --butter: #ffc93c;
+  --ink: #14110f;
+  --coral: #f2643d;
+  --coral-text: #9a2b12;
+  --teal: #0e9c97;
+  --teal-deep: #0a5f5c;
+  --cel: #fff6df;
+  --muted: #5c4a12;
+
+  --font-display: 'Chango', 'Arial Rounded MT Bold', sans-serif;
+  --font-cond: 'Big Shoulders Display', 'Arial Narrow', sans-serif;
+  --font-text: 'Grandstander', 'Trebuchet MS', sans-serif;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --rule: 4px solid var(--ink);
+}

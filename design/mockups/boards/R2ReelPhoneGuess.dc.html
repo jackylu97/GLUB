@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Plaice Reel, phone, cast 2</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Chango&family=Grandstander:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+::selection{background:#FFC93C;color:#14110F}
+.scallop{background:radial-gradient(circle at 10px 0,#F2643D 0 7px,#14110F 7px 9.5px,transparent 10px) 0 0/20px 12px repeat-x}
+.sprocket{background:repeating-linear-gradient(90deg,transparent 0 8px,#FFF6DF 8px 17px,transparent 17px 25px)}
+.mapwin{background:#0E9C97}
+.pulse{animation:pulse 1.8s cubic-bezier(.16,1,.3,1) infinite}
+@keyframes pulse{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.9);opacity:0}}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+button:focus-visible{outline:4px solid #FFF6DF;outline-offset:3px}
+</style>
+</helmet>
+<div style="width:390px;height:844px;position:relative;overflow:hidden;background:#0A5F5C;font-family:Grandstander,sans-serif;color:#FFF6DF">
+  <header style="position:absolute;left:0;top:0;width:390px;height:56px;background:#14110F;display:flex;align-items:center;justify-content:space-between;padding:0 6px;box-sizing:border-box">
+    <div style="display:flex">
+      <button type="button" aria-label="How to play" style="width:44px;height:44px;background:none;border:0;color:#FFF6DF;padding:11px"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="12" cy="12" r="9.5"></circle><path d="M9.3 9.2a2.8 2.8 0 1 1 3.9 2.6c-.8.4-1.2 1-1.2 1.9v.6M12 17.4v.2"></path></svg></button>
+      <button type="button" aria-label="Past fish" style="width:44px;height:44px;background:none;border:0;color:#FFF6DF;padding:11px"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="15" rx="2"></rect><path d="M4 10h16M9 3v4M15 3v4"></path></svg></button>
+    </div>
+    <div style="font-family:Chango,sans-serif;font-size:27px;color:#FFC93C;line-height:1">Plaice</div>
+    <div style="display:flex">
+      <button type="button" aria-label="Your stats" style="width:44px;height:44px;background:none;border:0;color:#FFF6DF;padding:11px"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M5 20v-8M12 20V5M19 20v-11"></path></svg></button>
+      <button type="button" aria-label="Settings" style="width:44px;height:44px;background:none;border:0;color:#FFF6DF;padding:11px"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"></path><circle cx="16" cy="7" r="2.2"></circle><circle cx="10" cy="17" r="2.2"></circle></svg></button>
+    </div>
+  </header>
+  <div class="scallop" style="position:absolute;left:0;top:56px;width:390px;height:12px"></div>
+
+  <div style="position:absolute;left:16px;top:78px;width:358px;display:flex;justify-content:space-between;font-size:14px;font-weight:700">
+    <h1 style="margin:0;font-size:15px;font-weight:800">Where does this fish live?</h1>
+    <span style="color:#FFC93C">No. 001</span>
+  </div>
+
+  <figure style="position:absolute;left:16px;top:104px;width:358px;margin:0;background:#14110F;border-radius:5px;padding:18px 6px;box-sizing:border-box">
+    <div class="sprocket" style="position:absolute;left:6px;top:6px;width:346px;height:6px"></div>
+    <div class="sprocket" style="position:absolute;left:6px;bottom:6px;width:346px;height:6px"></div>
+    <img src="/_blob/8babd12124cca4720c5c183ad4dd79e1" alt="A spotted, sand-coloured fish standing on the sea floor on a fin shaped like a hand" style="display:block;width:346px;height:214px;object-fit:cover">
+  </figure>
+
+  <ol aria-label="Clues" style="position:absolute;left:16px;top:366px;width:358px;margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px;font-size:15px;font-weight:700;line-height:1.2">
+    <li style="display:flex;gap:10px;align-items:center"><span style="flex:none;width:26px;height:26px;border-radius:50%;background:#FFF6DF;color:#14110F;font-family:Chango,sans-serif;font-size:12px;display:flex;align-items:center;justify-content:center">1</span>Those are hands. It walks, it doesn't swim.</li>
+    <li style="display:flex;gap:10px;align-items:center"><span style="flex:none;width:26px;height:26px;border-radius:50%;background:#F2643D;color:#14110F;font-family:Chango,sans-serif;font-size:12px;display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 2px #14110F">2</span>Salt water, usually 5 to 10 m down.</li>
+    <li style="display:flex;gap:10px;align-items:center;color:#ADD6D2;font-weight:500"><span style="flex:none;width:26px;height:26px;border-radius:50%;border:2px dashed #ADD6D2;box-sizing:border-box;font-family:Chango,sans-serif;font-size:12px;display:flex;align-items:center;justify-content:center">3</span>Unlocks if cast 2 misses.</li>
+  </ol>
+
+  <div style="position:absolute;left:16px;top:476px;width:358px;height:42px;display:grid;grid-template-columns:36px 1fr auto auto;gap:8px;align-items:center;background:#14110F;border-radius:10px;padding-right:8px;box-sizing:border-box;font-weight:700">
+    <span style="font-family:Chango,sans-serif;text-align:center;color:#FFC93C">1</span>
+    <span style="font-size:19px;font-weight:800;font-variant-numeric:tabular-nums">2,043 km</span>
+    <span style="display:flex;align-items:center;gap:3px;font-size:15px"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#FFC93C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="transform:rotate(263deg)"><path d="M12 20V5M6 11l6-6 6 6"></path></svg>W</span>
+    <span style="background:#FFF6DF;color:#14110F;border-radius:12px;padding:2px 10px;font-size:13px;font-weight:800">Minnow</span>
+  </div>
+
+  <div class="mapwin" style="position:absolute;left:16px;top:528px;width:358px;height:206px;border:4px solid #14110F;border-radius:18px;box-sizing:border-box;overflow:hidden">
+    <img src="/_blob/77223fc7847f598defe535ea1ccf9cfd" alt="World map, zoomed in on Australia and New Zealand" style="position:absolute;left:-765px;top:-314px;width:1100px;height:572px;max-width:none">
+    <div style="position:absolute;left:227px;top:107px;width:22px;height:22px;border-radius:50%;background:#14110F;border:2px solid #FFF6DF;color:#FFF6DF;font-size:12px;font-weight:800;display:flex;align-items:center;justify-content:center;box-sizing:border-box" aria-label="Cast 1, missed">1</div>
+    <div class="pulse" style="position:absolute;left:160px;top:84px;width:30px;height:30px;border-radius:50%;border:3px solid #F2643D;box-sizing:border-box"></div>
+    <div style="position:absolute;left:160px;top:84px;width:30px;height:30px;border-radius:50%;background:rgba(242,100,61,.35);border:4px solid #14110F;box-sizing:border-box" aria-label="Pin 2, near Melbourne"></div>
+    <div style="position:absolute;left:172px;top:96px;width:6px;height:6px;border-radius:50%;background:#14110F"></div>
+    <div style="position:absolute;left:8px;bottom:8px;background:#14110F;color:#FFF6DF;border-radius:10px;padding:3px 9px;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums">Pin 2: 37.8&#176;S 145.0&#176;E</div>
+  </div>
+
+  <button type="button" style="position:absolute;left:16px;top:746px;width:358px;height:82px;background:#F2643D;border:5px solid #14110F;border-bottom-width:13px;border-radius:22px;font-family:Chango,sans-serif;font-size:32px;color:#14110F;cursor:pointer">Cast #2</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

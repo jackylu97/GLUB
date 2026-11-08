@@ -1,0 +1,503 @@
+id,scientificName,commonName,region,stage,iucn,reason
+alabama-cavefish,Speoplatyrhinus poulsoni,Alabama cavefish,North America,shortlist,CR,photo rejected on visual review: only 142x188 px images available
+cui-ui,Chasmistes cujus,Cui-ui,North America,shortlist,EN,country cap: USA kept to ~10 (only an old hatchery photo with a person)
+razorback-sucker,Xyrauchen texanus,Razorback sucker,North America,shortlist,CR,country cap: USA kept to ~10 (specimen photo)
+alabama-sturgeon,Scaphirhynchus suttkusi,Alabama sturgeon,North America,shortlist,CR,sturgeon cap (4) and USA country cap
+candy-darter,Etheostoma osburni,Candy darter,North America,shortlist,NT,"IUCN NT; range is a whole river system (Kanawha), not tiny; no photo selected"
+apache-trout,Oncorhynchus apache,Apache trout,North America,shortlist,CR,country cap: USA kept to ~10; trout look-alikes
+moapa-dace,Moapa coriacea,Moapa dace,North America,shortlist,CR,country cap: USA kept to ~10
+widemouth-blindcat,Satan eurystomus,Widemouth blindcat,North America,shortlist,VU,country cap: USA kept to ~10; only an illustration
+comanche-springs-pupfish,Cyprinodon elegans,Comanche Springs pupfish,North America,shortlist,EN,country cap: USA kept to ~10; pupfish look-alike (Devils Hole pupfish kept)
+vancouver-lamprey,Entosphenus macrostomus,Vancouver lamprey,North America,shortlist,EN,photo rejected on visual review: only a captioned scientific plate
+totoaba,Totoaba macdonaldi,Totoaba,Mexico/Central America/Caribbean,shortlist,VU,photo rejected on visual review: only aquaculture-tank and beach-carcass photos
+monterrey-platyfish,Xiphophorus couchianus,Monterrey platyfish,Mexico/Central America/Caribbean,shortlist,EW,country cap: Mexico kept to ~10
+sulphur-molly,Poecilia sulphuraria,Sulphur molly,Mexico/Central America/Caribbean,shortlist,EN,photo rejected on visual review: only an indistinct shoal photo; other Commons matches show the wrong animal (a kingfisher)
+yucatan-blind-brotula,Typhliasina pearsei,Mexican blind brotula,Mexico/Central America/Caribbean,shortlist,NT,"IUCN NT; range spans the Yucatan aquifer, not a single cave/lake; no photo selected"
+bartons-cichlid,Nosferatu bartoni,Barton's cichlid,Mexico/Central America/Caribbean,shortlist,EN,photo rejected on visual review: only one murky photo
+ascotan-pupfish,Orestias ascotanensis,Ascotán orestias,South America,shortlist,VU,photo rejected on visual review: only photo shows the fish too small to see
+titicaca-orestias,Orestias olivaceus,Olive orestias,South America,shortlist,VU,no usable openly licensed photo
+doce-surubim,Steindachneridion doceanum,Doce River surubim,South America,shortlist,EN,photo rejected on visual review: only a range map with a drawing
+pacama,Lophiosilurus alexandri,Pacamã,South America,shortlist,VU,country cap: Brazil kept to ~10
+corfu-toothcarp,Valencia letourneuxi,Corfu toothcarp,Europe,shortlist,CR,photo rejected on visual review: only captioned scientific plates and a range map
+adriatic-sturgeon,Acipenser naccarii,Adriatic sturgeon,Europe,shortlist,CR,sturgeon cap (4)
+ohrid-trout,Salmo letnica,Ohrid trout,Europe,shortlist,EN,"Salmo trout look-alikes capped (softmouth, marble, Lake Ifni trout kept)"
+asprete,Romanichthys valsanicola,Asprete,Europe,shortlist,CR,"photo rejected on visual review: only maps, diagrams and landscapes"
+carpione,Salmo carpio,Carpione,Europe,shortlist,EN,Salmo trout look-alikes capped; only a trophy-style photo
+spanish-minnowcarp,Anaecypris hispanica,Spanish minnowcarp,Europe,shortlist,NT,IUCN NT; range spans the Guadiana basin; no photo selected
+pungu,Pungu maclareni,Pungu,Africa,shortlist,CR,photo rejected on visual review: only a specimen photo with a ruler
+congo-blind-barb,Caecobarbus geertsii,Congo blind barb,Africa,shortlist,VU,no usable openly licensed photo
+lake-magadi-tilapia,Alcolapia grahami,Lake Magadi tilapia,Africa,shortlist,EN,"soda-lake tilapia look-alike (Lake Natron species kept, better photo)"
+clanwilliam-sandfish,Labeo seeberi,Clanwilliam sandfish,Africa,shortlist,EN,photo rejected on visual review: only a captioned scientific plate
+lake-chala-tilapia,Oreochromis hunteri,Lake Chala tilapia,Africa,shortlist,CR,"photo rejected on visual review: only a tagged specimen with ruler, a landscape and a captioned plate"
+natal-shyshark,Haploblepharus kistnasamyi,Natal shyshark,Africa,shortlist,VU,photo rejected on visual review: only a range map
+madagascar-rainbowfish,Bedotia madagascariensis,Madagascar rainbowfish,Madagascar,shortlist,EN,country cap: Madagascar kept to ~10; Bedotia look-alikes (2 kept)
+patricias-pachypanchax,Pachypanchax patriciae,Patricia's pachypanchax,Madagascar,shortlist,EN,country cap: Madagascar kept to ~10; Pachypanchax look-alikes (2 kept)
+beloribitsa,Stenodus leucichthys,Beloribitsa,Middle East/Central Asia,shortlist,NT,IUCN code returned by GBIF (NT) appears to belong to the broad Stenodus leucichthys concept (incl. nelma); the Caspian beloribitsa's own status could not be verified; no photo selected; range geometry missing
+iraq-blind-barb,Garra widdowsoni,Iraq blind barb,Middle East/Central Asia,shortlist,CR,no usable openly licensed photo (1 candidate photos had NC/ND/ARR or other non-allowlisted licences)
+iran-cave-barb,Garra typhlops,Iran cave barb,Middle East/Central Asia,shortlist,VU,no usable openly licensed photo
+dead-sea-garra,Garra ghorensis,Dead Sea garra,Middle East/Central Asia,shortlist,EN,photo rejected on visual review: only a range map
+acigol-toothcarp,Aphanius transgrediens,Acıgöl toothcarp,Middle East/Central Asia,shortlist,CR,no usable openly licensed photo
+syr-darya-shovelnose,Pseudoscaphirhynchus fedtschenkoi,Syr Darya shovelnose sturgeon,Middle East/Central Asia,shortlist,CR,CR (possibly extinct): no sightings since the 1960s per Wikipedia; live fish preferred; no photo selected; range geometry missing
+amu-darya-shovelnose,Pseudoscaphirhynchus kaufmanni,Large Amu Darya shovelnose sturgeon,Middle East/Central Asia,shortlist,CR,"photo rejected on visual review: only stamps, maps, a jar specimen and a specimen with a scale-bar label"
+mangar,Luciobarbus esocinus,Mangar,Middle East/Central Asia,shortlist,VU,photo rejected on visual review: all photos carry burned-in date stamps or are postage stamps
+galilee-tristramella,Tristramella simonis,Short-jaw tristramella,Middle East/Central Asia,shortlist,VU,photo rejected on visual review: photos carry a watermark or are composites/old drawings
+ili-marinka,Schizothorax pseudoaksaiensis,Ili marinka,Middle East/Central Asia,shortlist,VU,photo rejected on visual review: only postage stamps (showing a different Schizothorax)
+rainbow-snakehead,Channa bleheri,Rainbow snakehead,South Asia,shortlist,NT,IUCN NT; range spans the upper Brahmaputra basin; no photo selected; range geometry missing
+pearly-rasbora,Rasboroides vaterifloris,Pearly rasbora,South Asia,shortlist,EN,look-alike small Sri Lankan cyprinids
+asoka-barb,Systomus asoka,Asoka barb,South Asia,shortlist,CR,"look-alike small Sri Lankan barbs (cherry, black ruby and blotched filament barbs kept)"
+giant-barb,Catlocarpio siamensis,Giant barb,SE Asia,shortlist,CR,SE Asia over-represented; large carp look-alike
+mahachai-betta,Betta mahachaiensis,Mahachai betta,SE Asia,shortlist,NE,SE Asia over-represented; one betta kept
+psychedelic-frogfish,Histiophryne psychedelica,Psychedelic frogfish,SE Asia,shortlist,NE,photo rejected on visual review: openly licensed photos are all 350 px or smaller
+celebes-rainbowfish,Marosatherina ladigesi,Celebes rainbowfish,SE Asia,shortlist,VU,SE Asia over-represented
+daisys-ricefish,Oryzias woworae,Daisy's ricefish,SE Asia,shortlist,EN,SE Asia over-represented; thin sources (no Wikipedia article)
+chinese-bahaba,Bahaba taipingensis,Chinese bahaba,East Asia,shortlist,CR,no usable openly licensed photo (2 candidate photos had NC/ND/ARR or other non-allowlisted licences)
+chinese-sturgeon,Acipenser sinensis,Chinese sturgeon,East Asia,shortlist,CR,sturgeon cap (4)
+rhino-golden-line-barbel,Sinocyclocheilus rhinocerous,Rhinoceros golden-line barbel,East Asia,shortlist,VU,no usable openly licensed photo
+red-finned-blue-eye,Scaturiginichthys vermeilipinnis,Red-finned blue-eye,Australia/NZ/New Guinea,shortlist,CR,photo rejected on visual review: final check: fish not visible in the only label-free photo; clearer options carry burned-in male/female labels
+salamanderfish,Lepidogalaxias salamandroides,Salamanderfish,Australia/NZ/New Guinea,shortlist,EN,country cap: Australia kept to ~10; only an illustration
+maugean-skate,Zearaja maugeana,Maugean skate,Australia/NZ/New Guinea,shortlist,EN,photo rejected on visual review: only egg-case and unclear beach photos
+pedder-galaxias,Galaxias pedderensis,Pedder galaxias,Australia/NZ/New Guinea,shortlist,EN,photo rejected on visual review: only a small (589 px) drawing
+oopu-alamoo,Lentipes concolor,ʻOʻopu ʻalamoʻo,Pacific islands,shortlist,DD,country cap: USA (Hawaii) kept to two gobies; weaker photo
+new-caledonia-galaxias,Galaxias neocaledonicus,New Caledonia galaxias,Pacific islands,shortlist,EN,no usable openly licensed photo (2 candidate photos had NC/ND/ARR or other non-allowlisted licences)
+mariana-snailfish,Pseudoliparis swirei,Mariana snailfish,Pacific islands,shortlist,NE,photo rejected on visual review: only composite scientific figures and maps
+noronha-cleaner-goby,Elacatinus phthirophagus,Noronha cleaner goby,Remote Atlantic & Indian Ocean islands / open seas,shortlist,EN,photo rejected on visual review: the goby is not visible in the only photo
+watercress-darter,Etheostoma nuchale,Watercress darter,North America,shortlist,EN,country cap: USA kept to ~10
+cuban-blind-cusk-eel,Lucifuga dentata,Cuban blind cusk-eel,Mexico/Central America/Caribbean,shortlist,EN,photo rejected on visual review: only captioned plates (caption names Cuba)
+highland-splitfin,Hubbsina turneri,Highland splitfin,Mexico/Central America/Caribbean,shortlist,CR,country cap: Mexico kept to ~10; goodeid look-alikes (3 kept)
+mountain-catfish,Nematogenys inermis,Mountain catfish,South America,shortlist,CR,photo rejected on visual review: only scientific illustrations; other Chilean species have photos
+argentine-angelshark,Squatina argentina,Argentine angelshark,South America,shortlist,CR,"photo rejected on visual review: only a placeholder, a captioned sketch and a map"
+sunshine-pleco,Scobinancistrus aureatus,Sunshine pleco,South America,shortlist,VU,country cap: Brazil kept to ~10; Xingu pleco look-alike (zebra pleco kept)
+piracanjuba,Brycon orbignyanus,Piracanjuba,South America,shortlist,EN,country cap: Brazil kept to ~10
+burchells-redfin,Pseudobarbus burchelli,Burchell's redfin,Africa,shortlist,CR,redfin look-alike (fiery redfin kept); small photo
+deckerts-tilapia,Coptodon deckerti,Deckert's tilapia,Africa,shortlist,CR,"Cameroon crater-lake cichlids capped (pindu, myaka, Bermin tilapia kept); murky photo"
+trondo-mainty,Ptychochromoides betsileanus,Trondo mainty,Madagascar,shortlist,CR,photo rejected on visual review: only a captioned plate (caption names Madagascar)
+pike-asp,Aspiolucius esocinus,Pike asp,Middle East/Central Asia,shortlist,EN,photo rejected on visual review: only postage stamps
+sharpray,Capoetobrama kuschakewitschi,Sharpray,Middle East/Central Asia,shortlist,EN,photo rejected on visual review: only postage stamps
+abant-trout,Salmo abanticus,Abant trout,Middle East/Central Asia,shortlist,VU,photo rejected on visual review: no photo of this taxon (Commons/Wikipedia images are generic Salmo trutta)
+orange-spotted-snakehead,Channa aurantimaculata,Orange-spotted snakehead,South Asia,shortlist,DD,"IUCN DD; range spans the Brahmaputra floodplain, rarity not documented; no photo selected; range geometry missing"
+ganges-shark,Glyphis gangeticus,Ganges shark,South Asia,shortlist,CR,range too uncertain: synonymy may extend it from Pakistan to Java; FishBase and Wikipedia disagree; no photo selected
+sinarapan,Mistichthys luzonensis,Sinarapan,SE Asia,shortlist,VU,"photo rejected on visual review: only food photos, dried-fish packaging and small captioned plates"
+lanao-barb,Barbodes tumba,Tumba barb,SE Asia,shortlist,EN,photo rejected on visual review: only a lettered multi-panel figure
+duck-billed-buntingi,Adrianichthys kruyti,Duck-billed buntingi,SE Asia,shortlist,CR,CR (possibly extinct) per Wikipedia; live fish preferred; no photo selected
+sichuan-taimen,Hucho bleekeri,Sichuan taimen,East Asia,shortlist,CR,"photo rejected on visual review: only a blurry photo, a line drawing and a map"
+kanglang-fish,Anabarilius grahami,Kanglang fish,East Asia,shortlist,VU,photo rejected on visual review: only a preserved museum display
+taiwan-angelshark,Squatina formosa,Taiwan angelshark,East Asia,shortlist,EN,photo rejected on visual review: only a placeholder image and a map
+honmoroko,Gnathopogon caerulescens,Honmoroko,East Asia,shortlist,EN,Japan look-alikes: Lake Biwa already represented (giant catfish)
+itasenpara,Acheilognathus longipinnis,Itasenpara bitterling,East Asia,shortlist,EN,Japan look-alikes: one bitterling kept
+baikal-oilfish,Comephorus baikalensis,Baikal oilfish,East Asia,shortlist,LC,IUCN LC: fails rarity rule; no photo selected
+northland-mudfish,Neochanna heleios,Northland mudfish,Australia/NZ/New Guinea,shortlist,CR,photo rejected on visual review: only a specimen with a scale label and a map
+dalhousie-goby,Chlamydogobius gloveri,Dalhousie goby,Australia/NZ/New Guinea,shortlist,CR,photo rejected on visual review: only an annotated sketch
+cenderawasih-epaulette-shark,Hemiscyllium galei,Cenderawasih epaulette shark,Australia/NZ/New Guinea,shortlist,VU,photo rejected on visual review: only a placeholder image
+clipperton-damselfish,Stegastes baldwini,Clipperton damselfish,Pacific islands,shortlist,NT,no usable openly licensed photo
+galapagos-damsel,Azurina eupalama,Galápagos damsel,Pacific islands,shortlist,CR,possibly extinct after the 1982-83 El Nino per Wikipedia; live fish preferred; no photo selected
+galapagos-barnacle-blenny,Acanthemblemaria castroi,Galápagos barnacle blenny,Pacific islands,shortlist,VU,barnacle-blenny look-alikes: Cocos and Malpelo species kept
+st-helena-wrasse,Thalassoma sanctaehelenae,St Helena wrasse,Remote Atlantic & Indian Ocean islands / open seas,shortlist,DD,photo rejected on visual review: fish barely visible in tide-pool photos
+resplendent-angelfish,Centropyge resplendens,Resplendent angelfish,Remote Atlantic & Indian Ocean islands / open seas,shortlist,LC,IUCN LC: fails rarity rule; no usable openly licensed photo (1 candidate photos had NC/ND/ARR or other non-allowlisted licences)
+chagos-anemonefish,Amphiprion chagosensis,Chagos anemonefish,Remote Atlantic & Indian Ocean islands / open seas,shortlist,LC,IUCN LC: fails rarity rule; no photo selected
+,Aaptosyax grypus,Giant salmon carp,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Acanthobrama lissneri,Tiberias bream,Middle East/Central Asia,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Acheilognathus typus,Zenitanago,East Asia,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Acipenser dabryanus,Yangtze sturgeon,East Asia,prescreen,EW,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Acipenser gueldenstaedtii,Russian sturgeon,Europe,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Acipenser mikadoi,Sakhalin sturgeon,East Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Acipenser nudiventris,Fringebarbel sturgeon,Europe,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Adrianichthys oophorus,Poso buntingi,SE Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aetapcus maculatus,Warty prowfish,Australia/NZ/New Guinea,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Akihito vanuatu,Vanuatu Akihito goby,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Alcolapia latilabris,Lake Natron cichlid,Africa,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Allotoca dugesii,Bumblebee allotoca,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Allotoca goslinei,Banded allotoca,Mexico/Central America/Caribbean,prescreen,EW,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Allotoca maculata,Opal allotoca,Mexico/Central America/Caribbean,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Alosa killarnensis,Killarney shad,Europe,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Alosa vistonica,Thracian shad,Europe,prescreen,EX,IUCN EX (extinct) per GBIF:IUCN
+,Ambastaia sidthimunki,Dwarf chain loach,SE Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Amblyopsis spelaea,Northern cavefish,North America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Amphichaetodon howensis,Lord Howe butterflyfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Amphiprion chrysogaster,Mauritian anemonefish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Amphiprion fuscocaudatus,Seychelles anemonefish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Amphiprion nigripes,Maldive anemonefish,South Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Amphiprion omanensis,Oman anemonefish,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Anarhichas lupus,Atlantic wolffish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Ancharius fuscus,Madagascar catfish,Madagascar,prescreen,LC,IUCN LC: fails rarity rule
+,Ancharius griseus,Grey Madagascar catfish,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Anguilla anguilla,European eel,Remote Atlantic & Indian Ocean islands / open seas,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Anguilla japonica,Japanese eel,East Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Anthias salmopunctatus,St Paul's anthias,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Aphanius anatoliae,Anatolian tooth-carp,Middle East/Central Asia,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius arakensis,Arak tooth-carp,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius baeticus,Andalusian toothcarp,Europe,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Aphanius dispar,Arabian toothcarp,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Aphanius farsicus,Fars tooth-carp,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius ginaonis,Geno pupfish,Middle East/Central Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius iberus,Spanish toothcarp,Europe,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Aphanius isfahanensis,Isfahan tooth-carp,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius kavirensis,Kavir tooth-carp,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius richardsoni,Dead Sea toothcarp,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Aphanius saourensis,Saoura toothcarp,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius sureyanus,Burdur tooth-carp,Middle East/Central Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aphanius vladykovi,Zagros tooth-carp,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Aplochiton zebra,Zebra aplochiton,South America,prescreen,LC,IUCN LC: fails rarity rule
+,Apogon atradorsatus,Blackfin cardinalfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Ataeniobius toweri,Bluetail goodea,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Austroglanis barnardi,Barnard's rock catfish,Africa,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Austroglanis gilli,Clanwilliam rock catfish,Africa,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Austrolebias charrua,Charrua pearlfish,South America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Austrolebias cinereus,Ashy pearlfish,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Austrolebias nigrofasciatus,Black-banded pearlfish,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Austrolebias wolterstorffi,Wolterstorff's pearlfish,South America,prescreen,LC,IUCN LC: fails rarity rule
+,Balantiocheilos ambusticauda,Burnt-tailed bala shark,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Barbodes lindog,Lindog,SE Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Baryancistrus xanthellus,Golden nugget pleco,South America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Bedotia masoala,Masoala bedotia,Madagascar,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Betta burdigala,Bordeaux betta,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Betta rubra,Sumatran red betta,SE Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Betta simplex,Krabi mouthbrooding betta,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Betta spilotogena,Spotted-cheek betta,SE Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Bidyanus bidyanus,Silver perch,Australia/NZ/New Guinea,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Bodianus eclancheri,Harlequin wrasse,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Bodianus insularis,Island hogfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Boraras naevus,Strawberry rasbora,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Botia dario,Bengal loach,South Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Botia kubotai,Polka-dot loach,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Brachionichthys australis,Australian spotted handfish,Australia/NZ/New Guinea,prescreen,LC,IUCN LC: fails rarity rule
+,Brachiopsilus dianthus,Pink handfish,Australia/NZ/New Guinea,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Brachiopsilus ziebelli,Ziebell's handfish,Australia/NZ/New Guinea,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Caecocypris basimi,Haditha cavefish,Middle East/Central Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Callionymus sanctaehelenae,St Helena dragonet,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Callopanchax monroviae,Liberian killifish,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Carassius cuvieri,Gengoro-buna,East Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Carcharhinus hemiodon,Pondicherry shark,South Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Caspiomyzon wagneri,Caspian lamprey,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Centropyge debelius,Blue Mauritius angelfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Centropyge hotumatua,Hotumatua's angelfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Centropyge interrupta,Japanese pygmy angelfish,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Centropyge joculator,Cocos pygmy angelfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Centropyge nahackyi,Nahacky's pygmy angelfish,Pacific islands,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Chaetodon daedalma,Wrought iron butterflyfish,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon declivis,Marquesas butterflyfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon dialeucos,Oman butterflyfish,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon litus,Easter Island butterflyfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon mitratus,Indian butterflyfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon sanctaehelenae,St Helena butterflyfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodon smithi,Smith's butterflyfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Chaetodontoplus ballinae,Ballina angelfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Champsocephalus gunnari,Mackerel icefish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Channa barca,Barca snakehead,South Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Channa pulchra,Burmese rainbow snakehead,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Characodon audax,Bold characodon,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cheilothrix serra,Sawfin,Africa,prescreen,NE,no exact GBIF match for this name
+,Chetia brevis,Orange-fringed largemouth,Africa,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Chilatherina sentaniensis,Sentani rainbowfish,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Chiloscyllium arabicum,Arabian carpetshark,Middle East/Central Asia,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Chindongo saulosi,Saulosi,Africa,prescreen,CR,GBIF treats name as synonym of Pseudotropheus saulosi; not shortlisted
+,Chirostoma estor,Pike silverside,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Chlamydogobius micropterus,Elizabeth Springs goby,Australia/NZ/New Guinea,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Chlamydogobius squamigenus,Edgbaston goby,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Chrosomus cumberlandensis,Blackside dace,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Cirrhilabrus jordani,Flame wrasse,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Cirrhilabrus sanguineus,Blood-red fairy wrasse,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Comephorus dybowskii,Little Baikal oilfish,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Coptodon ejagham,Ejagham tilapia,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Coptodon snyderae,Snyder's Bermin tilapia,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Coregonus bavaricus,Ammersee kilch,Europe,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Coregonus fontanae,Stechlin cisco,Europe,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Coregonus migratorius,Baikal omul,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Coregonus trybomi,Spring-spawning cisco,Europe,prescreen,EX,IUCN EX (extinct) per GBIF:IUCN
+,Coregonus vandesius,Vendace,Europe,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Coreoleuciscus splendidus,Korean splendid dace,East Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cotylopus acutipinnis,Reunion climbing goby,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cotylopus rubripinnis,Red-finned cotylopus,Remote Atlantic & Indian Ocean islands / open seas,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Craterocephalus fluviatilis,Murray hardyhead,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Cubanichthys pengelleyi,Jamaican killifish,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cynoscion othonopterus,Gulf corvina,Mexico/Central America/Caribbean,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cyprinion mhalensis,Mahal cyprinion,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cyprinodon alvarezi,Potosi pupfish,Mexico/Central America/Caribbean,prescreen,EW,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cyprinodon bovinus,Leon Springs pupfish,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Cyprinodon longidorsalis,La Palma pupfish,Mexico/Central America/Caribbean,prescreen,EW,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Cyprinodon macularius,Desert pupfish,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Cyprinus fuxianensis,Fuxian carp,East Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Danakilia franchettii,Danakil cichlid,Africa,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Danio erythromicron,Emerald dwarf danio,SE Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Dario dario,Scarlet badis,South Asia,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Delminichthys adspersus,Adriatic minnow,Europe,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Deltistes luxatus,Lost River sucker,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Dialommus fuscus,Galapagos four-eyed blenny,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Diplomystes camposensis,Campos velvet catfish,South America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Diplomystes chilensis,Chilean velvet catfish,South America,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Dissostichus mawsoni,Antarctic toothfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Economidichthys pygmaeus,Western Greece goby,Europe,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Economidichthys trichonis,Trichonis dwarf goby,Europe,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Eidinemacheilus smithi,Zagros blind loach,Middle East/Central Asia,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Eleotris sandwicensis,O'opu akupa,Pacific islands,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Empetrichthys latos,Pahrump poolfish,North America,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Enneanectes smithi,St Paul's triplefin,Remote Atlantic & Indian Ocean islands / open seas,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Epinephelus daemelii,Black rockcod,Australia/NZ/New Guinea,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Epinephelus marginatus,Dusky grouper,Europe,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Epinephelus quernus,Hawaiian grouper,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Eremophilus mutisii,Capitan de la sabana,South America,prescreen,LC,IUCN LC: fails rarity rule
+,Etheostoma fonticola,Fountain darter,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Etheostoma okaloosae,Okaloosa darter,North America,prescreen,LC,IUCN LC: fails rarity rule
+,Etheostoma wapiti,Boulder darter,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Eucyclogobius newberryi,Tidewater goby,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Fundulus bermudae,Bermuda killifish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Fundulus julisia,Barrens topminnow,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Fundulus relictus,Bermuda relict killifish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Galaxias auratus,Golden galaxias,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxias cobitinis,Lowland longjaw galaxias,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxias fontanus,Swan galaxias,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxias johnstoni,Clarence galaxias,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxias macronasus,Bignose galaxias,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxias pullus,Dusky galaxias,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxiella munda,Western mud minnow,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Galaxiella nigrostriata,Black-stripe minnow,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Garra barreimiae,Oman garra,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Garra jordanica,Jordan garra,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Garra lorestanensis,Loven cave garra,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Garra tashanensis,Tashan cave garra,Middle East/Central Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Garra tibanica,Tiban garra,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Genicanthus personatus,Masked angelfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Genidens barbus,White sea catfish,South America,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Gila elegans,Bonytail chub,North America,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Glaucostegus granulatus,Sharpnose guitarfish,Middle East/Central Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Glossogobius ankaranensis,Ankarana blind goby,Madagascar,prescreen,LC,IUCN LC: fails rarity rule
+,Glyphis glyphis,Speartooth shark,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Gobiobotia naktongensis,Nakdong gudgeon,East Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Gogo arcuatus,Gogo catfish,Madagascar,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Gymnocephalus schraetser,Schraetzer,Europe,prescreen,LC,IUCN LC: fails rarity rule
+,Gymnodiptychus dybowskii,Naked osman,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Haplochromis thereuterion,Slender Victoria haplochromine,Africa,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Harttiella crassicauda,Guiana dwarf armoured catfish,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Hemibagrus punctatus,Nilgiri mystus,South Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Hemiscyllium freycineti,Raja Ampat walking shark,SE Asia,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Hemiscyllium hallstromi,Papuan epaulette shark,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Hemiscyllium ocellatum,Epaulette shark,Australia/NZ/New Guinea,prescreen,LC,IUCN LC: fails rarity rule
+,Herichthys bartoni,Barton's cichlid,Mexico/Central America/Caribbean,prescreen,NE,GBIF treats name as synonym of Nosferatu bartoni; not shortlisted
+,Herichthys labridens,Curve-bar cichlid,Mexico/Central America/Caribbean,prescreen,NE,GBIF treats name as synonym of Nosferatu labridens; not shortlisted
+,Heterodontus quoyi,Galapagos bullhead shark,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Hippocampus denise,Denise's pygmy seahorse,SE Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Hippocampus erectus,Lined seahorse,Mexico/Central America/Caribbean,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Hippocampus fisheri,Fisher's seahorse,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Hippocampus ingens,Pacific seahorse,Pacific islands,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Hippocampus kelloggi,Kellogg's seahorse,Middle East/Central Asia,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Hippocampus satomiae,Satomi's pygmy seahorse,SE Asia,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Holanthias caudalis,St Helena splitfin,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Holohalaelurus favus,Honeycomb izak,Africa,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Horaglanis krishnai,Blind well catfish,South Asia,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Hypoplectrus maya,Maya hamlet,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Hyporthodus quernus,Hawaiian grouper,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Ichthyoelephas longirostris,Bocachico of the Magdalena,South America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Iranocypris typhlops,Iran cave barb,Middle East/Central Asia,prescreen,VU,GBIF treats name as synonym of Garra typhlops; not shortlisted
+,Kalyptodoras bahiensis,Bahia driftwood catfish,South America,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Knipowitschia punctatissima,Italian spring goby,Europe,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Konia dikume,Dikume,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Konia eisentrauti,Konye,Africa,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Kryptoglanis shajii,Kryptoglanis,South Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Kuhlia xenura,Hawaiian flagtail,Pacific islands,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Labeo lankae,Orange-fin labeo,South Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Labeobarbus dainellii,Lake Tana barb,Africa,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Labeobarbus megastoma,Lake Tana large-mouth barb,Africa,prescreen,LC,IUCN LC: fails rarity rule
+,Labeobarbus seeberi,Clanwilliam yellowfish,Africa,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Labrisomus dendriticus,Galapagos weed blenny,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Ladigesocypris ghigii,Rhodes minnow,Europe,prescreen,NE,GBIF treats name as synonym of Squalius ghigii; not shortlisted
+,Lampetra zanandreai,Po brook lamprey,Europe,prescreen,NE,GBIF treats name as synonym of Lethenteron zanandreai; not shortlisted
+,Lamprologus lethops,Blind Congo cichlid,Africa,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Lentipes kaaea,Kaaea lentipes,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Lepidonotothen squamifrons,Grey rockcod,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Lepidopygopsis typus,Peninsular hilltrout,South Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Limia perugiae,Perugia's limia,Mexico/Central America/Caribbean,prescreen,LC,IUCN LC: fails rarity rule
+,Lucifuga spelaeotes,Bahamas cavefish,Mexico/Central America/Caribbean,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Lucifuga subterranea,Cuban cusk-eel,Mexico/Central America/Caribbean,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Luciobarbus brachycephalus,Aral barbel,Middle East/Central Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Luciobarbus yahyaouii,Moroccan barb,Africa,prescreen,LC,IUCN LC: fails rarity rule
+,Luciobrama macrocephalus,Long spiky-head carp,East Asia,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Lythrypnus gilberti,Gilbert's goby,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Maccullochella ikei,Eastern freshwater cod,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Maccullochella macquariensis,Trout cod,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Maccullochella mariensis,Mary River cod,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Macquaria australasica,Macquarie perch,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Malacoctenus brunoi,Bruno's blenny,Remote Atlantic & Indian Ocean islands / open seas,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Mauligobius maderensis,Madeiran goby,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Meda fulgida,Spikedace,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Megupsilon aporus,Catarina pupfish,Mexico/Central America/Caribbean,prescreen,EX,IUCN EX (extinct) per GBIF:IUCN
+,Melanochromis chipokae,Chipokae mbuna,Africa,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Melanotaenia eachamensis,Lake Eacham rainbowfish,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Melanotaenia herbertaxelrodi,Lake Tebera rainbowfish,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Melanotaenia parva,Lake Kurumoi rainbowfish,Australia/NZ/New Guinea,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Melanotaenia praecox,Dwarf neon rainbowfish,Australia/NZ/New Guinea,prescreen,LC,IUCN LC: fails rarity rule
+,Menidia extensa,Waccamaw silverside,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Micropterus cataractae,Shoal bass,North America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Milyeringa veritas,Blind gudgeon,Australia/NZ/New Guinea,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Mimagoniates rheocharis,Rio croaking tetra,South America,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Mirogrex terraesanctae,Kinneret bleak,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Mobula mobular,Giant devil ray,Europe,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Mogurnda furva,Black kutubu gudgeon,Australia/NZ/New Guinea,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Myripristis gildi,Clipperton soldierfish,Pacific islands,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nandopsis haitiensis,Haitian cichlid,Mexico/Central America/Caribbean,prescreen,LC,IUCN LC: fails rarity rule
+,Nandopsis ramsdeni,Ramsden's cichlid,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Nannatherina balstoni,Balston's pygmy perch,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nannoperca obscura,Yarra pygmy perch,Australia/NZ/New Guinea,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Nannoperca oxleyana,Oxleyan pygmy perch,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nannoperca vittata,Western pygmy perch,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nemadactylus monodactylus,Five-fingered morwong,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Neochanna apoda,Brown mudfish,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Neochanna diversus,Black mudfish,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Neolissochilus thienemanni,Batak fish,SE Asia,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nothobranchius furzeri,Turquoise killifish,Africa,prescreen,LC,IUCN LC: fails rarity rule
+,Nothobranchius guentheri,Redtail notho,Africa,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Nothobranchius rachovii,Rachow's nothobranch,Africa,prescreen,LC,IUCN LC: fails rarity rule
+,Notothenia rossii,Marbled rockcod,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Notropis mekistocholas,Cape Fear shiner,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Noturus baileyi,Smoky madtom,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Noturus flavipinnis,Yellowfin madtom,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Ogcocephalus darwini,Red-lipped batfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Ogcocephalus porrectus,Roughback batfish of Cocos,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Ogilbia pearsei,Blind brotula,Mexico/Central America/Caribbean,prescreen,NT,GBIF treats name as synonym of Typhliasina pearsei; not shortlisted
+,Oncorhynchus formosanus,Formosan landlocked salmon,East Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Oncorhynchus gilae,Gila trout,North America,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Ophioblennius clippertonensis,Clipperton blenny,Pacific islands,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Opistognathus galapagensis,Galapagos jawfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Oreochromis esculentus,Singida tilapia,Africa,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Oreochromis jipe,Jipe tilapia,Africa,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Oreochromis karongae,Karonga tilapia,Africa,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Oreochromis variabilis,Victoria tilapia,Africa,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Orestias agassizii,Agassiz's orestias,South America,prescreen,LC,IUCN LC: fails rarity rule
+,Orestias albus,White orestias,South America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Orestias chungarensis,Chungara orestias,South America,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Orestias ispi,Ispi,South America,prescreen,LC,IUCN LC: fails rarity rule
+,Orestias luteus,Yellow Titicaca orestias,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Ossubtus xinguensis,Eaglebeak pacu,South America,prescreen,NE,no exact GBIF match for this name
+,Ostracion whitleyi,Whitley's boxfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Oxylapia polli,Nandahamanga,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Oxynoemacheilus insignis,Galilee loach,Middle East/Central Asia,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pachypanchax nuchimaculatus,Spotted-neck pachypanchax,Madagascar,prescreen,EN,GBIF treats name as synonym of Pachypanchax omalonotus; not shortlisted
+,Pachypanchax varatraza,Varatraza pachypanchax,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Padogobius nigricans,Arno goby,Europe,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Paedocypris progenetica,Dwarf minnow,SE Asia,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Panaque cochliodon,Blue-eyed pleco,South America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pandaka pygmaea,Dwarf pygmy goby,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pangasius sanitwongsei,Giant pangasius,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pangio bhujia,Dragon eel loach,South Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Paragalaxias mesotes,Arthurs paragalaxias,Australia/NZ/New Guinea,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Paralabidochromis chromogynos,Hunchback Victoria cichlid,Africa,prescreen,VU,GBIF treats name as synonym of Haplochromis chromogynos; not shortlisted
+,Paraplesiops bleekeri,Eastern blue devil,Australia/NZ/New Guinea,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Paretroplus dambabe,Dambabe,Madagascar,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Paretroplus lamenabe,Big red damba,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Paretroplus maromandia,Maromandia damba,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Paretroplus nourissati,Lamena,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Paretroplus petiti,Kotsovato,Madagascar,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Parosphromenus harveyi,Harvey's licorice gourami,SE Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Perca schrenkii,Balkhash perch,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Percina rex,Roanoke logperch,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Percina tanasi,Snail darter,North America,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pethia bandula,Bandula barb,South Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Pethia cumingii,Cuming's barb,South Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Phenacostethus smithi,Pygmy priapium fish,SE Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Phycodurus eques,Leafy seadragon,Australia/NZ/New Guinea,prescreen,LC,IUCN LC: fails rarity rule
+,Phyllopteryx dewysea,Ruby seadragon,Australia/NZ/New Guinea,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Plagopterus argentissimus,Woundfin,North America,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Poblana alchichica,Alchichica silverside,Mexico/Central America/Caribbean,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Polysteganus undulosus,Seventy-four seabream,Africa,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Pontinus nigropunctatus,St Helena deepwater scorpionfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Potamotrygon albimaculata,Tapajos river stingray,South America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Potamotrygon magdalenae,Magdalena river stingray,South America,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Prietella phreatophila,Mexican blindcat,Mexico/Central America/Caribbean,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Priolepis ascensionis,Ascension goby,Remote Atlantic & Indian Ocean islands / open seas,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Probarbus jullieni,Jullien's golden carp,SE Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Procypris rabaudi,Rock carp,East Asia,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Prognathodes obliquus,St Paul's butterflyfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Prognathodes tinkeri,Tinker's butterflyfish,Pacific islands,prescreen,NE,no exact GBIF match for this name
+,Protogobius attiti,Attiti's goby,Pacific islands,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Prototroctes maraena,Australian grayling,Australia/NZ/New Guinea,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pseudophoxinus libani,Lebanon minnow,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Pseudoplatystoma magdaleniatum,Magdalena tiger catfish,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Pseudopungtungia nigra,Korean black shiner,East Asia,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Pseudoscaphirhynchus hermanni,Dwarf Amu Darya shovelnose,Middle East/Central Asia,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Ptychocheilus lucius,Colorado pikeminnow,North America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Ptychochromoides katria,Katria,Madagascar,prescreen,EN,GBIF treats name as synonym of Katria katria; not shortlisted
+,Pundamilia nyererei,Nyerere's Victoria cichlid,Africa,prescreen,LC,IUCN LC: fails rarity rule
+,Pungitius hellenicus,Greek stickleback,Europe,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Raja herwigi,Cape Verde skate,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Rheocles alaotrensis,Alaotra rainbowfish,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Rheocles derhami,Derham's rheocles,Madagascar,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Rheocles sikorae,Sikora's rheocles,Madagascar,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Rheocles wrightae,Wright's rheocles,Madagascar,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Rhodeus suigensis,Suigen bitterling,East Asia,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Rutilus kutum,Caspian kutum,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Rutilus pigus,Pigo,Europe,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Salmo caspius,Caspian trout,Middle East/Central Asia,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Salmo cettii,Mediterranean trout,Europe,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Salmo ischchan,Sevan trout,Middle East/Central Asia,prescreen,EX,IUCN EX (extinct) per GBIF:IUCN
+,Salmo platycephalus,Flathead trout,Middle East/Central Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Salmo tigridis,Tigris trout,Middle East/Central Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Salmothymus ohridanus,Ohrid belvica,Europe,prescreen,EN,GBIF treats name as synonym of Salmo ohridanus; not shortlisted
+,Salvelinus thingvallensis,Thingvalla charr,Europe,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Salvethymus svetovidovi,Long-finned charr,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Sandelia bainsii,Eastern Cape rocky,Africa,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Sarotherodon linnellii,Blackfin tilapia of Barombi Mbo,Africa,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Scaphirhynchus albus,Pallid sturgeon,North America,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Scarus guacamaia,Rainbow parrotfish,Mexico/Central America/Caribbean,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Schistura oedipus,Mae Hong Son blind loach,SE Asia,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Schistura papulifera,Krem Mawmluh cave loach,South Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Schizothorax niger,Dal Lake snowtrout,South Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Scleropages inscriptus,Myanmar arowana,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Scleropages leichardti,Southern saratoga,Australia/NZ/New Guinea,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Scorpaena mellissii,Melliss's scorpionfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Sebastes levis,Cowcod,North America,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Sedercypris calidus,Clanwilliam redfin,Africa,prescreen,NT,GBIF treats name as synonym of Pseudobarbus calidus; not shortlisted
+,Sedercypris erubescens,Twee River redfin,Africa,prescreen,CR,GBIF treats name as synonym of Pseudobarbus erubescens; not shortlisted
+,Sicyopterus aiensis,Aien sicyopterus,Pacific islands,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Sicyopterus franouxi,Franoux's goby,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Sicyopus zosterophorum,Banded sicyopus,Pacific islands,prescreen,NE,no exact GBIF match for this name
+,Similiparma lurida,Canary damsel,Remote Atlantic & Indian Ocean islands / open seas,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Sinocyclocheilus anshuiensis,Anshui golden-line barbel,East Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Sinocyclocheilus grahami,Golden-line barbel,East Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Sinocyclocheilus hyalinus,Translucent golden-line barbel,East Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Sinocyclocheilus tianlinensis,Tianlin golden-line barbel,East Asia,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Siphateles mohavensis,Mohave tui chub,North America,prescreen,LC,IUCN LC: fails rarity rule
+,Skiffia francesae,Golden skiffia,Mexico/Central America/Caribbean,prescreen,EW,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Skiffia multipunctata,Spotted skiffia,Mexico/Central America/Caribbean,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Smilosicyopus chloe,Chloe's goby,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Sparisoma frondosum,Agassiz's parrotfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Squalius lepidus,Mesopotamian chub,Middle East/Central Asia,prescreen,LC,IUCN LC: fails rarity rule
+,Squalius torgalensis,Arade chub,Europe,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Squatina occulta,Hidden angelshark,South America,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Starksia galapagensis,Galapagos starksia,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes arcifrons,Galapagos yellowtail damselfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes beebei,Galapagos ringtail damselfish,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes imbricatus,Cape Verde gregory,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes lubbocki,Lubbock's gregory,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes sanctipauli,St Paul's gregory,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Stegastes trindadensis,Trindade gregory,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Steindachneridion parahybae,Paraiba River surubim,South America,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Stenogobius hawaiiensis,O'opu naniha,Pacific islands,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Stiphodon rutilaureus,Golden-red stiphodon,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Stiphodon sapphirinus,Sapphire stiphodon,Pacific islands,prescreen,LC,IUCN LC: fails rarity rule
+,Stomatepia mariae,Nsess,Africa,prescreen,CR,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Systomus martenstyni,Martenstyn's barb,South Asia,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Takifugu chinensis,Chinese puffer,East Asia,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Tandanus bostocki,Freshwater cobbler,Australia/NZ/New Guinea,prescreen,NT,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Tanichthys micagemmae,Vietnamese cardinal minnow,SE Asia,prescreen,DD,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Telestes polylepis,Croatian pijor,Europe,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Telmatherina antoniae,Sharpfin sailfin silverside,SE Asia,prescreen,NT,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Telmatherina ladigesi,Celebes rainbowfish,SE Asia,prescreen,VU,GBIF treats name as synonym of Marosatherina ladigesi; not shortlisted
+,Teramulus kieneri,Kiener's teramulus,Madagascar,prescreen,LC,IUCN LC: fails rarity rule
+,Thalassoma ascensionis,Ascension wrasse,Remote Atlantic & Indian Ocean islands / open seas,prescreen,DD,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Thalassoma noronhanum,Noronha wrasse,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
+,Thunnus maccoyii,Southern bluefin tuna,Remote Atlantic & Indian Ocean islands / open seas,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Thymallus brevirostris,Mongolian grayling,East Asia,prescreen,NE,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Thymallus nigrescens,Lake Hovsgol grayling,East Asia,prescreen,NE,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Tiaroga cobitis,Loach minnow,North America,prescreen,VU,GBIF treats name as synonym of Rhinichthys cobitis; not shortlisted
+,Tor putitora,Golden mahseer,South Asia,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Trichomycterus itacarambiensis,Itacarambi cave catfish,South America,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Triplophysa rosa,Wulong blind loach,East Asia,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Troglichthys rosae,Ozark cavefish,North America,prescreen,NT,GBIF treats name as synonym of Amblyopsis rosae; not shortlisted
+,Troglocobitis starostini,Kugitang blind loach,Middle East/Central Asia,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Trogloglanis pattersoni,Toothless blindcat,North America,prescreen,VU,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Typhleotris pauliani,Pauliani blind gudgeon,Madagascar,prescreen,CR,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Typhlias pearsei,Blind brotula,Mexico/Central America/Caribbean,prescreen,NT,GBIF treats name as synonym of Typhliasina pearsei; not shortlisted
+,Typhlogarra widdowsoni,Iraq blind barb,Middle East/Central Asia,prescreen,CR,GBIF treats name as synonym of Garra widdowsoni; not shortlisted
+,Uegitglanis zammaranoi,Somali blind catfish,Africa,prescreen,VU,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Xenoophorus captivus,Relict splitfin,Mexico/Central America/Caribbean,prescreen,EN,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Xiphophorus gordoni,Northern platyfish,Mexico/Central America/Caribbean,prescreen,EN,"prescreen: no openly licensed photo found (iNat open-licence obs = 0, no usable Wikipedia lead image)"
+,Xiphophorus meyeri,Marbled swordtail,Mexico/Central America/Caribbean,prescreen,EW,prescreen: passed screen but not shortlisted (regional/visual caps or weaker range data)
+,Xyrichtys blanchardi,Marmalade razorfish,Remote Atlantic & Indian Ocean islands / open seas,prescreen,LC,IUCN LC: fails rarity rule
