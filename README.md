@@ -24,4 +24,10 @@ npm run smoke       # browser playthrough and layout audit against the preview s
 
 ## Deploy
 
-`render.yaml` is a Render Blueprint for a static site. In Render, choose **New → Blueprint**, pick this repository, and apply. Every push to `main` redeploys.
+`render.yaml` is a Render Blueprint for a free static site.
+
+1. In the [Render Dashboard](https://dashboard.render.com), connect your GitHub account if you haven't (Render asks the first time you pick a repo).
+2. Click **New → Blueprint**, find this repository and click **Connect**.
+3. Give the Blueprint a name, keep the branch as `main`, and click **Deploy Blueprint**.
+
+The site is served at `https://glub.onrender.com` (or a similar `onrender.com` name if that one is taken). Every push to `main` redeploys it. A custom domain can be added on the site's **Settings** page.

@@ -6,7 +6,12 @@ services:
     branch: main
     buildCommand: npm ci && npm run build
     staticPublishPath: ./dist
-    pullRequestPreviewsEnabled: false
+    envVars:
+      # The build command installs from the lockfile itself, so skip Render's own install step.
+      - key: SKIP_INSTALL_DEPS
+        value: "true"
+      - key: NODE_VERSION
+        value: "24"
     headers:
       # Fish data and the schedule change with each deploy; check for a fresh copy every load.
       - path: /data/*
