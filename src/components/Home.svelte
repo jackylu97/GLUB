@@ -44,7 +44,7 @@
 
 <main class="home">
   <section class="pitch">
-    <h1 tabindex="-1" bind:this={heading}>Five rare fish have lost their addresses.</h1>
+    <h1 tabindex="-1" bind:this={heading}>Think you know fish?<br />You don't.</h1>
     <p class="how">
       For each fish, study the photo and hints, then tap the world map where you think it lives. You get one pin per
       fish. A pin inside its native range scores 1,000 points; the further away it lands, the fewer points you get.

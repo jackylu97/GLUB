@@ -148,7 +148,7 @@ img {
   color: var(--butter);
   background: var(--ink);
   border-block: 4px solid var(--ink);
-  animation: 1.6s cubic-bezier(0.7, 0, 0.2, 1) both;
+  animation: 0.8s cubic-bezier(0.7, 0, 0.2, 1) both;
 }
 
 .fx-flood-row:nth-child(3n + 2) {

@@ -15,6 +15,7 @@
   import { burst, flood, shake } from './lib/fx';
   import { applyGuess, currentIndex, newDay, recordFinish, total, type DayState } from './lib/game';
   import type { LatLng } from './lib/geo';
+  import { MAX_POINTS } from './lib/score';
   import { loadDay, loadStats, saveDay, saveStats } from './lib/storage';
   import type { GameFish } from './lib/types';
 
@@ -37,6 +38,8 @@
   let stale = $state(false);
   let announcement = $state('');
   let revealedAt = 0;
+  /** Set once "See results" is pressed, so a second press can't start a second flood. */
+  let finishing = false;
   let page: HTMLDivElement;
   let chart: ChartMap | undefined = $state();
 
@@ -76,6 +79,7 @@
     activeDay = d;
     revealing = null;
     pin = null;
+    finishing = false;
   }
 
   /** Routes: '' front page, '#archive' back issues, '#no-N' an issue (today's or a back issue). */
@@ -176,14 +180,6 @@
         stats = recordFinish(stats, dayState);
         saveStats(stats);
       }
-      // The fifth fish goes straight to the results, through a wall of glubs.
-      flood(() => {
-        view = 'summary';
-        revealing = null;
-        pin = null;
-        window.scrollTo({ top: 0 });
-      });
-      return;
     }
 
     revealing = i;
@@ -198,6 +194,18 @@
   async function next() {
     // The Next button appears where Cast was; ignore the second half of a double-click.
     if (performance.now() - revealedAt < 450) return;
+    if (done) {
+      // After the fifth answer, the results arrive through a wall of glubs.
+      if (finishing) return;
+      finishing = true;
+      flood(() => {
+        view = 'summary';
+        revealing = null;
+        pin = null;
+        window.scrollTo({ top: 0 });
+      });
+      return;
+    }
     revealing = null;
     pin = null;
     await tick();
@@ -258,7 +266,13 @@
         <div class="under">
           <div class="area-t"><TideTable {fish} {dayState} active={shownIndex} /></div>
           <div class="area-c">
-            {#if shownGuess}
+            {#if shownGuess && done}
+              <CastButton
+                label="See results"
+                detail={`Total: ${fmt(total(dayState))} of ${fmt(fish.length * MAX_POINTS)} points`}
+                onclick={next}
+              />
+            {:else if shownGuess}
               <CastButton label="Next fish" detail={`Fish ${shownIndex + 2} of ${fish.length}`} onclick={next} />
             {:else}
               <CastButton

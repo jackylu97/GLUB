@@ -79,27 +79,35 @@ async function playDay(page, { tap, shots, width }) {
       await audit(page, `${width} aim`);
       await page.screenshot({ path: `${OUT}/${shots}-aim.png`, fullPage: true });
     }
+    // A double-click on Cast must not skip the reveal, including on the fifth fish.
+    await page.click('button.coupon', { clickCount: 1 });
+    await sleep(60);
+    await page.click('button.coupon', { clickCount: 1 }).catch(() => {});
+    await page.waitForSelector('#answer-heading');
+    await sleep(1600);
+    assert(await page.$('#answer-heading'), `fish ${i + 1}: the reveal was skipped by a double-click`);
+    assert(
+      (await page.$eval('.result', (el) => el.textContent)).includes('points'),
+      `fish ${i + 1}: the reveal should show the score`,
+    );
+    if (i === 0 && shots) {
+      await audit(page, `${width} reveal`);
+      await page.screenshot({ path: `${OUT}/${shots}-reveal.png`, fullPage: true });
+    }
     if (i < 4) {
-      // A double-click on Cast must not skip the reveal.
-      await page.click('button.coupon', { clickCount: 1 });
-      await sleep(60);
-      await page.click('button.coupon', { clickCount: 1 }).catch(() => {});
-      await page.waitForSelector('#answer-heading');
-      await sleep(1600);
-      assert(await page.$('#answer-heading'), `fish ${i + 1}: the reveal was skipped by a double-click`);
-      if (i === 0 && shots) {
-        await audit(page, `${width} reveal`);
-        await page.screenshot({ path: `${OUT}/${shots}-reveal.png`, fullPage: true });
-      }
       await page.click('button.coupon');
       await page.waitForSelector('#round-heading');
     } else {
+      // The fifth fish shows its score first; the results come after a button press.
+      const label = await page.$eval('button.coupon', (b) => b.textContent);
+      assert(label.includes('See results'), `fish 5: expected a See results button, found "${label}"`);
+      assert(!(await page.$('#summary-heading')), 'fish 5: the results appeared before the player asked for them');
       await page.click('button.coupon');
     }
   }
-  // The fifth cast goes straight to the results.
+  await page.waitForSelector('#summary-heading', { timeout: 8000 });
   await page.waitForFunction(() => document.body.innerText.includes('/ 5,000'), { timeout: 8000 });
-  await sleep(2200);
+  await sleep(1200);
 }
 
 const browser = await puppeteer.launch({ executablePath: CHROME, headless: true });
@@ -152,7 +160,7 @@ try {
   await audit(page, '1440 summary');
   await page.screenshot({ path: `${OUT}/desktop-summary.png`, fullPage: true });
   await page.click('button.home');
-  await page.waitForFunction(() => document.body.innerText.includes('lost their addresses'));
+  await page.waitForFunction(() => document.body.innerText.includes('Think you know fish?'));
   await page.reload({ waitUntil: 'networkidle0' });
   await page.waitForFunction(() => document.body.innerText.toLowerCase().includes('see results'));
   console.log('desktop ok: day played, drag ignored, double-click guarded, front page and reload work');

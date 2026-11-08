@@ -42,6 +42,12 @@ export function burst(x: number, y: number, count = 28) {
 }
 
 /** Bands of GLUB GLUB GLUB sweep across the whole screen. `onCovered` runs while the screen is hidden. */
+/** Flood timing: each row sweeps in and out over FLOOD_ROW_MS; the view swaps once the rows cover the screen. */
+const FLOOD_ROW_MS = 800;
+const FLOOD_STAGGER_MS = 22;
+const FLOOD_COVERED_MS = 380;
+const FLOOD_DONE_MS = 850;
+
 export function flood(onCovered: () => void) {
   if (reducedMotion()) {
     onCovered();
@@ -54,11 +60,12 @@ export function flood(onCovered: () => void) {
   for (let i = 0; i < rows; i++) {
     const row = document.createElement('div');
     row.className = `fx-flood-row ${i % 2 ? 'from-right' : 'from-left'}`;
-    row.style.animationDelay = `${i * 45}ms`;
+    row.style.animationDelay = `${i * FLOOD_STAGGER_MS}ms`;
+    row.style.animationDuration = `${FLOOD_ROW_MS}ms`;
     row.textContent = 'GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB GLUB';
     layer.append(row);
   }
   document.body.append(layer);
-  setTimeout(onCovered, 760);
-  setTimeout(() => layer.remove(), 1700);
+  setTimeout(onCovered, FLOOD_COVERED_MS);
+  setTimeout(() => layer.remove(), FLOOD_DONE_MS);
 }
