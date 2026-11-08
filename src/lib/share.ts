@@ -8,11 +8,14 @@ export const BAND_EMOJI: Record<Band, string> = {
   boot: '🥾',
 };
 
+/** Where shared results send people. */
+export const SITE_URL = 'https://glub-jx7p.onrender.com/';
+
 const fmt = (n: number) => n.toLocaleString('en-US');
 
 export function shareText(dayNumber: number, results: { km: number; points: number }[]): string {
   const total = results.reduce((sum, r) => sum + r.points, 0);
   const max = results.length * MAX_POINTS;
   const catches = results.map((r) => BAND_EMOJI[bandFor(r.km)]).join('');
-  return `Glub No. ${dayNumber} · ${fmt(total)} / ${fmt(max)}\n${catches}\nglub glub`;
+  return `Glub No. ${dayNumber} · ${fmt(total)} / ${fmt(max)}\n${catches}\nglub glub\n${SITE_URL}`;
 }

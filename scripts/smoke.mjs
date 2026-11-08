@@ -174,11 +174,13 @@ try {
   assert(issues === 14, `archive should list 14 back issues, found ${issues}`);
   await audit(page, '1440 archive');
   await page.screenshot({ path: `${OUT}/desktop-archive.png`, fullPage: true });
+  // The newest back issue is yesterday's, whatever today's number is.
+  const backNo = await page.$eval('.issues li:first-child .no', (el) => el.textContent.trim());
   await page.click('.issues li:first-child button');
   await page.waitForSelector('#round-heading');
-  assert((await page.$eval('.masthead', (el) => el.textContent)).includes('No. 014'), 'a back issue shows its own number');
+  assert((await page.$eval('.masthead', (el) => el.textContent)).includes(backNo), 'a back issue shows its own number');
   await playDay(page, { tap: false, shots: '', width: 1440 });
-  assert((await page.$eval('#summary-heading', (el) => el.textContent)).includes('No. 014'), 'back issue summary is labelled');
+  assert((await page.$eval('#summary-heading', (el) => el.textContent)).includes(backNo), 'back issue summary is labelled');
   await page.$$eval('button.home', (els) => els.find((b) => b.textContent.includes('Archive')).click());
   await page.waitForSelector('.issues li .done');
   const playedAfter = await page.evaluate(() => JSON.parse(localStorage.getItem('glub:v2:stats') ?? '{}').played);
